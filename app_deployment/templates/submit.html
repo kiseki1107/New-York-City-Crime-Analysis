@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>NYC Crime</title>
+    </head>
+    <body>
+        <div>
+            NYC Crime:
+            <a href="{{ url_for('input')  }}">Input</a>
+        </div>
+
+        <hr>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <ul>
+            {% for message in messages %}
+            <li>{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+
+        {% block content %}
+            <h1>Input Info</h1>
+            <form action="" method="post" novalidate>
+                <p>
+                    {{ csrf_token() }}
+                    {{ form.hidden_tag() }}
+                </p>
+                <p>
+                    {{ form.temperature_high.label }}<br>
+                    {{ form.temperature_high(size=32) }}
+                    {% for error in form.temperature_high.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.temperature_low.label }}<br>
+                    {{ form.temperature_low(size=32) }}
+                    {% for error in form.temperature_low.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.zipcode.label }}<br>
+                    {{ form.zipcode(size=32) }}
+                    {% for error in form.zipcode.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.day.label }}<br>
+                    {{ form.day }}
+                    {% for error in form.day.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.weekday.label }}<br>
+                    {{ form.weekday }}
+                    {% for error in form.weekday.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.month.label }}<br>
+                    {{ form.month }}
+                    {% for error in form.month.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>
+                    {{ form.holiday.label }}<br>
+                    {{ form.holiday }}
+                    {% for error in form.holiday.errors %}
+                    <span style="color: red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>{{ form.submit() }}</p>
+            </form>
+        {% endblock %}
+    </body>
+</html>

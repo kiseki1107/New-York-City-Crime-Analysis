@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        Results
+    </title>
+</head>
+<body>
+    <div>
+        {% block content %}
+            {{ form.hidden_tag() }}
+            <br>
+            {{ csrf_token() }}
+            <br>
+            <hr>
+            <h1>Results:</h1>
+            <p>Temperature High:{{ results.temp_high }}</p>
+            <p>Temperature Low:{{ results.temp_low }}</p>
+            <p>Zipcode:{{ results.zipcode_result }}</p>
+            <p>Day of Month:{{ results.day_result }}</p>
+            <p>Day of Week:{{ results.weekday_result }}</p>
+            <p>Month:{{ results.month_result }}</p>
+            <p>Holiday:{{ results.holiday_result}}</p>
+            <p>Predicted:{{ predict.predicted_temp_high_data }}</p>
+        {% endblock %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,4384 @@
+date,week day,Month,TMAX,TMIN,holiday
+1/1/2006,Sunday,January ,42,32,holiday
+1/2/2006,Monday,January ,48,39,No Holiday
+1/3/2006,Tuesday,January ,40,33,No Holiday
+1/4/2006,Wednesday,January ,38,29,No Holiday
+1/5/2006,Thursday,January ,50,37,No Holiday
+1/6/2006,Friday,January ,43,30,No Holiday
+1/7/2006,Saturday,January ,35,25,No Holiday
+1/8/2006,Sunday,January ,46,34,No Holiday
+1/9/2006,Monday,January ,60,43,No Holiday
+1/10/2006,Tuesday,January ,49,41,No Holiday
+1/11/2006,Wednesday,January ,52,42,No Holiday
+1/12/2006,Thursday,January ,57,45,No Holiday
+1/13/2006,Friday,January ,54,43,No Holiday
+1/14/2006,Saturday,January ,57,31,No Holiday
+1/15/2006,Sunday,January ,32,16,No Holiday
+1/16/2006,Monday,January ,32,16,holiday
+1/17/2006,Tuesday,January ,44,26,No Holiday
+1/18/2006,Wednesday,January ,58,36,No Holiday
+1/19/2006,Thursday,January ,47,34,No Holiday
+1/20/2006,Friday,January ,61,42,No Holiday
+1/21/2006,Saturday,January ,63,38,No Holiday
+1/22/2006,Sunday,January ,43,33,No Holiday
+1/23/2006,Monday,January ,40,35,No Holiday
+1/24/2006,Tuesday,January ,46,35,No Holiday
+1/25/2006,Wednesday,January ,42,34,No Holiday
+1/26/2006,Thursday,January ,35,26,No Holiday
+1/27/2006,Friday,January ,43,24,No Holiday
+1/28/2006,Saturday,January ,58,37,No Holiday
+1/29/2006,Sunday,January ,53,44,No Holiday
+1/30/2006,Monday,January ,64,41,No Holiday
+1/31/2006,Tuesday,January ,42,39,No Holiday
+2/1/2006,Wednesday,February,41,36,No Holiday
+2/2/2006,Thursday,February,52,38,No Holiday
+2/3/2006,Friday,February,62,46,No Holiday
+2/4/2006,Saturday,February,53,43,No Holiday
+2/5/2006,Sunday,February,55,37,No Holiday
+2/6/2006,Monday,February,39,34,No Holiday
+2/7/2006,Tuesday,February,43,31,No Holiday
+2/8/2006,Wednesday,February,36,28,No Holiday
+2/9/2006,Thursday,February,36,23,No Holiday
+2/10/2006,Friday,February,37,26,No Holiday
+2/11/2006,Saturday,February,36,28,No Holiday
+2/12/2006,Sunday,February,28,23,No Holiday
+2/13/2006,Monday,February,36,19,No Holiday
+2/14/2006,Tuesday,February,41,28,No Holiday
+2/15/2006,Wednesday,February,56,36,No Holiday
+2/16/2006,Thursday,February,59,40,No Holiday
+2/17/2006,Friday,February,58,32,No Holiday
+2/18/2006,Saturday,February,35,15,No Holiday
+2/19/2006,Sunday,February,30,15,No Holiday
+2/20/2006,Monday,February,36,22,holiday
+2/21/2006,Tuesday,February,41,31,No Holiday
+2/22/2006,Wednesday,February,45,32,No Holiday
+2/23/2006,Thursday,February,48,38,No Holiday
+2/24/2006,Friday,February,42,28,No Holiday
+2/25/2006,Saturday,February,50,27,No Holiday
+2/26/2006,Sunday,February,29,18,No Holiday
+2/27/2006,Monday,February,30,18,No Holiday
+2/28/2006,Tuesday,February,33,22,No Holiday
+3/1/2006,Wednesday,March,41,27,No Holiday
+3/2/2006,Thursday,March,35,29,No Holiday
+3/3/2006,Friday,March,33,22,No Holiday
+3/4/2006,Saturday,March,39,24,No Holiday
+3/5/2006,Sunday,March,45,31,No Holiday
+3/6/2006,Monday,March,43,31,No Holiday
+3/7/2006,Tuesday,March,44,30,No Holiday
+3/8/2006,Wednesday,March,49,29,No Holiday
+3/9/2006,Thursday,March,51,41,No Holiday
+3/10/2006,Friday,March,74,47,No Holiday
+3/11/2006,Saturday,March,63,47,No Holiday
+3/12/2006,Sunday,March,55,49,No Holiday
+3/13/2006,Monday,March,62,50,No Holiday
+3/14/2006,Tuesday,March,62,39,No Holiday
+3/15/2006,Wednesday,March,45,37,No Holiday
+3/16/2006,Thursday,March,48,35,No Holiday
+3/17/2006,Friday,March,46,31,No Holiday
+3/18/2006,Saturday,March,42,29,No Holiday
+3/19/2006,Sunday,March,42,30,No Holiday
+3/20/2006,Monday,March,41,27,No Holiday
+3/21/2006,Tuesday,March,44,24,No Holiday
+3/22/2006,Wednesday,March,46,31,No Holiday
+3/23/2006,Thursday,March,54,34,No Holiday
+3/24/2006,Friday,March,52,39,No Holiday
+3/25/2006,Saturday,March,47,38,No Holiday
+3/26/2006,Sunday,March,51,37,No Holiday
+3/27/2006,Monday,March,58,38,No Holiday
+3/28/2006,Tuesday,March,56,42,No Holiday
+3/29/2006,Wednesday,March,63,40,No Holiday
+3/30/2006,Thursday,March,67,45,No Holiday
+3/31/2006,Friday,March,70,50,No Holiday
+4/1/2006,Saturday,April,75,53,No Holiday
+4/2/2006,Sunday,April,68,47,No Holiday
+4/3/2006,Monday,April,58,47,No Holiday
+4/4/2006,Tuesday,April,55,43,No Holiday
+4/5/2006,Wednesday,April,47,33,No Holiday
+4/6/2006,Thursday,April,53,39,No Holiday
+4/7/2006,Friday,April,66,45,No Holiday
+4/8/2006,Saturday,April,63,37,No Holiday
+4/9/2006,Sunday,April,58,37,No Holiday
+4/10/2006,Monday,April,62,41,No Holiday
+4/11/2006,Tuesday,April,68,45,No Holiday
+4/12/2006,Wednesday,April,64,50,No Holiday
+4/13/2006,Thursday,April,78,55,No Holiday
+4/14/2006,Friday,April,67,54,No Holiday
+4/15/2006,Saturday,April,80,52,No Holiday
+4/16/2006,Sunday,April,67,51,No Holiday
+4/17/2006,Monday,April,63,47,No Holiday
+4/18/2006,Tuesday,April,72,47,No Holiday
+4/19/2006,Wednesday,April,75,51,No Holiday
+4/20/2006,Thursday,April,83,55,No Holiday
+4/21/2006,Friday,April,62,47,No Holiday
+4/22/2006,Saturday,April,47,42,No Holiday
+4/23/2006,Sunday,April,62,44,No Holiday
+4/24/2006,Monday,April,62,47,No Holiday
+4/25/2006,Tuesday,April,71,48,No Holiday
+4/26/2006,Wednesday,April,60,41,No Holiday
+4/27/2006,Thursday,April,74,48,No Holiday
+4/28/2006,Friday,April,64,47,No Holiday
+4/29/2006,Saturday,April,64,45,No Holiday
+4/30/2006,Sunday,April,70,44,No Holiday
+5/1/2006,Monday,May,71,51,No Holiday
+5/2/2006,Tuesday,May,70,49,No Holiday
+5/3/2006,Wednesday,May,71,52,No Holiday
+5/4/2006,Thursday,May,82,53,No Holiday
+5/5/2006,Friday,May,80,64,No Holiday
+5/6/2006,Saturday,May,77,50,No Holiday
+5/7/2006,Sunday,May,67,46,No Holiday
+5/8/2006,Monday,May,63,53,No Holiday
+5/9/2006,Tuesday,May,62,53,No Holiday
+5/10/2006,Wednesday,May,69,53,No Holiday
+5/11/2006,Thursday,May,62,55,No Holiday
+5/12/2006,Friday,May,72,58,No Holiday
+5/13/2006,Saturday,May,71,53,No Holiday
+5/14/2006,Sunday,May,61,51,No Holiday
+5/15/2006,Monday,May,62,51,No Holiday
+5/16/2006,Tuesday,May,63,52,No Holiday
+5/17/2006,Wednesday,May,71,54,No Holiday
+5/18/2006,Thursday,May,73,57,No Holiday
+5/19/2006,Friday,May,61,50,No Holiday
+5/20/2006,Saturday,May,68,50,No Holiday
+5/21/2006,Sunday,May,70,50,No Holiday
+5/22/2006,Monday,May,64,48,No Holiday
+5/23/2006,Tuesday,May,68,45,No Holiday
+5/24/2006,Wednesday,May,73,52,No Holiday
+5/25/2006,Thursday,May,76,57,No Holiday
+5/26/2006,Friday,May,74,59,No Holiday
+5/27/2006,Saturday,May,83,64,No Holiday
+5/28/2006,Sunday,May,83,66,No Holiday
+5/29/2006,Monday,May,88,66,holiday
+5/30/2006,Tuesday,May,88,67,No Holiday
+5/31/2006,Wednesday,May,75,64,No Holiday
+6/1/2006,Thursday,June,86,64,No Holiday
+6/2/2006,Friday,June,82,66,No Holiday
+6/3/2006,Saturday,June,66,58,No Holiday
+6/4/2006,Sunday,June,68,57,No Holiday
+6/5/2006,Monday,June,71,58,No Holiday
+6/6/2006,Tuesday,June,72,59,No Holiday
+6/7/2006,Wednesday,June,65,57,No Holiday
+6/8/2006,Thursday,June,66,57,No Holiday
+6/9/2006,Friday,June,75,59,No Holiday
+6/10/2006,Saturday,June,67,56,No Holiday
+6/11/2006,Sunday,June,69,52,No Holiday
+6/12/2006,Monday,June,73,56,No Holiday
+6/13/2006,Tuesday,June,81,62,No Holiday
+6/14/2006,Wednesday,June,77,66,No Holiday
+6/15/2006,Thursday,June,80,65,No Holiday
+6/16/2006,Friday,June,85,63,No Holiday
+6/17/2006,Saturday,June,83,69,No Holiday
+6/18/2006,Sunday,June,91,71,No Holiday
+6/19/2006,Monday,June,88,74,No Holiday
+6/20/2006,Tuesday,June,83,71,No Holiday
+6/21/2006,Wednesday,June,83,69,No Holiday
+6/22/2006,Thursday,June,87,69,No Holiday
+6/23/2006,Friday,June,85,72,No Holiday
+6/24/2006,Saturday,June,74,69,No Holiday
+6/25/2006,Sunday,June,74,70,No Holiday
+6/26/2006,Monday,June,75,70,No Holiday
+6/27/2006,Tuesday,June,78,71,No Holiday
+6/28/2006,Wednesday,June,84,70,No Holiday
+6/29/2006,Thursday,June,83,65,No Holiday
+6/30/2006,Friday,June,80,63,No Holiday
+7/1/2006,Saturday,July,83,63,No Holiday
+7/2/2006,Sunday,July,87,70,No Holiday
+7/3/2006,Monday,July,87,72,No Holiday
+7/4/2006,Tuesday,July,87,77,holiday
+7/5/2006,Wednesday,July,79,68,No Holiday
+7/6/2006,Thursday,July,77,61,No Holiday
+7/7/2006,Friday,July,80,63,No Holiday
+7/8/2006,Saturday,July,82,69,No Holiday
+7/9/2006,Sunday,July,83,71,No Holiday
+7/10/2006,Monday,July,82,67,No Holiday
+7/11/2006,Tuesday,July,88,73,No Holiday
+7/12/2006,Wednesday,July,84,72,No Holiday
+7/13/2006,Thursday,July,83,71,No Holiday
+7/14/2006,Friday,July,87,69,No Holiday
+7/15/2006,Saturday,July,83,71,No Holiday
+7/16/2006,Sunday,July,92,73,No Holiday
+7/17/2006,Monday,July,95,77,No Holiday
+7/18/2006,Tuesday,July,95,71,No Holiday
+7/19/2006,Wednesday,July,86,71,No Holiday
+7/20/2006,Thursday,July,81,71,No Holiday
+7/21/2006,Friday,July,84,70,No Holiday
+7/22/2006,Saturday,July,80,71,No Holiday
+7/23/2006,Sunday,July,78,68,No Holiday
+7/24/2006,Monday,July,85,66,No Holiday
+7/25/2006,Tuesday,July,82,72,No Holiday
+7/26/2006,Wednesday,July,85,71,No Holiday
+7/27/2006,Thursday,July,88,74,No Holiday
+7/28/2006,Friday,July,89,75,No Holiday
+7/29/2006,Saturday,July,89,74,No Holiday
+7/30/2006,Sunday,July,89,77,No Holiday
+7/31/2006,Monday,July,90,74,No Holiday
+8/1/2006,Tuesday,August,95,79,No Holiday
+8/2/2006,Wednesday,August,97,83,No Holiday
+8/3/2006,Thursday,August,96,78,No Holiday
+8/4/2006,Friday,August,89,76,No Holiday
+8/5/2006,Saturday,August,89,72,No Holiday
+8/6/2006,Sunday,August,84,72,No Holiday
+8/7/2006,Monday,August,87,75,No Holiday
+8/8/2006,Tuesday,August,87,72,No Holiday
+8/9/2006,Wednesday,August,84,67,No Holiday
+8/10/2006,Thursday,August,84,67,No Holiday
+8/11/2006,Friday,August,78,65,No Holiday
+8/12/2006,Saturday,August,77,62,No Holiday
+8/13/2006,Sunday,August,80,60,No Holiday
+8/14/2006,Monday,August,85,66,No Holiday
+8/15/2006,Tuesday,August,80,69,No Holiday
+8/16/2006,Wednesday,August,85,67,No Holiday
+8/17/2006,Thursday,August,86,69,No Holiday
+8/18/2006,Friday,August,82,70,No Holiday
+8/19/2006,Saturday,August,82,69,No Holiday
+8/20/2006,Sunday,August,88,71,No Holiday
+8/21/2006,Monday,August,86,69,No Holiday
+8/22/2006,Tuesday,August,86,69,No Holiday
+8/23/2006,Wednesday,August,88,68,No Holiday
+8/24/2006,Thursday,August,83,66,No Holiday
+8/25/2006,Friday,August,74,66,No Holiday
+8/26/2006,Saturday,August,69,63,No Holiday
+8/27/2006,Sunday,August,74,62,No Holiday
+8/28/2006,Monday,August,77,70,No Holiday
+8/29/2006,Tuesday,August,71,64,No Holiday
+8/30/2006,Wednesday,August,73,62,No Holiday
+8/31/2006,Thursday,August,72,61,No Holiday
+9/1/2006,Friday,September,67,60,No Holiday
+9/2/2006,Saturday,September,66,59,No Holiday
+9/3/2006,Sunday,September,75,63,No Holiday
+9/4/2006,Monday,September,75,60,holiday
+9/5/2006,Tuesday,September,69,61,No Holiday
+9/6/2006,Wednesday,September,75,60,No Holiday
+9/7/2006,Thursday,September,80,61,No Holiday
+9/8/2006,Friday,September,81,66,No Holiday
+9/9/2006,Saturday,September,82,67,No Holiday
+9/10/2006,Sunday,September,73,62,No Holiday
+9/11/2006,Monday,September,70,56,No Holiday
+9/12/2006,Tuesday,September,70,52,No Holiday
+9/13/2006,Wednesday,September,67,56,No Holiday
+9/14/2006,Thursday,September,67,64,No Holiday
+9/15/2006,Friday,September,67,64,No Holiday
+9/16/2006,Saturday,September,78,64,No Holiday
+9/17/2006,Sunday,September,80,63,No Holiday
+9/18/2006,Monday,September,83,65,No Holiday
+9/19/2006,Tuesday,September,80,67,No Holiday
+9/20/2006,Wednesday,September,71,58,No Holiday
+9/21/2006,Thursday,September,68,52,No Holiday
+9/22/2006,Friday,September,69,53,No Holiday
+9/23/2006,Saturday,September,75,63,No Holiday
+9/24/2006,Sunday,September,79,67,No Holiday
+9/25/2006,Monday,September,72,62,No Holiday
+9/26/2006,Tuesday,September,73,57,No Holiday
+9/27/2006,Wednesday,September,73,56,No Holiday
+9/28/2006,Thursday,September,75,62,No Holiday
+9/29/2006,Friday,September,66,53,No Holiday
+9/30/2006,Saturday,September,66,49,No Holiday
+10/1/2006,Sunday,October,68,56,No Holiday
+10/2/2006,Monday,October,68,53,No Holiday
+10/3/2006,Tuesday,October,79,56,No Holiday
+10/4/2006,Wednesday,October,78,64,No Holiday
+10/5/2006,Thursday,October,66,52,No Holiday
+10/6/2006,Friday,October,57,52,No Holiday
+10/7/2006,Saturday,October,63,51,No Holiday
+10/8/2006,Sunday,October,71,51,No Holiday
+10/9/2006,Monday,October,78,55,holiday
+10/10/2006,Tuesday,October,76,57,No Holiday
+10/11/2006,Wednesday,October,63,59,No Holiday
+10/12/2006,Thursday,October,68,50,No Holiday
+10/13/2006,Friday,October,55,41,No Holiday
+10/14/2006,Saturday,October,59,43,No Holiday
+10/15/2006,Sunday,October,58,42,No Holiday
+10/16/2006,Monday,October,61,43,No Holiday
+10/17/2006,Tuesday,October,61,54,No Holiday
+10/18/2006,Wednesday,October,72,61,No Holiday
+10/19/2006,Thursday,October,68,57,No Holiday
+10/20/2006,Friday,October,66,47,No Holiday
+10/21/2006,Saturday,October,57,44,No Holiday
+10/22/2006,Sunday,October,59,46,No Holiday
+10/23/2006,Monday,October,55,44,No Holiday
+10/24/2006,Tuesday,October,52,41,No Holiday
+10/25/2006,Wednesday,October,55,42,No Holiday
+10/26/2006,Thursday,October,50,40,No Holiday
+10/27/2006,Friday,October,51,37,No Holiday
+10/28/2006,Saturday,October,67,46,No Holiday
+10/29/2006,Sunday,October,53,45,No Holiday
+10/30/2006,Monday,October,60,44,No Holiday
+10/31/2006,Tuesday,October,68,52,No Holiday
+11/1/2006,Wednesday,November,69,57,No Holiday
+11/2/2006,Thursday,November,60,43,No Holiday
+11/3/2006,Friday,November,47,36,No Holiday
+11/4/2006,Saturday,November,47,35,No Holiday
+11/5/2006,Sunday,November,50,37,No Holiday
+11/6/2006,Monday,November,56,41,No Holiday
+11/7/2006,Tuesday,November,59,47,No Holiday
+11/8/2006,Wednesday,November,59,56,No Holiday
+11/9/2006,Thursday,November,68,56,No Holiday
+11/10/2006,Friday,November,60,51,No Holiday
+11/11/2006,Saturday,November,66,49,holiday
+11/12/2006,Sunday,November,61,48,No Holiday
+11/13/2006,Monday,November,61,52,No Holiday
+11/14/2006,Tuesday,November,61,54,No Holiday
+11/15/2006,Wednesday,November,63,56,No Holiday
+11/16/2006,Thursday,November,69,59,No Holiday
+11/17/2006,Friday,November,64,48,No Holiday
+11/18/2006,Saturday,November,53,43,No Holiday
+11/19/2006,Sunday,November,48,42,No Holiday
+11/20/2006,Monday,November,45,38,No Holiday
+11/21/2006,Tuesday,November,46,35,No Holiday
+11/22/2006,Wednesday,November,46,38,No Holiday
+11/23/2006,Thursday,November,44,40,holiday
+11/24/2006,Friday,November,58,41,No Holiday
+11/25/2006,Saturday,November,53,40,No Holiday
+11/26/2006,Sunday,November,59,45,No Holiday
+11/27/2006,Monday,November,64,47,No Holiday
+11/28/2006,Tuesday,November,58,51,No Holiday
+11/29/2006,Wednesday,November,59,50,No Holiday
+11/30/2006,Thursday,November,69,58,No Holiday
+12/1/2006,Friday,December,70,49,No Holiday
+12/2/2006,Saturday,December,49,39,No Holiday
+12/3/2006,Sunday,December,46,35,No Holiday
+12/4/2006,Monday,December,41,31,No Holiday
+12/5/2006,Tuesday,December,37,29,No Holiday
+12/6/2006,Wednesday,December,49,31,No Holiday
+12/7/2006,Thursday,December,53,26,No Holiday
+12/8/2006,Friday,December,29,18,No Holiday
+12/9/2006,Saturday,December,38,24,No Holiday
+12/10/2006,Sunday,December,54,35,No Holiday
+12/11/2006,Monday,December,57,45,No Holiday
+12/12/2006,Tuesday,December,49,44,No Holiday
+12/13/2006,Wednesday,December,55,49,No Holiday
+12/14/2006,Thursday,December,57,46,No Holiday
+12/15/2006,Friday,December,52,44,No Holiday
+12/16/2006,Saturday,December,51,41,No Holiday
+12/17/2006,Sunday,December,56,42,No Holiday
+12/18/2006,Monday,December,59,44,No Holiday
+12/19/2006,Tuesday,December,45,36,No Holiday
+12/20/2006,Wednesday,December,45,34,No Holiday
+12/21/2006,Thursday,December,54,38,No Holiday
+12/22/2006,Friday,December,49,39,No Holiday
+12/23/2006,Saturday,December,59,48,No Holiday
+12/24/2006,Sunday,December,52,43,No Holiday
+12/25/2006,Monday,December,45,39,holiday
+12/26/2006,Tuesday,December,53,43,No Holiday
+12/27/2006,Wednesday,December,43,38,No Holiday
+12/28/2006,Thursday,December,48,36,No Holiday
+12/29/2006,Friday,December,48,37,No Holiday
+12/30/2006,Saturday,December,47,34,No Holiday
+12/31/2006,Sunday,December,45,33,No Holiday
+1/1/2007,Monday,January ,56,45,holiday
+1/2/2007,Tuesday,January ,50,41,No Holiday
+1/3/2007,Wednesday,January ,52,38,No Holiday
+1/4/2007,Thursday,January ,56,43,No Holiday
+1/5/2007,Friday,January ,62,53,No Holiday
+1/6/2007,Saturday,January ,72,54,No Holiday
+1/7/2007,Sunday,January ,54,44,No Holiday
+1/8/2007,Monday,January ,56,38,No Holiday
+1/9/2007,Tuesday,January ,44,34,No Holiday
+1/10/2007,Wednesday,January ,36,29,No Holiday
+1/11/2007,Thursday,January ,38,26,No Holiday
+1/12/2007,Friday,January ,48,37,No Holiday
+1/13/2007,Saturday,January ,56,45,No Holiday
+1/14/2007,Sunday,January ,46,41,No Holiday
+1/15/2007,Monday,January ,57,40,holiday
+1/16/2007,Tuesday,January ,55,22,No Holiday
+1/17/2007,Wednesday,January ,29,19,No Holiday
+1/18/2007,Thursday,January ,37,25,No Holiday
+1/19/2007,Friday,January ,41,31,No Holiday
+1/20/2007,Saturday,January ,32,21,No Holiday
+1/21/2007,Sunday,January ,29,19,No Holiday
+1/22/2007,Monday,January ,33,27,No Holiday
+1/23/2007,Tuesday,January ,36,28,No Holiday
+1/24/2007,Wednesday,January ,40,32,No Holiday
+1/25/2007,Thursday,January ,34,15,No Holiday
+1/26/2007,Friday,January ,22,9,No Holiday
+1/27/2007,Saturday,January ,41,20,No Holiday
+1/28/2007,Sunday,January ,41,30,No Holiday
+1/29/2007,Monday,January ,30,21,No Holiday
+1/30/2007,Tuesday,January ,35,21,No Holiday
+1/31/2007,Wednesday,January ,33,25,No Holiday
+2/1/2007,Thursday,February,34,26,No Holiday
+2/2/2007,Friday,February,38,32,No Holiday
+2/3/2007,Saturday,February,35,23,No Holiday
+2/4/2007,Sunday,February,28,17,No Holiday
+2/5/2007,Monday,February,18,8,No Holiday
+2/6/2007,Tuesday,February,25,11,No Holiday
+2/7/2007,Wednesday,February,25,12,No Holiday
+2/8/2007,Thursday,February,28,14,No Holiday
+2/9/2007,Friday,February,32,18,No Holiday
+2/10/2007,Saturday,February,33,23,No Holiday
+2/11/2007,Sunday,February,33,19,No Holiday
+2/12/2007,Monday,February,40,28,No Holiday
+2/13/2007,Tuesday,February,32,22,No Holiday
+2/14/2007,Wednesday,February,29,16,No Holiday
+2/15/2007,Thursday,February,24,15,No Holiday
+2/16/2007,Friday,February,29,14,No Holiday
+2/17/2007,Saturday,February,35,19,No Holiday
+2/18/2007,Sunday,February,34,18,No Holiday
+2/19/2007,Monday,February,30,12,holiday
+2/20/2007,Tuesday,February,47,29,No Holiday
+2/21/2007,Wednesday,February,49,39,No Holiday
+2/22/2007,Thursday,February,45,36,No Holiday
+2/23/2007,Friday,February,39,22,No Holiday
+2/24/2007,Saturday,February,42,20,No Holiday
+2/25/2007,Sunday,February,37,24,No Holiday
+2/26/2007,Monday,February,36,30,No Holiday
+2/27/2007,Tuesday,February,43,34,No Holiday
+2/28/2007,Wednesday,February,46,35,No Holiday
+3/1/2007,Thursday,March,46,33,No Holiday
+3/2/2007,Friday,March,58,35,No Holiday
+3/3/2007,Saturday,March,59,40,No Holiday
+3/4/2007,Sunday,March,40,33,No Holiday
+3/5/2007,Monday,March,41,21,No Holiday
+3/6/2007,Tuesday,March,21,11,No Holiday
+3/7/2007,Wednesday,March,23,12,No Holiday
+3/8/2007,Thursday,March,34,18,No Holiday
+3/9/2007,Friday,March,35,13,No Holiday
+3/10/2007,Saturday,March,57,32,No Holiday
+3/11/2007,Sunday,March,50,38,No Holiday
+3/12/2007,Monday,March,57,36,No Holiday
+3/13/2007,Tuesday,March,57,43,No Holiday
+3/14/2007,Wednesday,March,70,46,No Holiday
+3/15/2007,Thursday,March,67,36,No Holiday
+3/16/2007,Friday,March,36,26,No Holiday
+3/17/2007,Saturday,March,38,25,No Holiday
+3/18/2007,Sunday,March,39,27,No Holiday
+3/19/2007,Monday,March,43,30,No Holiday
+3/20/2007,Tuesday,March,50,33,No Holiday
+3/21/2007,Wednesday,March,40,26,No Holiday
+3/22/2007,Thursday,March,67,40,No Holiday
+3/23/2007,Friday,March,61,51,No Holiday
+3/24/2007,Saturday,March,54,42,No Holiday
+3/25/2007,Sunday,March,54,38,No Holiday
+3/26/2007,Monday,March,54,39,No Holiday
+3/27/2007,Tuesday,March,78,50,No Holiday
+3/28/2007,Wednesday,March,65,45,No Holiday
+3/29/2007,Thursday,March,57,38,No Holiday
+3/30/2007,Friday,March,68,39,No Holiday
+3/31/2007,Saturday,March,60,43,No Holiday
+4/1/2007,Sunday,April,50,42,No Holiday
+4/2/2007,Monday,April,56,42,No Holiday
+4/3/2007,Tuesday,April,63,42,No Holiday
+4/4/2007,Wednesday,April,42,40,No Holiday
+4/5/2007,Thursday,April,44,34,No Holiday
+4/6/2007,Friday,April,42,31,No Holiday
+4/7/2007,Saturday,April,43,31,No Holiday
+4/8/2007,Sunday,April,41,30,No Holiday
+4/9/2007,Monday,April,49,32,No Holiday
+4/10/2007,Tuesday,April,51,33,No Holiday
+4/11/2007,Wednesday,April,50,36,No Holiday
+4/12/2007,Thursday,April,44,39,No Holiday
+4/13/2007,Friday,April,49,42,No Holiday
+4/14/2007,Saturday,April,56,40,No Holiday
+4/15/2007,Sunday,April,55,40,No Holiday
+4/16/2007,Monday,April,48,38,No Holiday
+4/17/2007,Tuesday,April,51,42,No Holiday
+4/18/2007,Wednesday,April,51,42,No Holiday
+4/19/2007,Thursday,April,61,45,No Holiday
+4/20/2007,Friday,April,71,44,No Holiday
+4/21/2007,Saturday,April,79,45,No Holiday
+4/22/2007,Sunday,April,78,55,No Holiday
+4/23/2007,Monday,April,86,58,No Holiday
+4/24/2007,Tuesday,April,76,58,No Holiday
+4/25/2007,Wednesday,April,67,47,No Holiday
+4/26/2007,Thursday,April,61,46,No Holiday
+4/27/2007,Friday,April,56,47,No Holiday
+4/28/2007,Saturday,April,71,54,No Holiday
+4/29/2007,Sunday,April,67,55,No Holiday
+4/30/2007,Monday,April,80,52,No Holiday
+5/1/2007,Tuesday,May,71,51,No Holiday
+5/2/2007,Wednesday,May,68,50,No Holiday
+5/3/2007,Thursday,May,72,51,No Holiday
+5/4/2007,Friday,May,71,50,No Holiday
+5/5/2007,Saturday,May,73,51,No Holiday
+5/6/2007,Sunday,May,63,46,No Holiday
+5/7/2007,Monday,May,67,44,No Holiday
+5/8/2007,Tuesday,May,72,47,No Holiday
+5/9/2007,Wednesday,May,83,57,No Holiday
+5/10/2007,Thursday,May,77,61,No Holiday
+5/11/2007,Friday,May,77,60,No Holiday
+5/12/2007,Saturday,May,74,53,No Holiday
+5/13/2007,Sunday,May,68,49,No Holiday
+5/14/2007,Monday,May,70,49,No Holiday
+5/15/2007,Tuesday,May,84,56,No Holiday
+5/16/2007,Wednesday,May,85,59,No Holiday
+5/17/2007,Thursday,May,69,54,No Holiday
+5/18/2007,Friday,May,54,48,No Holiday
+5/19/2007,Saturday,May,57,50,No Holiday
+5/20/2007,Sunday,May,75,51,No Holiday
+5/21/2007,Monday,May,71,53,No Holiday
+5/22/2007,Tuesday,May,76,53,No Holiday
+5/23/2007,Wednesday,May,74,55,No Holiday
+5/24/2007,Thursday,May,84,58,No Holiday
+5/25/2007,Friday,May,90,64,No Holiday
+5/26/2007,Saturday,May,85,71,No Holiday
+5/27/2007,Sunday,May,86,66,No Holiday
+5/28/2007,Monday,May,83,67,holiday
+5/29/2007,Tuesday,May,80,61,No Holiday
+5/30/2007,Wednesday,May,84,61,No Holiday
+5/31/2007,Thursday,May,91,64,No Holiday
+6/1/2007,Friday,June,88,64,No Holiday
+6/2/2007,Saturday,June,89,71,No Holiday
+6/3/2007,Sunday,June,79,63,No Holiday
+6/4/2007,Monday,June,70,60,No Holiday
+6/5/2007,Tuesday,June,81,66,No Holiday
+6/6/2007,Wednesday,June,71,56,No Holiday
+6/7/2007,Thursday,June,75,54,No Holiday
+6/8/2007,Friday,June,85,64,No Holiday
+6/9/2007,Saturday,June,82,65,No Holiday
+6/10/2007,Sunday,June,72,62,No Holiday
+6/11/2007,Monday,June,84,63,No Holiday
+6/12/2007,Tuesday,June,83,65,No Holiday
+6/13/2007,Wednesday,June,66,57,No Holiday
+6/14/2007,Thursday,June,64,56,No Holiday
+6/15/2007,Friday,June,74,59,No Holiday
+6/16/2007,Saturday,June,81,60,No Holiday
+6/17/2007,Sunday,June,86,66,No Holiday
+6/18/2007,Monday,June,84,68,No Holiday
+6/19/2007,Tuesday,June,80,66,No Holiday
+6/20/2007,Wednesday,June,78,67,No Holiday
+6/21/2007,Thursday,June,80,60,No Holiday
+6/22/2007,Friday,June,74,61,No Holiday
+6/23/2007,Saturday,June,74,56,No Holiday
+6/24/2007,Sunday,June,81,57,No Holiday
+6/25/2007,Monday,June,80,67,No Holiday
+6/26/2007,Tuesday,June,91,72,No Holiday
+6/27/2007,Wednesday,June,90,70,No Holiday
+6/28/2007,Thursday,June,87,70,No Holiday
+6/29/2007,Friday,June,77,67,No Holiday
+6/30/2007,Saturday,June,81,63,No Holiday
+7/1/2007,Sunday,July,74,61,No Holiday
+7/2/2007,Monday,July,74,57,No Holiday
+7/3/2007,Tuesday,July,80,60,No Holiday
+7/4/2007,Wednesday,July,71,65,holiday
+7/5/2007,Thursday,July,78,67,No Holiday
+7/6/2007,Friday,July,83,67,No Holiday
+7/7/2007,Saturday,July,85,67,No Holiday
+7/8/2007,Sunday,July,89,71,No Holiday
+7/9/2007,Monday,July,92,76,No Holiday
+7/10/2007,Tuesday,July,92,74,No Holiday
+7/11/2007,Wednesday,July,85,70,No Holiday
+7/12/2007,Thursday,July,80,66,No Holiday
+7/13/2007,Friday,July,81,69,No Holiday
+7/14/2007,Saturday,July,84,66,No Holiday
+7/15/2007,Sunday,July,88,72,No Holiday
+7/16/2007,Monday,July,82,71,No Holiday
+7/17/2007,Tuesday,July,88,69,No Holiday
+7/18/2007,Wednesday,July,78,69,No Holiday
+7/19/2007,Thursday,July,83,70,No Holiday
+7/20/2007,Friday,July,78,67,No Holiday
+7/21/2007,Saturday,July,82,63,No Holiday
+7/22/2007,Sunday,July,83,68,No Holiday
+7/23/2007,Monday,July,72,60,No Holiday
+7/24/2007,Tuesday,July,81,58,No Holiday
+7/25/2007,Wednesday,July,83,67,No Holiday
+7/26/2007,Thursday,July,85,71,No Holiday
+7/27/2007,Friday,July,84,71,No Holiday
+7/28/2007,Saturday,July,84,71,No Holiday
+7/29/2007,Sunday,July,80,72,No Holiday
+7/30/2007,Monday,July,86,70,No Holiday
+7/31/2007,Tuesday,July,87,72,No Holiday
+8/1/2007,Wednesday,August,90,71,No Holiday
+8/2/2007,Thursday,August,92,75,No Holiday
+8/3/2007,Friday,August,90,66,No Holiday
+8/4/2007,Saturday,August,89,69,No Holiday
+8/5/2007,Sunday,August,85,70,No Holiday
+8/6/2007,Monday,August,83,72,No Holiday
+8/7/2007,Tuesday,August,89,75,No Holiday
+8/8/2007,Wednesday,August,90,73,No Holiday
+8/9/2007,Thursday,August,83,72,No Holiday
+8/10/2007,Friday,August,72,57,No Holiday
+8/11/2007,Saturday,August,81,57,No Holiday
+8/12/2007,Sunday,August,85,68,No Holiday
+8/13/2007,Monday,August,84,70,No Holiday
+8/14/2007,Tuesday,August,81,65,No Holiday
+8/15/2007,Wednesday,August,84,67,No Holiday
+8/16/2007,Thursday,August,83,74,No Holiday
+8/17/2007,Friday,August,85,62,No Holiday
+8/18/2007,Saturday,August,74,59,No Holiday
+8/19/2007,Sunday,August,71,60,No Holiday
+8/20/2007,Monday,August,69,58,No Holiday
+8/21/2007,Tuesday,August,59,56,No Holiday
+8/22/2007,Wednesday,August,65,56,No Holiday
+8/23/2007,Thursday,August,75,62,No Holiday
+8/24/2007,Friday,August,83,66,No Holiday
+8/25/2007,Saturday,August,87,73,No Holiday
+8/26/2007,Sunday,August,80,72,No Holiday
+8/27/2007,Monday,August,83,67,No Holiday
+8/28/2007,Tuesday,August,83,68,No Holiday
+8/29/2007,Wednesday,August,85,67,No Holiday
+8/30/2007,Thursday,August,86,70,No Holiday
+8/31/2007,Friday,August,78,69,No Holiday
+9/1/2007,Saturday,September,79,64,No Holiday
+9/2/2007,Sunday,September,78,58,No Holiday
+9/3/2007,Monday,September,82,64,holiday
+9/4/2007,Tuesday,September,83,69,No Holiday
+9/5/2007,Wednesday,September,79,65,No Holiday
+9/6/2007,Thursday,September,80,67,No Holiday
+9/7/2007,Friday,September,86,70,No Holiday
+9/8/2007,Saturday,September,88,71,No Holiday
+9/9/2007,Sunday,September,85,71,No Holiday
+9/10/2007,Monday,September,79,73,No Holiday
+9/11/2007,Tuesday,September,74,69,No Holiday
+9/12/2007,Wednesday,September,75,62,No Holiday
+9/13/2007,Thursday,September,74,58,No Holiday
+9/14/2007,Friday,September,74,64,No Holiday
+9/15/2007,Saturday,September,69,55,No Holiday
+9/16/2007,Sunday,September,66,50,No Holiday
+9/17/2007,Monday,September,69,51,No Holiday
+9/18/2007,Tuesday,September,70,53,No Holiday
+9/19/2007,Wednesday,September,76,56,No Holiday
+9/20/2007,Thursday,September,82,60,No Holiday
+9/21/2007,Friday,September,82,63,No Holiday
+9/22/2007,Saturday,September,75,65,No Holiday
+9/23/2007,Sunday,September,78,62,No Holiday
+9/24/2007,Monday,September,79,58,No Holiday
+9/25/2007,Tuesday,September,85,63,No Holiday
+9/26/2007,Wednesday,September,87,69,No Holiday
+9/27/2007,Thursday,September,82,71,No Holiday
+9/28/2007,Friday,September,76,61,No Holiday
+9/29/2007,Saturday,September,76,58,No Holiday
+9/30/2007,Sunday,September,72,56,No Holiday
+10/1/2007,Monday,October,69,59,No Holiday
+10/2/2007,Tuesday,October,75,58,No Holiday
+10/3/2007,Wednesday,October,78,65,No Holiday
+10/4/2007,Thursday,October,84,69,No Holiday
+10/5/2007,Friday,October,83,67,No Holiday
+10/6/2007,Saturday,October,83,66,No Holiday
+10/7/2007,Sunday,October,82,67,No Holiday
+10/8/2007,Monday,October,87,67,holiday
+10/9/2007,Tuesday,October,79,60,No Holiday
+10/10/2007,Wednesday,October,69,61,No Holiday
+10/11/2007,Thursday,October,67,59,No Holiday
+10/12/2007,Friday,October,60,48,No Holiday
+10/13/2007,Saturday,October,63,45,No Holiday
+10/14/2007,Sunday,October,66,49,No Holiday
+10/15/2007,Monday,October,67,49,No Holiday
+10/16/2007,Tuesday,October,70,56,No Holiday
+10/17/2007,Wednesday,October,73,58,No Holiday
+10/18/2007,Thursday,October,77,63,No Holiday
+10/19/2007,Friday,October,73,65,No Holiday
+10/20/2007,Saturday,October,70,60,No Holiday
+10/21/2007,Sunday,October,74,56,No Holiday
+10/22/2007,Monday,October,76,59,No Holiday
+10/23/2007,Tuesday,October,78,66,No Holiday
+10/24/2007,Wednesday,October,67,52,No Holiday
+10/25/2007,Thursday,October,57,49,No Holiday
+10/26/2007,Friday,October,58,52,No Holiday
+10/27/2007,Saturday,October,67,56,No Holiday
+10/28/2007,Sunday,October,56,43,No Holiday
+10/29/2007,Monday,October,53,38,No Holiday
+10/30/2007,Tuesday,October,62,46,No Holiday
+10/31/2007,Wednesday,October,64,49,No Holiday
+11/1/2007,Thursday,November,66,50,No Holiday
+11/2/2007,Friday,November,55,45,No Holiday
+11/3/2007,Saturday,November,51,45,No Holiday
+11/4/2007,Sunday,November,56,45,No Holiday
+11/5/2007,Monday,November,57,44,No Holiday
+11/6/2007,Tuesday,November,56,43,No Holiday
+11/7/2007,Wednesday,November,49,39,No Holiday
+11/8/2007,Thursday,November,46,35,No Holiday
+11/9/2007,Friday,November,44,39,No Holiday
+11/10/2007,Saturday,November,46,37,No Holiday
+11/11/2007,Sunday,November,46,31,holiday
+11/12/2007,Monday,November,50,38,No Holiday
+11/13/2007,Tuesday,November,59,47,No Holiday
+11/14/2007,Wednesday,November,58,45,No Holiday
+11/15/2007,Thursday,November,63,43,No Holiday
+11/16/2007,Friday,November,47,37,No Holiday
+11/17/2007,Saturday,November,46,35,No Holiday
+11/18/2007,Sunday,November,44,39,No Holiday
+11/19/2007,Monday,November,44,34,No Holiday
+11/20/2007,Tuesday,November,48,40,No Holiday
+11/21/2007,Wednesday,November,58,43,No Holiday
+11/22/2007,Thursday,November,66,40,holiday
+11/23/2007,Friday,November,40,30,No Holiday
+11/24/2007,Saturday,November,39,26,No Holiday
+11/25/2007,Sunday,November,49,34,No Holiday
+11/26/2007,Monday,November,62,40,No Holiday
+11/27/2007,Tuesday,November,64,43,No Holiday
+11/28/2007,Wednesday,November,45,35,No Holiday
+11/29/2007,Thursday,November,51,41,No Holiday
+11/30/2007,Friday,November,42,35,No Holiday
+12/1/2007,Saturday,December,38,25,No Holiday
+12/2/2007,Sunday,December,36,20,No Holiday
+12/3/2007,Monday,December,47,32,No Holiday
+12/4/2007,Tuesday,December,34,28,No Holiday
+12/5/2007,Wednesday,December,33,28,No Holiday
+12/6/2007,Thursday,December,33,21,No Holiday
+12/7/2007,Friday,December,35,28,No Holiday
+12/8/2007,Saturday,December,44,34,No Holiday
+12/9/2007,Sunday,December,40,34,No Holiday
+12/10/2007,Monday,December,40,37,No Holiday
+12/11/2007,Tuesday,December,45,35,No Holiday
+12/12/2007,Wednesday,December,52,34,No Holiday
+12/13/2007,Thursday,December,36,29,No Holiday
+12/14/2007,Friday,December,42,31,No Holiday
+12/15/2007,Saturday,December,36,29,No Holiday
+12/16/2007,Sunday,December,38,29,No Holiday
+12/17/2007,Monday,December,33,26,No Holiday
+12/18/2007,Tuesday,December,37,29,No Holiday
+12/19/2007,Wednesday,December,43,34,No Holiday
+12/20/2007,Thursday,December,44,35,No Holiday
+12/21/2007,Friday,December,39,36,No Holiday
+12/22/2007,Saturday,December,41,35,No Holiday
+12/23/2007,Sunday,December,61,41,No Holiday
+12/24/2007,Monday,December,50,37,No Holiday
+12/25/2007,Tuesday,December,43,35,holiday
+12/26/2007,Wednesday,December,39,32,No Holiday
+12/27/2007,Thursday,December,43,36,No Holiday
+12/28/2007,Friday,December,49,40,No Holiday
+12/29/2007,Saturday,December,51,42,No Holiday
+12/30/2007,Sunday,December,43,35,No Holiday
+12/31/2007,Monday,December,44,35,No Holiday
+1/1/2008,Tuesday,January ,47,37,holiday
+1/2/2008,Wednesday,January ,38,17,No Holiday
+1/3/2008,Thursday,January ,20,12,No Holiday
+1/4/2008,Friday,January ,36,16,No Holiday
+1/5/2008,Saturday,January ,43,32,No Holiday
+1/6/2008,Sunday,January ,50,36,No Holiday
+1/7/2008,Monday,January ,62,45,No Holiday
+1/8/2008,Tuesday,January ,64,53,No Holiday
+1/9/2008,Wednesday,January ,64,47,No Holiday
+1/10/2008,Thursday,January ,50,41,No Holiday
+1/11/2008,Friday,January ,56,40,No Holiday
+1/12/2008,Saturday,January ,49,42,No Holiday
+1/13/2008,Sunday,January ,45,36,No Holiday
+1/14/2008,Monday,January ,39,34,No Holiday
+1/15/2008,Tuesday,January ,38,32,No Holiday
+1/16/2008,Wednesday,January ,39,29,No Holiday
+1/17/2008,Thursday,January ,39,30,No Holiday
+1/18/2008,Friday,January ,48,35,No Holiday
+1/19/2008,Saturday,January ,37,32,No Holiday
+1/20/2008,Sunday,January ,34,17,No Holiday
+1/21/2008,Monday,January ,26,15,holiday
+1/22/2008,Tuesday,January ,39,23,No Holiday
+1/23/2008,Wednesday,January ,40,30,No Holiday
+1/24/2008,Thursday,January ,34,24,No Holiday
+1/25/2008,Friday,January ,33,21,No Holiday
+1/26/2008,Saturday,January ,34,25,No Holiday
+1/27/2008,Sunday,January ,39,30,No Holiday
+1/28/2008,Monday,January ,42,27,No Holiday
+1/29/2008,Tuesday,January ,43,30,No Holiday
+1/30/2008,Wednesday,January ,49,32,No Holiday
+1/31/2008,Thursday,January ,38,28,No Holiday
+2/1/2008,Friday,February,53,32,No Holiday
+2/2/2008,Saturday,February,43,35,No Holiday
+2/3/2008,Sunday,February,49,33,No Holiday
+2/4/2008,Monday,February,42,34,No Holiday
+2/5/2008,Tuesday,February,52,38,No Holiday
+2/6/2008,Wednesday,February,68,41,No Holiday
+2/7/2008,Thursday,February,49,38,No Holiday
+2/8/2008,Friday,February,45,35,No Holiday
+2/9/2008,Saturday,February,44,37,No Holiday
+2/10/2008,Sunday,February,44,15,No Holiday
+2/11/2008,Monday,February,24,10,No Holiday
+2/12/2008,Tuesday,February,31,17,No Holiday
+2/13/2008,Wednesday,February,54,31,No Holiday
+2/14/2008,Thursday,February,40,28,No Holiday
+2/15/2008,Friday,February,47,31,No Holiday
+2/16/2008,Saturday,February,34,23,No Holiday
+2/17/2008,Sunday,February,53,30,No Holiday
+2/18/2008,Monday,February,64,40,holiday
+2/19/2008,Tuesday,February,41,28,No Holiday
+2/20/2008,Wednesday,February,32,24,No Holiday
+2/21/2008,Thursday,February,33,20,No Holiday
+2/22/2008,Friday,February,34,25,No Holiday
+2/23/2008,Saturday,February,34,28,No Holiday
+2/24/2008,Sunday,February,39,24,No Holiday
+2/25/2008,Monday,February,48,32,No Holiday
+2/26/2008,Tuesday,February,47,38,No Holiday
+2/27/2008,Wednesday,February,44,22,No Holiday
+2/28/2008,Thursday,February,28,18,No Holiday
+2/29/2008,Friday,February,35,17,No Holiday
+3/1/2008,Saturday,March,46,33,No Holiday
+3/2/2008,Sunday,March,43,28,No Holiday
+3/3/2008,Monday,March,55,36,No Holiday
+3/4/2008,Tuesday,March,63,45,No Holiday
+3/5/2008,Wednesday,March,57,37,No Holiday
+3/6/2008,Thursday,March,49,34,No Holiday
+3/7/2008,Friday,March,45,36,No Holiday
+3/8/2008,Saturday,March,57,36,No Holiday
+3/9/2008,Sunday,March,42,30,No Holiday
+3/10/2008,Monday,March,45,27,No Holiday
+3/11/2008,Tuesday,March,49,35,No Holiday
+3/12/2008,Wednesday,March,47,35,No Holiday
+3/13/2008,Thursday,March,45,31,No Holiday
+3/14/2008,Friday,March,56,40,No Holiday
+3/15/2008,Saturday,March,56,41,No Holiday
+3/16/2008,Sunday,March,47,35,No Holiday
+3/17/2008,Monday,March,50,30,No Holiday
+3/18/2008,Tuesday,March,44,35,No Holiday
+3/19/2008,Wednesday,March,53,41,No Holiday
+3/20/2008,Thursday,March,58,36,No Holiday
+3/21/2008,Friday,March,45,33,No Holiday
+3/22/2008,Saturday,March,50,34,No Holiday
+3/23/2008,Sunday,March,48,30,No Holiday
+3/24/2008,Monday,March,50,33,No Holiday
+3/25/2008,Tuesday,March,48,31,No Holiday
+3/26/2008,Wednesday,March,61,43,No Holiday
+3/27/2008,Thursday,March,49,44,No Holiday
+3/28/2008,Friday,March,48,38,No Holiday
+3/29/2008,Saturday,March,47,33,No Holiday
+3/30/2008,Sunday,March,49,28,No Holiday
+3/31/2008,Monday,March,57,37,No Holiday
+4/1/2008,Tuesday,April,67,54,No Holiday
+4/2/2008,Wednesday,April,54,37,No Holiday
+4/3/2008,Thursday,April,50,33,No Holiday
+4/4/2008,Friday,April,53,42,No Holiday
+4/5/2008,Saturday,April,59,50,No Holiday
+4/6/2008,Sunday,April,51,42,No Holiday
+4/7/2008,Monday,April,51,41,No Holiday
+4/8/2008,Tuesday,April,58,41,No Holiday
+4/9/2008,Wednesday,April,58,40,No Holiday
+4/10/2008,Thursday,April,75,48,No Holiday
+4/11/2008,Friday,April,61,49,No Holiday
+4/12/2008,Saturday,April,76,48,No Holiday
+4/13/2008,Sunday,April,56,43,No Holiday
+4/14/2008,Monday,April,58,38,No Holiday
+4/15/2008,Tuesday,April,61,42,No Holiday
+4/16/2008,Wednesday,April,68,45,No Holiday
+4/17/2008,Thursday,April,73,46,No Holiday
+4/18/2008,Friday,April,84,51,No Holiday
+4/19/2008,Saturday,April,74,52,No Holiday
+4/20/2008,Sunday,April,64,49,No Holiday
+4/21/2008,Monday,April,63,47,No Holiday
+4/22/2008,Tuesday,April,72,48,No Holiday
+4/23/2008,Wednesday,April,78,53,No Holiday
+4/24/2008,Thursday,April,79,63,No Holiday
+4/25/2008,Friday,April,71,56,No Holiday
+4/26/2008,Saturday,April,64,51,No Holiday
+4/27/2008,Sunday,April,56,47,No Holiday
+4/28/2008,Monday,April,58,47,No Holiday
+4/29/2008,Tuesday,April,57,46,No Holiday
+4/30/2008,Wednesday,April,57,42,No Holiday
+5/1/2008,Thursday,May,60,44,No Holiday
+5/2/2008,Friday,May,54,49,No Holiday
+5/3/2008,Saturday,May,58,47,No Holiday
+5/4/2008,Sunday,May,71,48,No Holiday
+5/5/2008,Monday,May,73,50,No Holiday
+5/6/2008,Tuesday,May,79,51,No Holiday
+5/7/2008,Wednesday,May,76,56,No Holiday
+5/8/2008,Thursday,May,73,63,No Holiday
+5/9/2008,Friday,May,64,48,No Holiday
+5/10/2008,Saturday,May,66,48,No Holiday
+5/11/2008,Sunday,May,62,49,No Holiday
+5/12/2008,Monday,May,54,45,No Holiday
+5/13/2008,Tuesday,May,72,50,No Holiday
+5/14/2008,Wednesday,May,76,50,No Holiday
+5/15/2008,Thursday,May,75,53,No Holiday
+5/16/2008,Friday,May,62,49,No Holiday
+5/17/2008,Saturday,May,72,47,No Holiday
+5/18/2008,Sunday,May,66,52,No Holiday
+5/19/2008,Monday,May,59,49,No Holiday
+5/20/2008,Tuesday,May,56,48,No Holiday
+5/21/2008,Wednesday,May,68,47,No Holiday
+5/22/2008,Thursday,May,60,47,No Holiday
+5/23/2008,Friday,May,69,49,No Holiday
+5/24/2008,Saturday,May,71,53,No Holiday
+5/25/2008,Sunday,May,77,53,No Holiday
+5/26/2008,Monday,May,80,58,holiday
+5/27/2008,Tuesday,May,83,60,No Holiday
+5/28/2008,Wednesday,May,68,53,No Holiday
+5/29/2008,Thursday,May,75,50,No Holiday
+5/30/2008,Friday,May,82,58,No Holiday
+5/31/2008,Saturday,May,76,64,No Holiday
+6/1/2008,Sunday,June,82,65,No Holiday
+6/2/2008,Monday,June,80,60,No Holiday
+6/3/2008,Tuesday,June,84,64,No Holiday
+6/4/2008,Wednesday,June,71,57,No Holiday
+6/5/2008,Thursday,June,74,61,No Holiday
+6/6/2008,Friday,June,74,59,No Holiday
+6/7/2008,Saturday,June,94,61,No Holiday
+6/8/2008,Sunday,June,93,74,No Holiday
+6/9/2008,Monday,June,96,76,No Holiday
+6/10/2008,Tuesday,June,96,69,No Holiday
+6/11/2008,Wednesday,June,85,70,No Holiday
+6/12/2008,Thursday,June,85,69,No Holiday
+6/13/2008,Friday,June,83,66,No Holiday
+6/14/2008,Saturday,June,89,68,No Holiday
+6/15/2008,Sunday,June,83,65,No Holiday
+6/16/2008,Monday,June,78,61,No Holiday
+6/17/2008,Tuesday,June,75,61,No Holiday
+6/18/2008,Wednesday,June,73,57,No Holiday
+6/19/2008,Thursday,June,76,57,No Holiday
+6/20/2008,Friday,June,79,61,No Holiday
+6/21/2008,Saturday,June,83,60,No Holiday
+6/22/2008,Sunday,June,79,69,No Holiday
+6/23/2008,Monday,June,79,69,No Holiday
+6/24/2008,Tuesday,June,80,64,No Holiday
+6/25/2008,Wednesday,June,83,63,No Holiday
+6/26/2008,Thursday,June,81,71,No Holiday
+6/27/2008,Friday,June,83,73,No Holiday
+6/28/2008,Saturday,June,89,72,No Holiday
+6/29/2008,Sunday,June,88,70,No Holiday
+6/30/2008,Monday,June,83,70,No Holiday
+7/1/2008,Tuesday,July,85,70,No Holiday
+7/2/2008,Wednesday,July,85,67,No Holiday
+7/3/2008,Thursday,July,89,71,No Holiday
+7/4/2008,Friday,July,78,69,holiday
+7/5/2008,Saturday,July,74,68,No Holiday
+7/6/2008,Sunday,July,79,68,No Holiday
+7/7/2008,Monday,July,82,70,No Holiday
+7/8/2008,Tuesday,July,89,73,No Holiday
+7/9/2008,Wednesday,July,85,74,No Holiday
+7/10/2008,Thursday,July,85,71,No Holiday
+7/11/2008,Friday,July,87,66,No Holiday
+7/12/2008,Saturday,July,85,71,No Holiday
+7/13/2008,Sunday,July,84,71,No Holiday
+7/14/2008,Monday,July,81,67,No Holiday
+7/15/2008,Tuesday,July,89,70,No Holiday
+7/16/2008,Wednesday,July,92,70,No Holiday
+7/17/2008,Thursday,July,93,72,No Holiday
+7/18/2008,Friday,July,94,74,No Holiday
+7/19/2008,Saturday,July,96,78,No Holiday
+7/20/2008,Sunday,July,94,75,No Holiday
+7/21/2008,Monday,July,92,73,No Holiday
+7/22/2008,Tuesday,July,87,73,No Holiday
+7/23/2008,Wednesday,July,80,69,No Holiday
+7/24/2008,Thursday,July,81,69,No Holiday
+7/25/2008,Friday,July,86,66,No Holiday
+7/26/2008,Saturday,July,87,71,No Holiday
+7/27/2008,Sunday,July,83,67,No Holiday
+7/28/2008,Monday,July,86,66,No Holiday
+7/29/2008,Tuesday,July,89,72,No Holiday
+7/30/2008,Wednesday,July,87,72,No Holiday
+7/31/2008,Thursday,July,89,75,No Holiday
+8/1/2008,Friday,August,90,74,No Holiday
+8/2/2008,Saturday,August,81,67,No Holiday
+8/3/2008,Sunday,August,84,64,No Holiday
+8/4/2008,Monday,August,85,68,No Holiday
+8/5/2008,Tuesday,August,86,69,No Holiday
+8/6/2008,Wednesday,August,87,70,No Holiday
+8/7/2008,Thursday,August,86,66,No Holiday
+8/8/2008,Friday,August,80,64,No Holiday
+8/9/2008,Saturday,August,81,63,No Holiday
+8/10/2008,Sunday,August,81,65,No Holiday
+8/11/2008,Monday,August,73,59,No Holiday
+8/12/2008,Tuesday,August,82,60,No Holiday
+8/13/2008,Wednesday,August,83,64,No Holiday
+8/14/2008,Thursday,August,86,64,No Holiday
+8/15/2008,Friday,August,80,64,No Holiday
+8/16/2008,Saturday,August,81,63,No Holiday
+8/17/2008,Sunday,August,83,65,No Holiday
+8/18/2008,Monday,August,87,70,No Holiday
+8/19/2008,Tuesday,August,83,65,No Holiday
+8/20/2008,Wednesday,August,78,58,No Holiday
+8/21/2008,Thursday,August,82,62,No Holiday
+8/22/2008,Friday,August,83,66,No Holiday
+8/23/2008,Saturday,August,81,66,No Holiday
+8/24/2008,Sunday,August,82,68,No Holiday
+8/25/2008,Monday,August,85,67,No Holiday
+8/26/2008,Tuesday,August,80,61,No Holiday
+8/27/2008,Wednesday,August,79,61,No Holiday
+8/28/2008,Thursday,August,84,63,No Holiday
+8/29/2008,Friday,August,81,67,No Holiday
+8/30/2008,Saturday,August,83,67,No Holiday
+8/31/2008,Sunday,August,84,65,No Holiday
+9/1/2008,Monday,September,84,64,holiday
+9/2/2008,Tuesday,September,88,68,No Holiday
+9/3/2008,Wednesday,September,83,68,No Holiday
+9/4/2008,Thursday,September,90,70,No Holiday
+9/5/2008,Friday,September,86,72,No Holiday
+9/6/2008,Saturday,September,81,70,No Holiday
+9/7/2008,Sunday,September,80,67,No Holiday
+9/8/2008,Monday,September,81,64,No Holiday
+9/9/2008,Tuesday,September,75,65,No Holiday
+9/10/2008,Wednesday,September,73,59,No Holiday
+9/11/2008,Thursday,September,72,61,No Holiday
+9/12/2008,Friday,September,70,63,No Holiday
+9/13/2008,Saturday,September,81,65,No Holiday
+9/14/2008,Sunday,September,88,70,No Holiday
+9/15/2008,Monday,September,83,65,No Holiday
+9/16/2008,Tuesday,September,70,61,No Holiday
+9/17/2008,Wednesday,September,74,57,No Holiday
+9/18/2008,Thursday,September,73,59,No Holiday
+9/19/2008,Friday,September,66,52,No Holiday
+9/20/2008,Saturday,September,69,51,No Holiday
+9/21/2008,Sunday,September,80,56,No Holiday
+9/22/2008,Monday,September,74,60,No Holiday
+9/23/2008,Tuesday,September,70,54,No Holiday
+9/24/2008,Wednesday,September,69,55,No Holiday
+9/25/2008,Thursday,September,65,55,No Holiday
+9/26/2008,Friday,September,66,56,No Holiday
+9/27/2008,Saturday,September,69,63,No Holiday
+9/28/2008,Sunday,September,71,66,No Holiday
+9/29/2008,Monday,September,74,61,No Holiday
+9/30/2008,Tuesday,September,69,59,No Holiday
+10/1/2008,Wednesday,October,71,57,No Holiday
+10/2/2008,Thursday,October,62,52,No Holiday
+10/3/2008,Friday,October,62,51,No Holiday
+10/4/2008,Saturday,October,61,47,No Holiday
+10/5/2008,Sunday,October,62,52,No Holiday
+10/6/2008,Monday,October,64,47,No Holiday
+10/7/2008,Tuesday,October,63,44,No Holiday
+10/8/2008,Wednesday,October,64,47,No Holiday
+10/9/2008,Thursday,October,75,58,No Holiday
+10/10/2008,Friday,October,72,58,No Holiday
+10/11/2008,Saturday,October,69,52,No Holiday
+10/12/2008,Sunday,October,70,53,No Holiday
+10/13/2008,Monday,October,74,58,holiday
+10/14/2008,Tuesday,October,68,58,No Holiday
+10/15/2008,Wednesday,October,70,57,No Holiday
+10/16/2008,Thursday,October,75,55,No Holiday
+10/17/2008,Friday,October,60,50,No Holiday
+10/18/2008,Saturday,October,58,43,No Holiday
+10/19/2008,Sunday,October,55,42,No Holiday
+10/20/2008,Monday,October,60,41,No Holiday
+10/21/2008,Tuesday,October,61,45,No Holiday
+10/22/2008,Wednesday,October,53,41,No Holiday
+10/23/2008,Thursday,October,53,40,No Holiday
+10/24/2008,Friday,October,57,39,No Holiday
+10/25/2008,Saturday,October,65,53,No Holiday
+10/26/2008,Sunday,October,62,48,No Holiday
+10/27/2008,Monday,October,64,46,No Holiday
+10/28/2008,Tuesday,October,47,39,No Holiday
+10/29/2008,Wednesday,October,46,38,No Holiday
+10/30/2008,Thursday,October,48,36,No Holiday
+10/31/2008,Friday,October,61,40,No Holiday
+11/1/2008,Saturday,November,66,50,No Holiday
+11/2/2008,Sunday,November,50,38,No Holiday
+11/3/2008,Monday,November,58,45,No Holiday
+11/4/2008,Tuesday,November,63,49,No Holiday
+11/5/2008,Wednesday,November,64,54,No Holiday
+11/6/2008,Thursday,November,62,58,No Holiday
+11/7/2008,Friday,November,64,58,No Holiday
+11/8/2008,Saturday,November,60,53,No Holiday
+11/9/2008,Sunday,November,56,47,No Holiday
+11/10/2008,Monday,November,51,42,No Holiday
+11/11/2008,Tuesday,November,51,37,holiday
+11/12/2008,Wednesday,November,50,40,No Holiday
+11/13/2008,Thursday,November,58,45,No Holiday
+11/14/2008,Friday,November,64,57,No Holiday
+11/15/2008,Saturday,November,67,58,No Holiday
+11/16/2008,Sunday,November,60,40,No Holiday
+11/17/2008,Monday,November,47,36,No Holiday
+11/18/2008,Tuesday,November,41,29,No Holiday
+11/19/2008,Wednesday,November,37,26,No Holiday
+11/20/2008,Thursday,November,38,30,No Holiday
+11/21/2008,Friday,November,38,25,No Holiday
+11/22/2008,Saturday,November,32,23,No Holiday
+11/23/2008,Sunday,November,36,24,No Holiday
+11/24/2008,Monday,November,50,33,No Holiday
+11/25/2008,Tuesday,November,47,36,No Holiday
+11/26/2008,Wednesday,November,45,36,No Holiday
+11/27/2008,Thursday,November,44,35,holiday
+11/28/2008,Friday,November,49,39,No Holiday
+11/29/2008,Saturday,November,46,35,No Holiday
+11/30/2008,Sunday,November,43,36,No Holiday
+12/1/2008,Monday,December,55,43,No Holiday
+12/2/2008,Tuesday,December,45,35,No Holiday
+12/3/2008,Wednesday,December,42,32,No Holiday
+12/4/2008,Thursday,December,50,39,No Holiday
+12/5/2008,Friday,December,41,32,No Holiday
+12/6/2008,Saturday,December,36,28,No Holiday
+12/7/2008,Sunday,December,36,20,No Holiday
+12/8/2008,Monday,December,30,19,No Holiday
+12/9/2008,Tuesday,December,58,30,No Holiday
+12/10/2008,Wednesday,December,65,43,No Holiday
+12/11/2008,Thursday,December,43,37,No Holiday
+12/12/2008,Friday,December,44,32,No Holiday
+12/13/2008,Saturday,December,32,27,No Holiday
+12/14/2008,Sunday,December,49,29,No Holiday
+12/15/2008,Monday,December,67,48,No Holiday
+12/16/2008,Tuesday,December,58,30,No Holiday
+12/17/2008,Wednesday,December,42,32,No Holiday
+12/18/2008,Thursday,December,42,36,No Holiday
+12/19/2008,Friday,December,37,29,No Holiday
+12/20/2008,Saturday,December,31,22,No Holiday
+12/21/2008,Sunday,December,37,25,No Holiday
+12/22/2008,Monday,December,27,13,No Holiday
+12/23/2008,Tuesday,December,31,18,No Holiday
+12/24/2008,Wednesday,December,58,31,No Holiday
+12/25/2008,Thursday,December,57,33,holiday
+12/26/2008,Friday,December,41,32,No Holiday
+12/27/2008,Saturday,December,48,41,No Holiday
+12/28/2008,Sunday,December,65,47,No Holiday
+12/29/2008,Monday,December,47,37,No Holiday
+12/30/2008,Tuesday,December,43,33,No Holiday
+12/31/2008,Wednesday,December,35,18,No Holiday
+1/1/2009,Thursday,January ,26,15,holiday
+1/2/2009,Friday,January ,34,23,No Holiday
+1/3/2009,Saturday,January ,38,29,No Holiday
+1/4/2009,Sunday,January ,42,25,No Holiday
+1/5/2009,Monday,January ,43,38,No Holiday
+1/6/2009,Tuesday,January ,38,31,No Holiday
+1/7/2009,Wednesday,January ,38,31,No Holiday
+1/8/2009,Thursday,January ,38,29,No Holiday
+1/9/2009,Friday,January ,32,26,No Holiday
+1/10/2009,Saturday,January ,30,23,No Holiday
+1/11/2009,Sunday,January ,31,24,No Holiday
+1/12/2009,Monday,January ,33,21,No Holiday
+1/13/2009,Tuesday,January ,41,28,No Holiday
+1/14/2009,Wednesday,January ,36,16,No Holiday
+1/15/2009,Thursday,January ,22,15,No Holiday
+1/16/2009,Friday,January ,16,9,No Holiday
+1/17/2009,Saturday,January ,22,6,No Holiday
+1/18/2009,Sunday,January ,35,22,No Holiday
+1/19/2009,Monday,January ,33,26,holiday
+1/20/2009,Tuesday,January ,29,19,No Holiday
+1/21/2009,Wednesday,January ,26,17,No Holiday
+1/22/2009,Thursday,January ,37,20,No Holiday
+1/23/2009,Friday,January ,47,31,No Holiday
+1/24/2009,Saturday,January ,46,17,No Holiday
+1/25/2009,Sunday,January ,27,13,No Holiday
+1/26/2009,Monday,January ,29,19,No Holiday
+1/27/2009,Tuesday,January ,29,25,No Holiday
+1/28/2009,Wednesday,January ,41,24,No Holiday
+1/29/2009,Thursday,January ,36,26,No Holiday
+1/30/2009,Friday,January ,35,26,No Holiday
+1/31/2009,Saturday,January ,27,20,No Holiday
+2/1/2009,Sunday,February,52,26,No Holiday
+2/2/2009,Monday,February,53,34,No Holiday
+2/3/2009,Tuesday,February,34,25,No Holiday
+2/4/2009,Wednesday,February,30,17,No Holiday
+2/5/2009,Thursday,February,23,12,No Holiday
+2/6/2009,Friday,February,32,15,No Holiday
+2/7/2009,Saturday,February,50,28,No Holiday
+2/8/2009,Sunday,February,58,38,No Holiday
+2/9/2009,Monday,February,45,33,No Holiday
+2/10/2009,Tuesday,February,50,35,No Holiday
+2/11/2009,Wednesday,February,65,45,No Holiday
+2/12/2009,Thursday,February,57,44,No Holiday
+2/13/2009,Friday,February,44,31,No Holiday
+2/14/2009,Saturday,February,41,28,No Holiday
+2/15/2009,Sunday,February,42,28,No Holiday
+2/16/2009,Monday,February,40,28,holiday
+2/17/2009,Tuesday,February,40,24,No Holiday
+2/18/2009,Wednesday,February,44,32,No Holiday
+2/19/2009,Thursday,February,50,27,No Holiday
+2/20/2009,Friday,February,33,23,No Holiday
+2/21/2009,Saturday,February,42,26,No Holiday
+2/22/2009,Sunday,February,44,31,No Holiday
+2/23/2009,Monday,February,34,24,No Holiday
+2/24/2009,Tuesday,February,37,22,No Holiday
+2/25/2009,Wednesday,February,42,24,No Holiday
+2/26/2009,Thursday,February,50,35,No Holiday
+2/27/2009,Friday,February,61,43,No Holiday
+2/28/2009,Saturday,February,54,31,No Holiday
+3/1/2009,Sunday,March,36,28,No Holiday
+3/2/2009,Monday,March,28,16,No Holiday
+3/3/2009,Tuesday,March,26,12,No Holiday
+3/4/2009,Wednesday,March,34,18,No Holiday
+3/5/2009,Thursday,March,43,28,No Holiday
+3/6/2009,Friday,March,55,38,No Holiday
+3/7/2009,Saturday,March,70,51,No Holiday
+3/8/2009,Sunday,March,64,49,No Holiday
+3/9/2009,Monday,March,49,38,No Holiday
+3/10/2009,Tuesday,March,47,37,No Holiday
+3/11/2009,Wednesday,March,58,41,No Holiday
+3/12/2009,Thursday,March,44,32,No Holiday
+3/13/2009,Friday,March,40,27,No Holiday
+3/14/2009,Saturday,March,51,32,No Holiday
+3/15/2009,Sunday,March,51,42,No Holiday
+3/16/2009,Monday,March,47,40,No Holiday
+3/17/2009,Tuesday,March,55,36,No Holiday
+3/18/2009,Wednesday,March,64,41,No Holiday
+3/19/2009,Thursday,March,53,42,No Holiday
+3/20/2009,Friday,March,46,33,No Holiday
+3/21/2009,Saturday,March,49,31,No Holiday
+3/22/2009,Sunday,March,54,35,No Holiday
+3/23/2009,Monday,March,44,29,No Holiday
+3/24/2009,Tuesday,March,50,27,No Holiday
+3/25/2009,Wednesday,March,52,35,No Holiday
+3/26/2009,Thursday,March,45,42,No Holiday
+3/27/2009,Friday,March,63,44,No Holiday
+3/28/2009,Saturday,March,58,44,No Holiday
+3/29/2009,Sunday,March,52,42,No Holiday
+3/30/2009,Monday,March,53,41,No Holiday
+3/31/2009,Tuesday,March,60,38,No Holiday
+4/1/2009,Wednesday,April,49,43,No Holiday
+4/2/2009,Thursday,April,64,44,No Holiday
+4/3/2009,Friday,April,61,48,No Holiday
+4/4/2009,Saturday,April,54,47,No Holiday
+4/5/2009,Sunday,April,65,45,No Holiday
+4/6/2009,Monday,April,55,45,No Holiday
+4/7/2009,Tuesday,April,49,39,No Holiday
+4/8/2009,Wednesday,April,48,35,No Holiday
+4/9/2009,Thursday,April,63,41,No Holiday
+4/10/2009,Friday,April,59,45,No Holiday
+4/11/2009,Saturday,April,50,41,No Holiday
+4/12/2009,Sunday,April,49,36,No Holiday
+4/13/2009,Monday,April,57,34,No Holiday
+4/14/2009,Tuesday,April,52,42,No Holiday
+4/15/2009,Wednesday,April,57,42,No Holiday
+4/16/2009,Thursday,April,64,44,No Holiday
+4/17/2009,Friday,April,71,42,No Holiday
+4/18/2009,Saturday,April,79,54,No Holiday
+4/19/2009,Sunday,April,63,47,No Holiday
+4/20/2009,Monday,April,50,42,No Holiday
+4/21/2009,Tuesday,April,59,48,No Holiday
+4/22/2009,Wednesday,April,56,47,No Holiday
+4/23/2009,Thursday,April,57,43,No Holiday
+4/24/2009,Friday,April,72,47,No Holiday
+4/25/2009,Saturday,April,88,52,No Holiday
+4/26/2009,Sunday,April,92,67,No Holiday
+4/27/2009,Monday,April,84,58,No Holiday
+4/28/2009,Tuesday,April,90,69,No Holiday
+4/29/2009,Wednesday,April,69,49,No Holiday
+4/30/2009,Thursday,April,61,48,No Holiday
+5/1/2009,Friday,May,71,53,No Holiday
+5/2/2009,Saturday,May,68,54,No Holiday
+5/3/2009,Sunday,May,60,52,No Holiday
+5/4/2009,Monday,May,57,51,No Holiday
+5/5/2009,Tuesday,May,54,51,No Holiday
+5/6/2009,Wednesday,May,65,49,No Holiday
+5/7/2009,Thursday,May,70,51,No Holiday
+5/8/2009,Friday,May,74,56,No Holiday
+5/9/2009,Saturday,May,76,58,No Holiday
+5/10/2009,Sunday,May,70,54,No Holiday
+5/11/2009,Monday,May,66,50,No Holiday
+5/12/2009,Tuesday,May,69,50,No Holiday
+5/13/2009,Wednesday,May,67,49,No Holiday
+5/14/2009,Thursday,May,67,56,No Holiday
+5/15/2009,Friday,May,76,60,No Holiday
+5/16/2009,Saturday,May,71,58,No Holiday
+5/17/2009,Sunday,May,66,52,No Holiday
+5/18/2009,Monday,May,58,49,No Holiday
+5/19/2009,Tuesday,May,69,43,No Holiday
+5/20/2009,Wednesday,May,82,52,No Holiday
+5/21/2009,Thursday,May,86,60,No Holiday
+5/22/2009,Friday,May,84,62,No Holiday
+5/23/2009,Saturday,May,73,60,No Holiday
+5/24/2009,Sunday,May,83,60,No Holiday
+5/25/2009,Monday,May,81,63,holiday
+5/26/2009,Tuesday,May,66,53,No Holiday
+5/27/2009,Wednesday,May,65,53,No Holiday
+5/28/2009,Thursday,May,61,56,No Holiday
+5/29/2009,Friday,May,74,55,No Holiday
+5/30/2009,Saturday,May,77,60,No Holiday
+5/31/2009,Sunday,May,81,57,No Holiday
+6/1/2009,Monday,June,71,50,No Holiday
+6/2/2009,Tuesday,June,80,61,No Holiday
+6/3/2009,Wednesday,June,72,54,No Holiday
+6/4/2009,Thursday,June,68,55,No Holiday
+6/5/2009,Friday,June,60,55,No Holiday
+6/6/2009,Saturday,June,76,57,No Holiday
+6/7/2009,Sunday,June,82,63,No Holiday
+6/8/2009,Monday,June,75,62,No Holiday
+6/9/2009,Tuesday,June,71,60,No Holiday
+6/10/2009,Wednesday,June,67,59,No Holiday
+6/11/2009,Thursday,June,64,59,No Holiday
+6/12/2009,Friday,June,80,62,No Holiday
+6/13/2009,Saturday,June,73,61,No Holiday
+6/14/2009,Sunday,June,73,58,No Holiday
+6/15/2009,Monday,June,72,57,No Holiday
+6/16/2009,Tuesday,June,70,56,No Holiday
+6/17/2009,Wednesday,June,68,55,No Holiday
+6/18/2009,Thursday,June,64,60,No Holiday
+6/19/2009,Friday,June,77,63,No Holiday
+6/20/2009,Saturday,June,71,63,No Holiday
+6/21/2009,Sunday,June,78,63,No Holiday
+6/22/2009,Monday,June,75,65,No Holiday
+6/23/2009,Tuesday,June,80,66,No Holiday
+6/24/2009,Wednesday,June,76,65,No Holiday
+6/25/2009,Thursday,June,80,64,No Holiday
+6/26/2009,Friday,June,83,64,No Holiday
+6/27/2009,Saturday,June,81,63,No Holiday
+6/28/2009,Sunday,June,82,64,No Holiday
+6/29/2009,Monday,June,81,65,No Holiday
+6/30/2009,Tuesday,June,84,65,No Holiday
+7/1/2009,Wednesday,July,81,66,No Holiday
+7/2/2009,Thursday,July,76,66,No Holiday
+7/3/2009,Friday,July,78,65,No Holiday
+7/4/2009,Saturday,July,79,66,holiday
+7/5/2009,Sunday,July,79,61,No Holiday
+7/6/2009,Monday,July,83,63,No Holiday
+7/7/2009,Tuesday,July,79,61,No Holiday
+7/8/2009,Wednesday,July,77,58,No Holiday
+7/9/2009,Thursday,July,73,61,No Holiday
+7/10/2009,Friday,July,78,60,No Holiday
+7/11/2009,Saturday,July,78,63,No Holiday
+7/12/2009,Sunday,July,81,64,No Holiday
+7/13/2009,Monday,July,79,61,No Holiday
+7/14/2009,Tuesday,July,79,61,No Holiday
+7/15/2009,Wednesday,July,82,63,No Holiday
+7/16/2009,Thursday,July,84,70,No Holiday
+7/17/2009,Friday,July,86,68,No Holiday
+7/18/2009,Saturday,July,83,68,No Holiday
+7/19/2009,Sunday,July,81,64,No Holiday
+7/20/2009,Monday,July,81,67,No Holiday
+7/21/2009,Tuesday,July,71,64,No Holiday
+7/22/2009,Wednesday,July,82,64,No Holiday
+7/23/2009,Thursday,July,77,64,No Holiday
+7/24/2009,Friday,July,78,63,No Holiday
+7/25/2009,Saturday,July,83,66,No Holiday
+7/26/2009,Sunday,July,84,67,No Holiday
+7/27/2009,Monday,July,83,68,No Holiday
+7/28/2009,Tuesday,July,85,71,No Holiday
+7/29/2009,Wednesday,July,83,70,No Holiday
+7/30/2009,Thursday,July,85,72,No Holiday
+7/31/2009,Friday,July,85,67,No Holiday
+8/1/2009,Saturday,August,83,65,No Holiday
+8/2/2009,Sunday,August,74,67,No Holiday
+8/3/2009,Monday,August,84,70,No Holiday
+8/4/2009,Tuesday,August,83,68,No Holiday
+8/5/2009,Wednesday,August,85,73,No Holiday
+8/6/2009,Thursday,August,77,66,No Holiday
+8/7/2009,Friday,August,79,64,No Holiday
+8/8/2009,Saturday,August,78,63,No Holiday
+8/9/2009,Sunday,August,79,70,No Holiday
+8/10/2009,Monday,August,91,68,No Holiday
+8/11/2009,Tuesday,August,87,76,No Holiday
+8/12/2009,Wednesday,August,79,71,No Holiday
+8/13/2009,Thursday,August,72,68,No Holiday
+8/14/2009,Friday,August,86,67,No Holiday
+8/15/2009,Saturday,August,88,70,No Holiday
+8/16/2009,Sunday,August,91,73,No Holiday
+8/17/2009,Monday,August,92,75,No Holiday
+8/18/2009,Tuesday,August,90,68,No Holiday
+8/19/2009,Wednesday,August,90,71,No Holiday
+8/20/2009,Thursday,August,89,75,No Holiday
+8/21/2009,Friday,August,89,72,No Holiday
+8/22/2009,Saturday,August,81,70,No Holiday
+8/23/2009,Sunday,August,84,73,No Holiday
+8/24/2009,Monday,August,82,69,No Holiday
+8/25/2009,Tuesday,August,83,69,No Holiday
+8/26/2009,Wednesday,August,85,70,No Holiday
+8/27/2009,Thursday,August,78,67,No Holiday
+8/28/2009,Friday,August,72,64,No Holiday
+8/29/2009,Saturday,August,72,67,No Holiday
+8/30/2009,Sunday,August,81,66,No Holiday
+8/31/2009,Monday,August,72,62,No Holiday
+9/1/2009,Tuesday,September,74,57,No Holiday
+9/2/2009,Wednesday,September,77,57,No Holiday
+9/3/2009,Thursday,September,78,61,No Holiday
+9/4/2009,Friday,September,83,62,No Holiday
+9/5/2009,Saturday,September,84,69,No Holiday
+9/6/2009,Sunday,September,75,63,No Holiday
+9/7/2009,Monday,September,74,60,holiday
+9/8/2009,Tuesday,September,74,62,No Holiday
+9/9/2009,Wednesday,September,76,63,No Holiday
+9/10/2009,Thursday,September,68,60,No Holiday
+9/11/2009,Friday,September,66,56,No Holiday
+9/12/2009,Saturday,September,67,63,No Holiday
+9/13/2009,Sunday,September,79,64,No Holiday
+9/14/2009,Monday,September,76,61,No Holiday
+9/15/2009,Tuesday,September,78,63,No Holiday
+9/16/2009,Wednesday,September,70,63,No Holiday
+9/17/2009,Thursday,September,63,55,No Holiday
+9/18/2009,Friday,September,74,56,No Holiday
+9/19/2009,Saturday,September,70,53,No Holiday
+9/20/2009,Sunday,September,73,54,No Holiday
+9/21/2009,Monday,September,75,57,No Holiday
+9/22/2009,Tuesday,September,73,64,No Holiday
+9/23/2009,Wednesday,September,80,69,No Holiday
+9/24/2009,Thursday,September,82,66,No Holiday
+9/25/2009,Friday,September,69,56,No Holiday
+9/26/2009,Saturday,September,67,54,No Holiday
+9/27/2009,Sunday,September,68,59,No Holiday
+9/28/2009,Monday,September,72,58,No Holiday
+9/29/2009,Tuesday,September,66,54,No Holiday
+9/30/2009,Wednesday,September,60,49,No Holiday
+10/1/2009,Thursday,October,55,47,No Holiday
+10/2/2009,Friday,October,64,47,No Holiday
+10/3/2009,Saturday,October,70,63,No Holiday
+10/4/2009,Sunday,October,74,57,No Holiday
+10/5/2009,Monday,October,67,53,No Holiday
+10/6/2009,Tuesday,October,66,50,No Holiday
+10/7/2009,Wednesday,October,69,57,No Holiday
+10/8/2009,Thursday,October,63,52,No Holiday
+10/9/2009,Friday,October,69,59,No Holiday
+10/10/2009,Saturday,October,66,50,No Holiday
+10/11/2009,Sunday,October,64,46,No Holiday
+10/12/2009,Monday,October,53,43,holiday
+10/13/2009,Tuesday,October,64,46,No Holiday
+10/14/2009,Wednesday,October,53,41,No Holiday
+10/15/2009,Thursday,October,47,37,No Holiday
+10/16/2009,Friday,October,46,37,No Holiday
+10/17/2009,Saturday,October,48,42,No Holiday
+10/18/2009,Sunday,October,45,41,No Holiday
+10/19/2009,Monday,October,55,37,No Holiday
+10/20/2009,Tuesday,October,65,45,No Holiday
+10/21/2009,Wednesday,October,68,52,No Holiday
+10/22/2009,Thursday,October,74,54,No Holiday
+10/23/2009,Friday,October,64,49,No Holiday
+10/24/2009,Saturday,October,65,53,No Holiday
+10/25/2009,Sunday,October,62,51,No Holiday
+10/26/2009,Monday,October,60,46,No Holiday
+10/27/2009,Tuesday,October,55,50,No Holiday
+10/28/2009,Wednesday,October,57,51,No Holiday
+10/29/2009,Thursday,October,57,49,No Holiday
+10/30/2009,Friday,October,59,52,No Holiday
+10/31/2009,Saturday,October,71,55,No Holiday
+11/1/2009,Sunday,November,58,49,No Holiday
+11/2/2009,Monday,November,55,46,No Holiday
+11/3/2009,Tuesday,November,60,43,No Holiday
+11/4/2009,Wednesday,November,52,41,No Holiday
+11/5/2009,Thursday,November,53,42,No Holiday
+11/6/2009,Friday,November,50,37,No Holiday
+11/7/2009,Saturday,November,53,35,No Holiday
+11/8/2009,Sunday,November,69,47,No Holiday
+11/9/2009,Monday,November,67,49,No Holiday
+11/10/2009,Tuesday,November,65,56,No Holiday
+11/11/2009,Wednesday,November,57,48,holiday
+11/12/2009,Thursday,November,50,45,No Holiday
+11/13/2009,Friday,November,55,48,No Holiday
+11/14/2009,Saturday,November,57,52,No Holiday
+11/15/2009,Sunday,November,66,54,No Holiday
+11/16/2009,Monday,November,59,49,No Holiday
+11/17/2009,Tuesday,November,55,46,No Holiday
+11/18/2009,Wednesday,November,53,42,No Holiday
+11/19/2009,Thursday,November,59,47,No Holiday
+11/20/2009,Friday,November,61,48,No Holiday
+11/21/2009,Saturday,November,57,46,No Holiday
+11/22/2009,Sunday,November,55,45,No Holiday
+11/23/2009,Monday,November,50,44,No Holiday
+11/24/2009,Tuesday,November,58,48,No Holiday
+11/25/2009,Wednesday,November,51,49,No Holiday
+11/26/2009,Thursday,November,57,50,holiday
+11/27/2009,Friday,November,50,43,No Holiday
+11/28/2009,Saturday,November,50,42,No Holiday
+11/29/2009,Sunday,November,59,39,No Holiday
+11/30/2009,Monday,November,57,40,No Holiday
+12/1/2009,Tuesday,December,47,35,No Holiday
+12/2/2009,Wednesday,December,56,41,No Holiday
+12/3/2009,Thursday,December,66,49,No Holiday
+12/4/2009,Friday,December,52,44,No Holiday
+12/5/2009,Saturday,December,45,33,No Holiday
+12/6/2009,Sunday,December,38,33,No Holiday
+12/7/2009,Monday,December,39,32,No Holiday
+12/8/2009,Tuesday,December,44,34,No Holiday
+12/9/2009,Wednesday,December,53,33,No Holiday
+12/10/2009,Thursday,December,46,27,No Holiday
+12/11/2009,Friday,December,29,21,No Holiday
+12/12/2009,Saturday,December,37,25,No Holiday
+12/13/2009,Sunday,December,52,34,No Holiday
+12/14/2009,Monday,December,46,40,No Holiday
+12/15/2009,Tuesday,December,52,42,No Holiday
+12/16/2009,Wednesday,December,42,28,No Holiday
+12/17/2009,Thursday,December,31,20,No Holiday
+12/18/2009,Friday,December,30,16,No Holiday
+12/19/2009,Saturday,December,30,21,No Holiday
+12/20/2009,Sunday,December,34,21,No Holiday
+12/21/2009,Monday,December,36,28,No Holiday
+12/22/2009,Tuesday,December,36,23,No Holiday
+12/23/2009,Wednesday,December,30,20,No Holiday
+12/24/2009,Thursday,December,39,24,No Holiday
+12/25/2009,Friday,December,38,33,holiday
+12/26/2009,Saturday,December,54,37,No Holiday
+12/27/2009,Sunday,December,55,40,No Holiday
+12/28/2009,Monday,December,43,30,No Holiday
+12/29/2009,Tuesday,December,31,16,No Holiday
+12/30/2009,Wednesday,December,32,19,No Holiday
+12/31/2009,Thursday,December,35,29,No Holiday
+1/1/2010,Friday,January ,40,33,holiday
+1/2/2010,Saturday,January ,34,17,No Holiday
+1/3/2010,Sunday,January ,22,17,No Holiday
+1/4/2010,Monday,January ,30,19,No Holiday
+1/5/2010,Tuesday,January ,30,20,No Holiday
+1/6/2010,Wednesday,January ,34,26,No Holiday
+1/7/2010,Thursday,January ,37,30,No Holiday
+1/8/2010,Friday,January ,33,23,No Holiday
+1/9/2010,Saturday,January ,30,18,No Holiday
+1/10/2010,Sunday,January ,28,14,No Holiday
+1/11/2010,Monday,January ,31,21,No Holiday
+1/12/2010,Tuesday,January ,35,24,No Holiday
+1/13/2010,Wednesday,January ,35,24,No Holiday
+1/14/2010,Thursday,January ,42,30,No Holiday
+1/15/2010,Friday,January ,50,35,No Holiday
+1/16/2010,Saturday,January ,49,38,No Holiday
+1/17/2010,Sunday,January ,46,35,No Holiday
+1/18/2010,Monday,January ,50,37,holiday
+1/19/2010,Tuesday,January ,48,40,No Holiday
+1/20/2010,Wednesday,January ,41,34,No Holiday
+1/21/2010,Thursday,January ,41,31,No Holiday
+1/22/2010,Friday,January ,44,32,No Holiday
+1/23/2010,Saturday,January ,40,28,No Holiday
+1/24/2010,Sunday,January ,50,32,No Holiday
+1/25/2010,Monday,January ,57,49,No Holiday
+1/26/2010,Tuesday,January ,49,35,No Holiday
+1/27/2010,Wednesday,January ,39,31,No Holiday
+1/28/2010,Thursday,January ,42,20,No Holiday
+1/29/2010,Friday,January ,23,16,No Holiday
+1/30/2010,Saturday,January ,20,13,No Holiday
+1/31/2010,Sunday,January ,30,14,No Holiday
+2/1/2010,Monday,February,35,25,No Holiday
+2/2/2010,Tuesday,February,33,27,No Holiday
+2/3/2010,Wednesday,February,39,29,No Holiday
+2/4/2010,Thursday,February,37,28,No Holiday
+2/5/2010,Friday,February,36,29,No Holiday
+2/6/2010,Saturday,February,33,20,No Holiday
+2/7/2010,Sunday,February,34,17,No Holiday
+2/8/2010,Monday,February,37,23,No Holiday
+2/9/2010,Tuesday,February,42,28,No Holiday
+2/10/2010,Wednesday,February,34,30,No Holiday
+2/11/2010,Thursday,February,37,28,No Holiday
+2/12/2010,Friday,February,37,26,No Holiday
+2/13/2010,Saturday,February,32,24,No Holiday
+2/14/2010,Sunday,February,39,28,No Holiday
+2/15/2010,Monday,February,40,27,holiday
+2/16/2010,Tuesday,February,33,29,No Holiday
+2/17/2010,Wednesday,February,35,26,No Holiday
+2/18/2010,Thursday,February,40,32,No Holiday
+2/19/2010,Friday,February,43,35,No Holiday
+2/20/2010,Saturday,February,44,35,No Holiday
+2/21/2010,Sunday,February,46,33,No Holiday
+2/22/2010,Monday,February,45,29,No Holiday
+2/23/2010,Tuesday,February,38,35,No Holiday
+2/24/2010,Wednesday,February,42,36,No Holiday
+2/25/2010,Thursday,February,38,27,No Holiday
+2/26/2010,Friday,February,33,26,No Holiday
+2/27/2010,Saturday,February,38,29,No Holiday
+2/28/2010,Sunday,February,40,33,No Holiday
+3/1/2010,Monday,March,48,36,No Holiday
+3/2/2010,Tuesday,March,47,36,No Holiday
+3/3/2010,Wednesday,March,41,34,No Holiday
+3/4/2010,Thursday,March,47,35,No Holiday
+3/5/2010,Friday,March,49,34,No Holiday
+3/6/2010,Saturday,March,54,32,No Holiday
+3/7/2010,Sunday,March,57,37,No Holiday
+3/8/2010,Monday,March,61,41,No Holiday
+3/9/2010,Tuesday,March,61,44,No Holiday
+3/10/2010,Wednesday,March,57,44,No Holiday
+3/11/2010,Thursday,March,53,42,No Holiday
+3/12/2010,Friday,March,43,39,No Holiday
+3/13/2010,Saturday,March,46,38,No Holiday
+3/14/2010,Sunday,March,50,43,No Holiday
+3/15/2010,Monday,March,46,41,No Holiday
+3/16/2010,Tuesday,March,63,41,No Holiday
+3/17/2010,Wednesday,March,66,43,No Holiday
+3/18/2010,Thursday,March,69,50,No Holiday
+3/19/2010,Friday,March,72,49,No Holiday
+3/20/2010,Saturday,March,74,54,No Holiday
+3/21/2010,Sunday,March,64,51,No Holiday
+3/22/2010,Monday,March,57,50,No Holiday
+3/23/2010,Tuesday,March,53,45,No Holiday
+3/24/2010,Wednesday,March,60,43,No Holiday
+3/25/2010,Thursday,March,62,48,No Holiday
+3/26/2010,Friday,March,52,34,No Holiday
+3/27/2010,Saturday,March,44,29,No Holiday
+3/28/2010,Sunday,March,49,36,No Holiday
+3/29/2010,Monday,March,53,48,No Holiday
+3/30/2010,Tuesday,March,50,41,No Holiday
+3/31/2010,Wednesday,March,57,45,No Holiday
+4/1/2010,Thursday,April,70,48,No Holiday
+4/2/2010,Friday,April,68,48,No Holiday
+4/3/2010,Saturday,April,67,47,No Holiday
+4/4/2010,Sunday,April,76,47,No Holiday
+4/5/2010,Monday,April,75,56,No Holiday
+4/6/2010,Tuesday,April,78,58,No Holiday
+4/7/2010,Wednesday,April,92,56,No Holiday
+4/8/2010,Thursday,April,80,64,No Holiday
+4/9/2010,Friday,April,68,44,No Holiday
+4/10/2010,Saturday,April,62,42,No Holiday
+4/11/2010,Sunday,April,76,52,No Holiday
+4/12/2010,Monday,April,67,52,No Holiday
+4/13/2010,Tuesday,April,56,47,No Holiday
+4/14/2010,Wednesday,April,67,45,No Holiday
+4/15/2010,Thursday,April,73,50,No Holiday
+4/16/2010,Friday,April,57,46,No Holiday
+4/17/2010,Saturday,April,54,46,No Holiday
+4/18/2010,Sunday,April,57,42,No Holiday
+4/19/2010,Monday,April,63,46,No Holiday
+4/20/2010,Tuesday,April,70,47,No Holiday
+4/21/2010,Wednesday,April,69,53,No Holiday
+4/22/2010,Thursday,April,72,51,No Holiday
+4/23/2010,Friday,April,68,44,No Holiday
+4/24/2010,Saturday,April,68,46,No Holiday
+4/25/2010,Sunday,April,52,46,No Holiday
+4/26/2010,Monday,April,53,48,No Holiday
+4/27/2010,Tuesday,April,58,41,No Holiday
+4/28/2010,Wednesday,April,56,40,No Holiday
+4/29/2010,Thursday,April,69,45,No Holiday
+4/30/2010,Friday,April,78,56,No Holiday
+5/1/2010,Saturday,May,85,64,No Holiday
+5/2/2010,Sunday,May,88,66,No Holiday
+5/3/2010,Monday,May,80,67,No Holiday
+5/4/2010,Tuesday,May,81,62,No Holiday
+5/5/2010,Wednesday,May,80,58,No Holiday
+5/6/2010,Thursday,May,78,59,No Holiday
+5/7/2010,Friday,May,73,52,No Holiday
+5/8/2010,Saturday,May,76,49,No Holiday
+5/9/2010,Sunday,May,52,44,No Holiday
+5/10/2010,Monday,May,61,41,No Holiday
+5/11/2010,Tuesday,May,56,43,No Holiday
+5/12/2010,Wednesday,May,48,44,No Holiday
+5/13/2010,Thursday,May,67,43,No Holiday
+5/14/2010,Friday,May,80,55,No Holiday
+5/15/2010,Saturday,May,73,60,No Holiday
+5/16/2010,Sunday,May,72,54,No Holiday
+5/17/2010,Monday,May,74,55,No Holiday
+5/18/2010,Tuesday,May,62,50,No Holiday
+5/19/2010,Wednesday,May,64,50,No Holiday
+5/20/2010,Thursday,May,79,55,No Holiday
+5/21/2010,Friday,May,85,61,No Holiday
+5/22/2010,Saturday,May,74,57,No Holiday
+5/23/2010,Sunday,May,71,58,No Holiday
+5/24/2010,Monday,May,73,60,No Holiday
+5/25/2010,Tuesday,May,82,61,No Holiday
+5/26/2010,Wednesday,May,92,65,No Holiday
+5/27/2010,Thursday,May,83,55,No Holiday
+5/28/2010,Friday,May,70,56,No Holiday
+5/29/2010,Saturday,May,77,61,No Holiday
+5/30/2010,Sunday,May,84,67,No Holiday
+5/31/2010,Monday,May,86,69,holiday
+6/1/2010,Tuesday,June,85,66,No Holiday
+6/2/2010,Wednesday,June,87,67,No Holiday
+6/3/2010,Thursday,June,87,67,No Holiday
+6/4/2010,Friday,June,88,72,No Holiday
+6/5/2010,Saturday,June,88,76,No Holiday
+6/6/2010,Sunday,June,89,61,No Holiday
+6/7/2010,Monday,June,75,57,No Holiday
+6/8/2010,Tuesday,June,75,58,No Holiday
+6/9/2010,Wednesday,June,68,57,No Holiday
+6/10/2010,Thursday,June,74,58,No Holiday
+6/11/2010,Friday,June,71,58,No Holiday
+6/12/2010,Saturday,June,79,61,No Holiday
+6/13/2010,Sunday,June,78,65,No Holiday
+6/14/2010,Monday,June,79,64,No Holiday
+6/15/2010,Tuesday,June,81,64,No Holiday
+6/16/2010,Wednesday,June,75,64,No Holiday
+6/17/2010,Thursday,June,74,65,No Holiday
+6/18/2010,Friday,June,86,60,No Holiday
+6/19/2010,Saturday,June,81,64,No Holiday
+6/20/2010,Sunday,June,89,71,No Holiday
+6/21/2010,Monday,June,87,71,No Holiday
+6/22/2010,Tuesday,June,87,71,No Holiday
+6/23/2010,Wednesday,June,89,71,No Holiday
+6/24/2010,Thursday,June,92,76,No Holiday
+6/25/2010,Friday,June,87,71,No Holiday
+6/26/2010,Saturday,June,89,71,No Holiday
+6/27/2010,Sunday,June,91,71,No Holiday
+6/28/2010,Monday,June,93,76,No Holiday
+6/29/2010,Tuesday,June,91,70,No Holiday
+6/30/2010,Wednesday,June,79,62,No Holiday
+7/1/2010,Thursday,July,77,62,No Holiday
+7/2/2010,Friday,July,82,61,No Holiday
+7/3/2010,Saturday,July,89,65,No Holiday
+7/4/2010,Sunday,July,96,73,holiday
+7/5/2010,Monday,July,99,76,No Holiday
+7/6/2010,Tuesday,July,103,81,No Holiday
+7/7/2010,Wednesday,July,100,80,No Holiday
+7/8/2010,Thursday,July,89,77,No Holiday
+7/9/2010,Friday,July,90,75,No Holiday
+7/10/2010,Saturday,July,83,73,No Holiday
+7/11/2010,Sunday,July,94,71,No Holiday
+7/12/2010,Monday,July,94,73,No Holiday
+7/13/2010,Tuesday,July,83,73,No Holiday
+7/14/2010,Wednesday,July,79,73,No Holiday
+7/15/2010,Thursday,July,87,72,No Holiday
+7/16/2010,Friday,July,93,74,No Holiday
+7/17/2010,Saturday,July,94,76,No Holiday
+7/18/2010,Sunday,July,94,78,No Holiday
+7/19/2010,Monday,July,92,72,No Holiday
+7/20/2010,Tuesday,July,89,74,No Holiday
+7/21/2010,Wednesday,July,93,76,No Holiday
+7/22/2010,Thursday,July,90,74,No Holiday
+7/23/2010,Friday,July,87,73,No Holiday
+7/24/2010,Saturday,July,97,80,No Holiday
+7/25/2010,Sunday,July,93,70,No Holiday
+7/26/2010,Monday,July,87,68,No Holiday
+7/27/2010,Tuesday,July,91,70,No Holiday
+7/28/2010,Wednesday,July,89,74,No Holiday
+7/29/2010,Thursday,July,89,74,No Holiday
+7/30/2010,Friday,July,85,66,No Holiday
+7/31/2010,Saturday,July,85,66,No Holiday
+8/1/2010,Sunday,August,80,70,No Holiday
+8/2/2010,Monday,August,85,69,No Holiday
+8/3/2010,Tuesday,August,86,72,No Holiday
+8/4/2010,Wednesday,August,91,75,No Holiday
+8/5/2010,Thursday,August,95,77,No Holiday
+8/6/2010,Friday,August,90,70,No Holiday
+8/7/2010,Saturday,August,87,68,No Holiday
+8/8/2010,Sunday,August,89,73,No Holiday
+8/9/2010,Monday,August,94,74,No Holiday
+8/10/2010,Tuesday,August,92,78,No Holiday
+8/11/2010,Wednesday,August,93,76,No Holiday
+8/12/2010,Thursday,August,76,68,No Holiday
+8/13/2010,Friday,August,82,68,No Holiday
+8/14/2010,Saturday,August,82,65,No Holiday
+8/15/2010,Sunday,August,77,67,No Holiday
+8/16/2010,Monday,August,86,69,No Holiday
+8/17/2010,Tuesday,August,91,74,No Holiday
+8/18/2010,Wednesday,August,86,72,No Holiday
+8/19/2010,Thursday,August,91,68,No Holiday
+8/20/2010,Friday,August,90,73,No Holiday
+8/21/2010,Saturday,August,85,66,No Holiday
+8/22/2010,Sunday,August,80,69,No Holiday
+8/23/2010,Monday,August,70,65,No Holiday
+8/24/2010,Tuesday,August,70,64,No Holiday
+8/25/2010,Wednesday,August,69,64,No Holiday
+8/26/2010,Thursday,August,82,65,No Holiday
+8/27/2010,Friday,August,79,61,No Holiday
+8/28/2010,Saturday,August,83,62,No Holiday
+8/29/2010,Sunday,August,94,67,No Holiday
+8/30/2010,Monday,August,92,72,No Holiday
+8/31/2010,Tuesday,August,96,76,No Holiday
+9/1/2010,Wednesday,September,96,76,No Holiday
+9/2/2010,Thursday,September,94,78,No Holiday
+9/3/2010,Friday,September,85,75,No Holiday
+9/4/2010,Saturday,September,81,64,No Holiday
+9/5/2010,Sunday,September,78,61,No Holiday
+9/6/2010,Monday,September,80,60,holiday
+9/7/2010,Tuesday,September,89,68,No Holiday
+9/8/2010,Wednesday,September,90,66,No Holiday
+9/9/2010,Thursday,September,70,61,No Holiday
+9/10/2010,Friday,September,74,61,No Holiday
+9/11/2010,Saturday,September,79,59,No Holiday
+9/12/2010,Sunday,September,67,59,No Holiday
+9/13/2010,Monday,September,77,59,No Holiday
+9/14/2010,Tuesday,September,76,60,No Holiday
+9/15/2010,Wednesday,September,72,57,No Holiday
+9/16/2010,Thursday,September,72,57,No Holiday
+9/17/2010,Friday,September,71,59,No Holiday
+9/18/2010,Saturday,September,70,58,No Holiday
+9/19/2010,Sunday,September,81,61,No Holiday
+9/20/2010,Monday,September,74,59,No Holiday
+9/21/2010,Tuesday,September,74,54,No Holiday
+9/22/2010,Wednesday,September,87,64,No Holiday
+9/23/2010,Thursday,September,81,66,No Holiday
+9/24/2010,Friday,September,85,67,No Holiday
+9/25/2010,Saturday,September,89,67,No Holiday
+9/26/2010,Sunday,September,72,63,No Holiday
+9/27/2010,Monday,September,72,61,No Holiday
+9/28/2010,Tuesday,September,73,70,No Holiday
+9/29/2010,Wednesday,September,78,63,No Holiday
+9/30/2010,Thursday,September,75,69,No Holiday
+10/1/2010,Friday,October,74,59,No Holiday
+10/2/2010,Saturday,October,66,52,No Holiday
+10/3/2010,Sunday,October,64,50,No Holiday
+10/4/2010,Monday,October,55,52,No Holiday
+10/5/2010,Tuesday,October,61,53,No Holiday
+10/6/2010,Wednesday,October,64,54,No Holiday
+10/7/2010,Thursday,October,71,53,No Holiday
+10/8/2010,Friday,October,73,54,No Holiday
+10/9/2010,Saturday,October,72,54,No Holiday
+10/10/2010,Sunday,October,69,46,No Holiday
+10/11/2010,Monday,October,75,57,holiday
+10/12/2010,Tuesday,October,69,54,No Holiday
+10/13/2010,Wednesday,October,64,48,No Holiday
+10/14/2010,Thursday,October,63,50,No Holiday
+10/15/2010,Friday,October,57,49,No Holiday
+10/16/2010,Saturday,October,58,50,No Holiday
+10/17/2010,Sunday,October,69,48,No Holiday
+10/18/2010,Monday,October,60,50,No Holiday
+10/19/2010,Tuesday,October,59,47,No Holiday
+10/20/2010,Wednesday,October,59,47,No Holiday
+10/21/2010,Thursday,October,62,49,No Holiday
+10/22/2010,Friday,October,53,46,No Holiday
+10/23/2010,Saturday,October,64,44,No Holiday
+10/24/2010,Sunday,October,68,53,No Holiday
+10/25/2010,Monday,October,74,54,No Holiday
+10/26/2010,Tuesday,October,72,63,No Holiday
+10/27/2010,Wednesday,October,75,65,No Holiday
+10/28/2010,Thursday,October,74,56,No Holiday
+10/29/2010,Friday,October,57,47,No Holiday
+10/30/2010,Saturday,October,57,42,No Holiday
+10/31/2010,Sunday,October,58,42,No Holiday
+11/1/2010,Monday,November,49,37,No Holiday
+11/2/2010,Tuesday,November,50,36,No Holiday
+11/3/2010,Wednesday,November,54,41,No Holiday
+11/4/2010,Thursday,November,51,47,No Holiday
+11/5/2010,Friday,November,52,45,No Holiday
+11/6/2010,Saturday,November,51,40,No Holiday
+11/7/2010,Sunday,November,51,36,No Holiday
+11/8/2010,Monday,November,45,40,No Holiday
+11/9/2010,Tuesday,November,54,41,No Holiday
+11/10/2010,Wednesday,November,56,46,No Holiday
+11/11/2010,Thursday,November,56,42,holiday
+11/12/2010,Friday,November,62,45,No Holiday
+11/13/2010,Saturday,November,64,46,No Holiday
+11/14/2010,Sunday,November,61,46,No Holiday
+11/15/2010,Monday,November,57,50,No Holiday
+11/16/2010,Tuesday,November,59,52,No Holiday
+11/17/2010,Wednesday,November,60,51,No Holiday
+11/18/2010,Thursday,November,55,45,No Holiday
+11/19/2010,Friday,November,48,40,No Holiday
+11/20/2010,Saturday,November,55,41,No Holiday
+11/21/2010,Sunday,November,48,39,No Holiday
+11/22/2010,Monday,November,65,45,No Holiday
+11/23/2010,Tuesday,November,61,50,No Holiday
+11/24/2010,Wednesday,November,50,41,No Holiday
+11/25/2010,Thursday,November,46,39,holiday
+11/26/2010,Friday,November,53,38,No Holiday
+11/27/2010,Saturday,November,42,34,No Holiday
+11/28/2010,Sunday,November,47,34,No Holiday
+11/29/2010,Monday,November,48,35,No Holiday
+11/30/2010,Tuesday,November,57,44,No Holiday
+12/1/2010,Wednesday,December,60,40,No Holiday
+12/2/2010,Thursday,December,42,34,No Holiday
+12/3/2010,Friday,December,40,33,No Holiday
+12/4/2010,Saturday,December,40,32,No Holiday
+12/5/2010,Sunday,December,35,30,No Holiday
+12/6/2010,Monday,December,35,30,No Holiday
+12/7/2010,Tuesday,December,36,30,No Holiday
+12/8/2010,Wednesday,December,34,27,No Holiday
+12/9/2010,Thursday,December,30,23,No Holiday
+12/10/2010,Friday,December,38,22,No Holiday
+12/11/2010,Saturday,December,46,34,No Holiday
+12/12/2010,Sunday,December,56,40,No Holiday
+12/13/2010,Monday,December,49,21,No Holiday
+12/14/2010,Tuesday,December,23,19,No Holiday
+12/15/2010,Wednesday,December,27,20,No Holiday
+12/16/2010,Thursday,December,30,23,No Holiday
+12/17/2010,Friday,December,36,23,No Holiday
+12/18/2010,Saturday,December,36,28,No Holiday
+12/19/2010,Sunday,December,37,30,No Holiday
+12/20/2010,Monday,December,37,25,No Holiday
+12/21/2010,Tuesday,December,38,28,No Holiday
+12/22/2010,Wednesday,December,38,28,No Holiday
+12/23/2010,Thursday,December,35,30,No Holiday
+12/24/2010,Friday,December,40,29,No Holiday
+12/25/2010,Saturday,December,32,25,holiday
+12/26/2010,Sunday,December,30,21,No Holiday
+12/27/2010,Monday,December,28,20,No Holiday
+12/28/2010,Tuesday,December,38,24,No Holiday
+12/29/2010,Wednesday,December,37,31,No Holiday
+12/30/2010,Thursday,December,40,28,No Holiday
+12/31/2010,Friday,December,45,36,No Holiday
+1/1/2011,Saturday,January ,53,40,holiday
+1/2/2011,Sunday,January ,52,35,No Holiday
+1/3/2011,Monday,January ,36,28,No Holiday
+1/4/2011,Tuesday,January ,40,30,No Holiday
+1/5/2011,Wednesday,January ,39,29,No Holiday
+1/6/2011,Thursday,January ,33,26,No Holiday
+1/7/2011,Friday,January ,33,25,No Holiday
+1/8/2011,Saturday,January ,31,23,No Holiday
+1/9/2011,Sunday,January ,32,26,No Holiday
+1/10/2011,Monday,January ,35,24,No Holiday
+1/11/2011,Tuesday,January ,31,23,No Holiday
+1/12/2011,Wednesday,January ,31,24,No Holiday
+1/13/2011,Thursday,January ,30,18,No Holiday
+1/14/2011,Friday,January ,30,18,No Holiday
+1/15/2011,Saturday,January ,38,23,No Holiday
+1/16/2011,Sunday,January ,37,26,No Holiday
+1/17/2011,Monday,January ,27,19,holiday
+1/18/2011,Tuesday,January ,41,24,No Holiday
+1/19/2011,Wednesday,January ,41,35,No Holiday
+1/20/2011,Thursday,January ,35,30,No Holiday
+1/21/2011,Friday,January ,32,18,No Holiday
+1/22/2011,Saturday,January ,24,13,No Holiday
+1/23/2011,Sunday,January ,24,11,No Holiday
+1/24/2011,Monday,January ,24,6,No Holiday
+1/25/2011,Tuesday,January ,37,24,No Holiday
+1/26/2011,Wednesday,January ,35,30,No Holiday
+1/27/2011,Thursday,January ,36,29,No Holiday
+1/28/2011,Friday,January ,34,28,No Holiday
+1/29/2011,Saturday,January ,36,29,No Holiday
+1/30/2011,Sunday,January ,39,27,No Holiday
+1/31/2011,Monday,January ,31,22,No Holiday
+2/1/2011,Tuesday,February,30,25,No Holiday
+2/2/2011,Wednesday,February,38,27,No Holiday
+2/3/2011,Thursday,February,34,24,No Holiday
+2/4/2011,Friday,February,34,23,No Holiday
+2/5/2011,Saturday,February,43,31,No Holiday
+2/6/2011,Sunday,February,45,37,No Holiday
+2/7/2011,Monday,February,45,36,No Holiday
+2/8/2011,Tuesday,February,41,18,No Holiday
+2/9/2011,Wednesday,February,29,15,No Holiday
+2/10/2011,Thursday,February,29,22,No Holiday
+2/11/2011,Friday,February,37,19,No Holiday
+2/12/2011,Saturday,February,40,30,No Holiday
+2/13/2011,Sunday,February,46,28,No Holiday
+2/14/2011,Monday,February,58,37,No Holiday
+2/15/2011,Tuesday,February,37,25,No Holiday
+2/16/2011,Wednesday,February,48,26,No Holiday
+2/17/2011,Thursday,February,63,46,No Holiday
+2/18/2011,Friday,February,67,46,No Holiday
+2/19/2011,Saturday,February,54,23,No Holiday
+2/20/2011,Sunday,February,40,21,No Holiday
+2/21/2011,Monday,February,37,24,holiday
+2/22/2011,Tuesday,February,36,16,No Holiday
+2/23/2011,Wednesday,February,40,21,No Holiday
+2/24/2011,Thursday,February,44,30,No Holiday
+2/25/2011,Friday,February,57,34,No Holiday
+2/26/2011,Saturday,February,43,31,No Holiday
+2/27/2011,Sunday,February,50,38,No Holiday
+2/28/2011,Monday,February,60,40,No Holiday
+3/1/2011,Tuesday,March,46,33,No Holiday
+3/2/2011,Wednesday,March,53,25,No Holiday
+3/3/2011,Thursday,March,33,20,No Holiday
+3/4/2011,Friday,March,41,27,No Holiday
+3/5/2011,Saturday,March,61,41,No Holiday
+3/6/2011,Sunday,March,54,50,No Holiday
+3/7/2011,Monday,March,53,34,No Holiday
+3/8/2011,Tuesday,March,48,29,No Holiday
+3/9/2011,Wednesday,March,45,34,No Holiday
+3/10/2011,Thursday,March,53,38,No Holiday
+3/11/2011,Friday,March,55,40,No Holiday
+3/12/2011,Saturday,March,56,38,No Holiday
+3/13/2011,Sunday,March,53,41,No Holiday
+3/14/2011,Monday,March,45,37,No Holiday
+3/15/2011,Tuesday,March,47,34,No Holiday
+3/16/2011,Wednesday,March,57,38,No Holiday
+3/17/2011,Thursday,March,65,44,No Holiday
+3/18/2011,Friday,March,77,51,No Holiday
+3/19/2011,Saturday,March,59,38,No Holiday
+3/20/2011,Sunday,March,51,34,No Holiday
+3/21/2011,Monday,March,45,36,No Holiday
+3/22/2011,Tuesday,March,50,40,No Holiday
+3/23/2011,Wednesday,March,40,32,No Holiday
+3/24/2011,Thursday,March,44,30,No Holiday
+3/25/2011,Friday,March,42,28,No Holiday
+3/26/2011,Saturday,March,40,26,No Holiday
+3/27/2011,Sunday,March,45,28,No Holiday
+3/28/2011,Monday,March,45,26,No Holiday
+3/29/2011,Tuesday,March,49,31,No Holiday
+3/30/2011,Wednesday,March,53,36,No Holiday
+3/31/2011,Thursday,March,43,37,No Holiday
+4/1/2011,Friday,April,44,35,No Holiday
+4/2/2011,Saturday,April,55,38,No Holiday
+4/3/2011,Sunday,April,58,42,No Holiday
+4/4/2011,Monday,April,63,43,No Holiday
+4/5/2011,Tuesday,April,67,41,No Holiday
+4/6/2011,Wednesday,April,55,38,No Holiday
+4/7/2011,Thursday,April,52,42,No Holiday
+4/8/2011,Friday,April,49,42,No Holiday
+4/9/2011,Saturday,April,58,40,No Holiday
+4/10/2011,Sunday,April,56,46,No Holiday
+4/11/2011,Monday,April,81,50,No Holiday
+4/12/2011,Tuesday,April,72,45,No Holiday
+4/13/2011,Wednesday,April,50,43,No Holiday
+4/14/2011,Thursday,April,69,48,No Holiday
+4/15/2011,Friday,April,56,41,No Holiday
+4/16/2011,Saturday,April,55,41,No Holiday
+4/17/2011,Sunday,April,61,50,No Holiday
+4/18/2011,Monday,April,63,47,No Holiday
+4/19/2011,Tuesday,April,53,47,No Holiday
+4/20/2011,Wednesday,April,65,45,No Holiday
+4/21/2011,Thursday,April,63,43,No Holiday
+4/22/2011,Friday,April,51,40,No Holiday
+4/23/2011,Saturday,April,61,43,No Holiday
+4/24/2011,Sunday,April,80,54,No Holiday
+4/25/2011,Monday,April,75,56,No Holiday
+4/26/2011,Tuesday,April,83,54,No Holiday
+4/27/2011,Wednesday,April,75,61,No Holiday
+4/28/2011,Thursday,April,72,61,No Holiday
+4/29/2011,Friday,April,69,54,No Holiday
+4/30/2011,Saturday,April,67,50,No Holiday
+5/1/2011,Sunday,May,69,50,No Holiday
+5/2/2011,Monday,May,63,50,No Holiday
+5/3/2011,Tuesday,May,75,55,No Holiday
+5/4/2011,Wednesday,May,64,46,No Holiday
+5/5/2011,Thursday,May,65,46,No Holiday
+5/6/2011,Friday,May,72,50,No Holiday
+5/7/2011,Saturday,May,72,55,No Holiday
+5/8/2011,Sunday,May,74,52,No Holiday
+5/9/2011,Monday,May,71,54,No Holiday
+5/10/2011,Tuesday,May,75,53,No Holiday
+5/11/2011,Wednesday,May,71,52,No Holiday
+5/12/2011,Thursday,May,74,52,No Holiday
+5/13/2011,Friday,May,67,52,No Holiday
+5/14/2011,Saturday,May,64,57,No Holiday
+5/15/2011,Sunday,May,69,58,No Holiday
+5/16/2011,Monday,May,62,53,No Holiday
+5/17/2011,Tuesday,May,60,52,No Holiday
+5/18/2011,Wednesday,May,67,54,No Holiday
+5/19/2011,Thursday,May,75,60,No Holiday
+5/20/2011,Friday,May,64,57,No Holiday
+5/21/2011,Saturday,May,78,55,No Holiday
+5/22/2011,Sunday,May,58,54,No Holiday
+5/23/2011,Monday,May,67,55,No Holiday
+5/24/2011,Tuesday,May,81,66,No Holiday
+5/25/2011,Wednesday,May,84,65,No Holiday
+5/26/2011,Thursday,May,78,64,No Holiday
+5/27/2011,Friday,May,83,65,No Holiday
+5/28/2011,Saturday,May,84,67,No Holiday
+5/29/2011,Sunday,May,82,67,No Holiday
+5/30/2011,Monday,May,86,70,holiday
+5/31/2011,Tuesday,May,89,69,No Holiday
+6/1/2011,Wednesday,June,90,69,No Holiday
+6/2/2011,Thursday,June,80,62,No Holiday
+6/3/2011,Friday,June,76,57,No Holiday
+6/4/2011,Saturday,June,75,59,No Holiday
+6/5/2011,Sunday,June,70,56,No Holiday
+6/6/2011,Monday,June,81,60,No Holiday
+6/7/2011,Tuesday,June,87,66,No Holiday
+6/8/2011,Wednesday,June,94,73,No Holiday
+6/9/2011,Thursday,June,95,69,No Holiday
+6/10/2011,Friday,June,87,70,No Holiday
+6/11/2011,Saturday,June,72,59,No Holiday
+6/12/2011,Sunday,June,74,58,No Holiday
+6/13/2011,Monday,June,73,60,No Holiday
+6/14/2011,Tuesday,June,72,58,No Holiday
+6/15/2011,Wednesday,June,83,56,No Holiday
+6/16/2011,Thursday,June,84,62,No Holiday
+6/17/2011,Friday,June,76,64,No Holiday
+6/18/2011,Saturday,June,83,64,No Holiday
+6/19/2011,Sunday,June,83,69,No Holiday
+6/20/2011,Monday,June,81,67,No Holiday
+6/21/2011,Tuesday,June,82,70,No Holiday
+6/22/2011,Wednesday,June,80,71,No Holiday
+6/23/2011,Thursday,June,71,66,No Holiday
+6/24/2011,Friday,June,70,65,No Holiday
+6/25/2011,Saturday,June,80,64,No Holiday
+6/26/2011,Sunday,June,79,66,No Holiday
+6/27/2011,Monday,June,82,66,No Holiday
+6/28/2011,Tuesday,June,83,72,No Holiday
+6/29/2011,Wednesday,June,82,69,No Holiday
+6/30/2011,Thursday,June,82,65,No Holiday
+7/1/2011,Friday,July,83,63,No Holiday
+7/2/2011,Saturday,July,86,68,No Holiday
+7/3/2011,Sunday,July,74,69,No Holiday
+7/4/2011,Monday,July,86,70,holiday
+7/5/2011,Tuesday,July,87,70,No Holiday
+7/6/2011,Wednesday,July,89,73,No Holiday
+7/7/2011,Thursday,July,92,74,No Holiday
+7/8/2011,Friday,July,85,68,No Holiday
+7/9/2011,Saturday,July,88,67,No Holiday
+7/10/2011,Sunday,July,86,68,No Holiday
+7/11/2011,Monday,July,91,74,No Holiday
+7/12/2011,Tuesday,July,93,78,No Holiday
+7/13/2011,Wednesday,July,86,69,No Holiday
+7/14/2011,Thursday,July,84,64,No Holiday
+7/15/2011,Friday,July,87,66,No Holiday
+7/16/2011,Saturday,July,90,70,No Holiday
+7/17/2011,Sunday,July,91,72,No Holiday
+7/18/2011,Monday,July,95,75,No Holiday
+7/19/2011,Tuesday,July,94,75,No Holiday
+7/20/2011,Wednesday,July,89,75,No Holiday
+7/21/2011,Thursday,July,97,75,No Holiday
+7/22/2011,Friday,July,104,84,No Holiday
+7/23/2011,Saturday,July,100,83,No Holiday
+7/24/2011,Sunday,July,91,78,No Holiday
+7/25/2011,Monday,July,80,68,No Holiday
+7/26/2011,Tuesday,July,90,69,No Holiday
+7/27/2011,Wednesday,July,84,68,No Holiday
+7/28/2011,Thursday,July,87,71,No Holiday
+7/29/2011,Friday,July,84,71,No Holiday
+7/30/2011,Saturday,July,91,74,No Holiday
+7/31/2011,Sunday,July,91,71,No Holiday
+8/1/2011,Monday,August,94,71,No Holiday
+8/2/2011,Tuesday,August,91,73,No Holiday
+8/3/2011,Wednesday,August,88,67,No Holiday
+8/4/2011,Thursday,August,84,67,No Holiday
+8/5/2011,Friday,August,86,70,No Holiday
+8/6/2011,Saturday,August,85,72,No Holiday
+8/7/2011,Sunday,August,89,73,No Holiday
+8/8/2011,Monday,August,90,74,No Holiday
+8/9/2011,Tuesday,August,83,71,No Holiday
+8/10/2011,Wednesday,August,86,70,No Holiday
+8/11/2011,Thursday,August,82,69,No Holiday
+8/12/2011,Friday,August,84,64,No Holiday
+8/13/2011,Saturday,August,85,69,No Holiday
+8/14/2011,Sunday,August,72,67,No Holiday
+8/15/2011,Monday,August,77,68,No Holiday
+8/16/2011,Tuesday,August,78,65,No Holiday
+8/17/2011,Wednesday,August,86,66,No Holiday
+8/18/2011,Thursday,August,83,67,No Holiday
+8/19/2011,Friday,August,84,65,No Holiday
+8/20/2011,Saturday,August,85,64,No Holiday
+8/21/2011,Sunday,August,84,70,No Holiday
+8/22/2011,Monday,August,77,65,No Holiday
+8/23/2011,Tuesday,August,79,61,No Holiday
+8/24/2011,Wednesday,August,80,67,No Holiday
+8/25/2011,Thursday,August,78,72,No Holiday
+8/26/2011,Friday,August,83,71,No Holiday
+8/27/2011,Saturday,August,78,71,No Holiday
+8/28/2011,Sunday,August,75,65,No Holiday
+8/29/2011,Monday,August,77,59,No Holiday
+8/30/2011,Tuesday,August,82,61,No Holiday
+8/31/2011,Wednesday,August,85,63,No Holiday
+9/1/2011,Thursday,September,83,66,No Holiday
+9/2/2011,Friday,September,78,65,No Holiday
+9/3/2011,Saturday,September,83,66,No Holiday
+9/4/2011,Sunday,September,86,72,No Holiday
+9/5/2011,Monday,September,81,72,holiday
+9/6/2011,Tuesday,September,75,60,No Holiday
+9/7/2011,Wednesday,September,68,62,No Holiday
+9/8/2011,Thursday,September,79,63,No Holiday
+9/9/2011,Friday,September,84,67,No Holiday
+9/10/2011,Saturday,September,80,68,No Holiday
+9/11/2011,Sunday,September,71,64,No Holiday
+9/12/2011,Monday,September,80,66,No Holiday
+9/13/2011,Tuesday,September,82,67,No Holiday
+9/14/2011,Wednesday,September,85,70,No Holiday
+9/15/2011,Thursday,September,76,53,No Holiday
+9/16/2011,Friday,September,65,51,No Holiday
+9/17/2011,Saturday,September,65,53,No Holiday
+9/18/2011,Sunday,September,68,53,No Holiday
+9/19/2011,Monday,September,68,52,No Holiday
+9/20/2011,Tuesday,September,68,61,No Holiday
+9/21/2011,Wednesday,September,73,63,No Holiday
+9/22/2011,Thursday,September,80,68,No Holiday
+9/23/2011,Friday,September,73,69,No Holiday
+9/24/2011,Saturday,September,76,70,No Holiday
+9/25/2011,Sunday,September,80,70,No Holiday
+9/26/2011,Monday,September,80,68,No Holiday
+9/27/2011,Tuesday,September,77,69,No Holiday
+9/28/2011,Wednesday,September,74,68,No Holiday
+9/29/2011,Thursday,September,73,61,No Holiday
+9/30/2011,Friday,September,76,58,No Holiday
+10/1/2011,Saturday,October,67,50,No Holiday
+10/2/2011,Sunday,October,64,50,No Holiday
+10/3/2011,Monday,October,58,48,No Holiday
+10/4/2011,Tuesday,October,63,49,No Holiday
+10/5/2011,Wednesday,October,71,53,No Holiday
+10/6/2011,Thursday,October,67,47,No Holiday
+10/7/2011,Friday,October,66,48,No Holiday
+10/8/2011,Saturday,October,77,54,No Holiday
+10/9/2011,Sunday,October,84,60,No Holiday
+10/10/2011,Monday,October,81,61,holiday
+10/11/2011,Tuesday,October,73,62,No Holiday
+10/12/2011,Wednesday,October,63,58,No Holiday
+10/13/2011,Thursday,October,66,58,No Holiday
+10/14/2011,Friday,October,70,57,No Holiday
+10/15/2011,Saturday,October,65,54,No Holiday
+10/16/2011,Sunday,October,66,54,No Holiday
+10/17/2011,Monday,October,65,57,No Holiday
+10/18/2011,Tuesday,October,68,54,No Holiday
+10/19/2011,Wednesday,October,62,60,No Holiday
+10/20/2011,Thursday,October,67,54,No Holiday
+10/21/2011,Friday,October,56,50,No Holiday
+10/22/2011,Saturday,October,60,47,No Holiday
+10/23/2011,Sunday,October,59,50,No Holiday
+10/24/2011,Monday,October,61,50,No Holiday
+10/25/2011,Tuesday,October,62,50,No Holiday
+10/26/2011,Wednesday,October,62,51,No Holiday
+10/27/2011,Thursday,October,61,38,No Holiday
+10/28/2011,Friday,October,49,36,No Holiday
+10/29/2011,Saturday,October,45,33,No Holiday
+10/30/2011,Sunday,October,46,33,No Holiday
+10/31/2011,Monday,October,53,37,No Holiday
+11/1/2011,Tuesday,November,55,45,No Holiday
+11/2/2011,Wednesday,November,57,42,No Holiday
+11/3/2011,Thursday,November,59,46,No Holiday
+11/4/2011,Friday,November,53,41,No Holiday
+11/5/2011,Saturday,November,49,36,No Holiday
+11/6/2011,Sunday,November,54,38,No Holiday
+11/7/2011,Monday,November,62,45,No Holiday
+11/8/2011,Tuesday,November,68,53,No Holiday
+11/9/2011,Wednesday,November,65,51,No Holiday
+11/10/2011,Thursday,November,67,47,No Holiday
+11/11/2011,Friday,November,48,41,holiday
+11/12/2011,Saturday,November,57,39,No Holiday
+11/13/2011,Sunday,November,61,47,No Holiday
+11/14/2011,Monday,November,69,54,No Holiday
+11/15/2011,Tuesday,November,65,58,No Holiday
+11/16/2011,Wednesday,November,59,53,No Holiday
+11/17/2011,Thursday,November,53,40,No Holiday
+11/18/2011,Friday,November,46,36,No Holiday
+11/19/2011,Saturday,November,51,38,No Holiday
+11/20/2011,Sunday,November,65,49,No Holiday
+11/21/2011,Monday,November,59,46,No Holiday
+11/22/2011,Tuesday,November,50,43,No Holiday
+11/23/2011,Wednesday,November,53,39,No Holiday
+11/24/2011,Thursday,November,54,37,holiday
+11/25/2011,Friday,November,61,46,No Holiday
+11/26/2011,Saturday,November,65,50,No Holiday
+11/27/2011,Sunday,November,63,47,No Holiday
+11/28/2011,Monday,November,70,56,No Holiday
+11/29/2011,Tuesday,November,66,51,No Holiday
+11/30/2011,Wednesday,November,52,43,No Holiday
+12/1/2011,Thursday,December,50,37,No Holiday
+12/2/2011,Friday,December,52,39,No Holiday
+12/3/2011,Saturday,December,47,37,No Holiday
+12/4/2011,Sunday,December,55,42,No Holiday
+12/5/2011,Monday,December,59,47,No Holiday
+12/6/2011,Tuesday,December,62,56,No Holiday
+12/7/2011,Wednesday,December,62,42,No Holiday
+12/8/2011,Thursday,December,45,36,No Holiday
+12/9/2011,Friday,December,52,36,No Holiday
+12/10/2011,Saturday,December,46,32,No Holiday
+12/11/2011,Sunday,December,39,29,No Holiday
+12/12/2011,Monday,December,44,33,No Holiday
+12/13/2011,Tuesday,December,47,32,No Holiday
+12/14/2011,Wednesday,December,50,36,No Holiday
+12/15/2011,Thursday,December,59,47,No Holiday
+12/16/2011,Friday,December,59,41,No Holiday
+12/17/2011,Saturday,December,42,31,No Holiday
+12/18/2011,Sunday,December,31,22,No Holiday
+12/19/2011,Monday,December,47,28,No Holiday
+12/20/2011,Tuesday,December,48,41,No Holiday
+12/21/2011,Wednesday,December,62,42,No Holiday
+12/22/2011,Thursday,December,58,48,No Holiday
+12/23/2011,Friday,December,49,35,No Holiday
+12/24/2011,Saturday,December,36,29,No Holiday
+12/25/2011,Sunday,December,46,31,holiday
+12/26/2011,Monday,December,45,38,No Holiday
+12/27/2011,Tuesday,December,57,38,No Holiday
+12/28/2011,Wednesday,December,50,31,No Holiday
+12/29/2011,Thursday,December,38,24,No Holiday
+12/30/2011,Friday,December,51,37,No Holiday
+12/31/2011,Saturday,December,54,46,No Holiday
+1/1/2012,Sunday,January ,52,41,holiday
+1/2/2012,Monday,January ,50,33,No Holiday
+1/3/2012,Tuesday,January ,33,15,No Holiday
+1/4/2012,Wednesday,January ,27,13,No Holiday
+1/5/2012,Thursday,January ,40,27,No Holiday
+1/6/2012,Friday,January ,53,35,No Holiday
+1/7/2012,Saturday,January ,62,46,No Holiday
+1/8/2012,Sunday,January ,46,33,No Holiday
+1/9/2012,Monday,January ,41,31,No Holiday
+1/10/2012,Tuesday,January ,47,33,No Holiday
+1/11/2012,Wednesday,January ,48,37,No Holiday
+1/12/2012,Thursday,January ,45,41,No Holiday
+1/13/2012,Friday,January ,50,28,No Holiday
+1/14/2012,Saturday,January ,32,27,No Holiday
+1/15/2012,Sunday,January ,27,15,No Holiday
+1/16/2012,Monday,January ,37,15,holiday
+1/17/2012,Tuesday,January ,53,36,No Holiday
+1/18/2012,Wednesday,January ,54,24,No Holiday
+1/19/2012,Thursday,January ,37,20,No Holiday
+1/20/2012,Friday,January ,36,24,No Holiday
+1/21/2012,Saturday,January ,29,22,No Holiday
+1/22/2012,Sunday,January ,34,18,No Holiday
+1/23/2012,Monday,January ,53,34,No Holiday
+1/24/2012,Tuesday,January ,53,42,No Holiday
+1/25/2012,Wednesday,January ,44,36,No Holiday
+1/26/2012,Thursday,January ,40,33,No Holiday
+1/27/2012,Friday,January ,59,40,No Holiday
+1/28/2012,Saturday,January ,46,38,No Holiday
+1/29/2012,Sunday,January ,44,34,No Holiday
+1/30/2012,Monday,January ,40,34,No Holiday
+1/31/2012,Tuesday,January ,59,38,No Holiday
+2/1/2012,Wednesday,February,62,48,No Holiday
+2/2/2012,Thursday,February,50,35,No Holiday
+2/3/2012,Friday,February,44,30,No Holiday
+2/4/2012,Saturday,February,46,35,No Holiday
+2/5/2012,Sunday,February,40,32,No Holiday
+2/6/2012,Monday,February,51,33,No Holiday
+2/7/2012,Tuesday,February,49,38,No Holiday
+2/8/2012,Wednesday,February,38,31,No Holiday
+2/9/2012,Thursday,February,46,31,No Holiday
+2/10/2012,Friday,February,45,34,No Holiday
+2/11/2012,Saturday,February,38,32,No Holiday
+2/12/2012,Sunday,February,32,20,No Holiday
+2/13/2012,Monday,February,44,28,No Holiday
+2/14/2012,Tuesday,February,47,36,No Holiday
+2/15/2012,Wednesday,February,46,39,No Holiday
+2/16/2012,Thursday,February,44,36,No Holiday
+2/17/2012,Friday,February,50,41,No Holiday
+2/18/2012,Saturday,February,48,35,No Holiday
+2/19/2012,Sunday,February,44,35,No Holiday
+2/20/2012,Monday,February,46,31,holiday
+2/21/2012,Tuesday,February,46,32,No Holiday
+2/22/2012,Wednesday,February,57,43,No Holiday
+2/23/2012,Thursday,February,58,46,No Holiday
+2/24/2012,Friday,February,46,36,No Holiday
+2/25/2012,Saturday,February,45,33,No Holiday
+2/26/2012,Sunday,February,45,29,No Holiday
+2/27/2012,Monday,February,59,36,No Holiday
+2/28/2012,Tuesday,February,50,40,No Holiday
+2/29/2012,Wednesday,February,42,38,No Holiday
+3/1/2012,Thursday,March,41,37,No Holiday
+3/2/2012,Friday,March,42,33,No Holiday
+3/3/2012,Saturday,March,56,42,No Holiday
+3/4/2012,Sunday,March,45,36,No Holiday
+3/5/2012,Monday,March,44,28,No Holiday
+3/6/2012,Tuesday,March,44,25,No Holiday
+3/7/2012,Wednesday,March,62,37,No Holiday
+3/8/2012,Thursday,March,71,53,No Holiday
+3/9/2012,Friday,March,64,37,No Holiday
+3/10/2012,Saturday,March,43,29,No Holiday
+3/11/2012,Sunday,March,61,36,No Holiday
+3/12/2012,Monday,March,71,47,No Holiday
+3/13/2012,Tuesday,March,74,54,No Holiday
+3/14/2012,Wednesday,March,70,50,No Holiday
+3/15/2012,Thursday,March,52,43,No Holiday
+3/16/2012,Friday,March,51,43,No Holiday
+3/17/2012,Saturday,March,62,45,No Holiday
+3/18/2012,Sunday,March,64,46,No Holiday
+3/19/2012,Monday,March,74,55,No Holiday
+3/20/2012,Tuesday,March,73,55,No Holiday
+3/21/2012,Wednesday,March,67,57,No Holiday
+3/22/2012,Thursday,March,78,56,No Holiday
+3/23/2012,Friday,March,76,58,No Holiday
+3/24/2012,Saturday,March,65,47,No Holiday
+3/25/2012,Sunday,March,52,45,No Holiday
+3/26/2012,Monday,March,54,34,No Holiday
+3/27/2012,Tuesday,March,51,30,No Holiday
+3/28/2012,Wednesday,March,67,44,No Holiday
+3/29/2012,Thursday,March,61,43,No Holiday
+3/30/2012,Friday,March,57,40,No Holiday
+3/31/2012,Saturday,March,43,38,No Holiday
+4/1/2012,Sunday,April,52,42,No Holiday
+4/2/2012,Monday,April,57,40,No Holiday
+4/3/2012,Tuesday,April,64,40,No Holiday
+4/4/2012,Wednesday,April,68,47,No Holiday
+4/5/2012,Thursday,April,58,42,No Holiday
+4/6/2012,Friday,April,59,38,No Holiday
+4/7/2012,Saturday,April,61,40,No Holiday
+4/8/2012,Sunday,April,67,44,No Holiday
+4/9/2012,Monday,April,64,49,No Holiday
+4/10/2012,Tuesday,April,60,45,No Holiday
+4/11/2012,Wednesday,April,53,43,No Holiday
+4/12/2012,Thursday,April,61,43,No Holiday
+4/13/2012,Friday,April,65,43,No Holiday
+4/14/2012,Saturday,April,72,50,No Holiday
+4/15/2012,Sunday,April,77,58,No Holiday
+4/16/2012,Monday,April,88,65,No Holiday
+4/17/2012,Tuesday,April,78,61,No Holiday
+4/18/2012,Wednesday,April,62,49,No Holiday
+4/19/2012,Thursday,April,70,47,No Holiday
+4/20/2012,Friday,April,71,54,No Holiday
+4/21/2012,Saturday,April,71,54,No Holiday
+4/22/2012,Sunday,April,54,46,No Holiday
+4/23/2012,Monday,April,54,42,No Holiday
+4/24/2012,Tuesday,April,59,41,No Holiday
+4/25/2012,Wednesday,April,62,43,No Holiday
+4/26/2012,Thursday,April,61,45,No Holiday
+4/27/2012,Friday,April,56,41,No Holiday
+4/28/2012,Saturday,April,60,38,No Holiday
+4/29/2012,Sunday,April,63,44,No Holiday
+4/30/2012,Monday,April,62,43,No Holiday
+5/1/2012,Tuesday,May,68,51,No Holiday
+5/2/2012,Wednesday,May,53,50,No Holiday
+5/3/2012,Thursday,May,58,50,No Holiday
+5/4/2012,Friday,May,73,54,No Holiday
+5/5/2012,Saturday,May,63,56,No Holiday
+5/6/2012,Sunday,May,65,53,No Holiday
+5/7/2012,Monday,May,65,52,No Holiday
+5/8/2012,Tuesday,May,66,55,No Holiday
+5/9/2012,Wednesday,May,69,57,No Holiday
+5/10/2012,Thursday,May,64,52,No Holiday
+5/11/2012,Friday,May,68,49,No Holiday
+5/12/2012,Saturday,May,78,53,No Holiday
+5/13/2012,Sunday,May,81,63,No Holiday
+5/14/2012,Monday,May,70,63,No Holiday
+5/15/2012,Tuesday,May,65,61,No Holiday
+5/16/2012,Wednesday,May,78,61,No Holiday
+5/17/2012,Thursday,May,72,53,No Holiday
+5/18/2012,Friday,May,72,54,No Holiday
+5/19/2012,Saturday,May,80,53,No Holiday
+5/20/2012,Sunday,May,78,57,No Holiday
+5/21/2012,Monday,May,62,57,No Holiday
+5/22/2012,Tuesday,May,70,60,No Holiday
+5/23/2012,Wednesday,May,75,64,No Holiday
+5/24/2012,Thursday,May,66,62,No Holiday
+5/25/2012,Friday,May,75,60,No Holiday
+5/26/2012,Saturday,May,84,67,No Holiday
+5/27/2012,Sunday,May,81,64,No Holiday
+5/28/2012,Monday,May,89,71,holiday
+5/29/2012,Tuesday,May,89,68,No Holiday
+5/30/2012,Wednesday,May,76,68,No Holiday
+5/31/2012,Thursday,May,79,66,No Holiday
+6/1/2012,Friday,June,74,62,No Holiday
+6/2/2012,Saturday,June,75,61,No Holiday
+6/3/2012,Sunday,June,76,58,No Holiday
+6/4/2012,Monday,June,63,54,No Holiday
+6/5/2012,Tuesday,June,64,51,No Holiday
+6/6/2012,Wednesday,June,72,54,No Holiday
+6/7/2012,Thursday,June,78,58,No Holiday
+6/8/2012,Friday,June,81,60,No Holiday
+6/9/2012,Saturday,June,78,64,No Holiday
+6/10/2012,Sunday,June,84,66,No Holiday
+6/11/2012,Monday,June,77,64,No Holiday
+6/12/2012,Tuesday,June,72,65,No Holiday
+6/13/2012,Wednesday,June,69,64,No Holiday
+6/14/2012,Thursday,June,77,62,No Holiday
+6/15/2012,Friday,June,80,60,No Holiday
+6/16/2012,Saturday,June,80,60,No Holiday
+6/17/2012,Sunday,June,73,58,No Holiday
+6/18/2012,Monday,June,72,57,No Holiday
+6/19/2012,Tuesday,June,77,63,No Holiday
+6/20/2012,Wednesday,June,94,70,No Holiday
+6/21/2012,Thursday,June,94,79,No Holiday
+6/22/2012,Friday,June,90,70,No Holiday
+6/23/2012,Saturday,June,84,69,No Holiday
+6/24/2012,Sunday,June,84,66,No Holiday
+6/25/2012,Monday,June,74,62,No Holiday
+6/26/2012,Tuesday,June,72,58,No Holiday
+6/27/2012,Wednesday,June,81,62,No Holiday
+6/28/2012,Thursday,June,88,68,No Holiday
+6/29/2012,Friday,June,93,68,No Holiday
+6/30/2012,Saturday,June,93,77,No Holiday
+7/1/2012,Sunday,July,94,74,No Holiday
+7/2/2012,Monday,July,88,72,No Holiday
+7/3/2012,Tuesday,July,89,71,No Holiday
+7/4/2012,Wednesday,July,92,70,holiday
+7/5/2012,Thursday,July,95,77,No Holiday
+7/6/2012,Friday,July,93,72,No Holiday
+7/7/2012,Saturday,July,97,72,No Holiday
+7/8/2012,Sunday,July,92,72,No Holiday
+7/9/2012,Monday,July,86,73,No Holiday
+7/10/2012,Tuesday,July,87,69,No Holiday
+7/11/2012,Wednesday,July,85,71,No Holiday
+7/12/2012,Thursday,July,89,70,No Holiday
+7/13/2012,Friday,July,89,74,No Holiday
+7/14/2012,Saturday,July,85,73,No Holiday
+7/15/2012,Sunday,July,89,71,No Holiday
+7/16/2012,Monday,July,91,70,No Holiday
+7/17/2012,Tuesday,July,96,74,No Holiday
+7/18/2012,Wednesday,July,100,73,No Holiday
+7/19/2012,Thursday,July,76,68,No Holiday
+7/20/2012,Friday,July,72,61,No Holiday
+7/21/2012,Saturday,July,78,61,No Holiday
+7/22/2012,Sunday,July,83,65,No Holiday
+7/23/2012,Monday,July,86,71,No Holiday
+7/24/2012,Tuesday,July,91,74,No Holiday
+7/25/2012,Wednesday,July,85,67,No Holiday
+7/26/2012,Thursday,July,88,68,No Holiday
+7/27/2012,Friday,July,87,71,No Holiday
+7/28/2012,Saturday,July,81,68,No Holiday
+7/29/2012,Sunday,July,80,68,No Holiday
+7/30/2012,Monday,July,81,68,No Holiday
+7/31/2012,Tuesday,July,80,70,No Holiday
+8/1/2012,Wednesday,August,78,70,No Holiday
+8/2/2012,Thursday,August,87,70,No Holiday
+8/3/2012,Friday,August,89,75,No Holiday
+8/4/2012,Saturday,August,90,75,No Holiday
+8/5/2012,Sunday,August,91,73,No Holiday
+8/6/2012,Monday,August,86,72,No Holiday
+8/7/2012,Tuesday,August,83,68,No Holiday
+8/8/2012,Wednesday,August,86,73,No Holiday
+8/9/2012,Thursday,August,88,73,No Holiday
+8/10/2012,Friday,August,80,70,No Holiday
+8/11/2012,Saturday,August,87,75,No Holiday
+8/12/2012,Sunday,August,87,73,No Holiday
+8/13/2012,Monday,August,86,69,No Holiday
+8/14/2012,Tuesday,August,79,72,No Holiday
+8/15/2012,Wednesday,August,82,67,No Holiday
+8/16/2012,Thursday,August,85,66,No Holiday
+8/17/2012,Friday,August,88,65,No Holiday
+8/18/2012,Saturday,August,79,63,No Holiday
+8/19/2012,Sunday,August,74,62,No Holiday
+8/20/2012,Monday,August,78,65,No Holiday
+8/21/2012,Tuesday,August,82,66,No Holiday
+8/22/2012,Wednesday,August,82,68,No Holiday
+8/23/2012,Thursday,August,85,69,No Holiday
+8/24/2012,Friday,August,87,69,No Holiday
+8/25/2012,Saturday,August,86,70,No Holiday
+8/26/2012,Sunday,August,84,68,No Holiday
+8/27/2012,Monday,August,81,70,No Holiday
+8/28/2012,Tuesday,August,87,73,No Holiday
+8/29/2012,Wednesday,August,79,67,No Holiday
+8/30/2012,Thursday,August,82,61,No Holiday
+8/31/2012,Friday,August,91,69,No Holiday
+9/1/2012,Saturday,September,91,74,No Holiday
+9/2/2012,Sunday,September,82,71,No Holiday
+9/3/2012,Monday,September,79,71,holiday
+9/4/2012,Tuesday,September,80,70,No Holiday
+9/5/2012,Wednesday,September,80,71,No Holiday
+9/6/2012,Thursday,September,80,69,No Holiday
+9/7/2012,Friday,September,87,71,No Holiday
+9/8/2012,Saturday,September,81,63,No Holiday
+9/9/2012,Sunday,September,78,63,No Holiday
+9/10/2012,Monday,September,72,58,No Holiday
+9/11/2012,Tuesday,September,73,54,No Holiday
+9/12/2012,Wednesday,September,80,59,No Holiday
+9/13/2012,Thursday,September,81,63,No Holiday
+9/14/2012,Friday,September,80,64,No Holiday
+9/15/2012,Saturday,September,73,60,No Holiday
+9/16/2012,Sunday,September,75,56,No Holiday
+9/17/2012,Monday,September,78,57,No Holiday
+9/18/2012,Tuesday,September,75,67,No Holiday
+9/19/2012,Wednesday,September,70,57,No Holiday
+9/20/2012,Thursday,September,69,54,No Holiday
+9/21/2012,Friday,September,75,60,No Holiday
+9/22/2012,Saturday,September,76,60,No Holiday
+9/23/2012,Sunday,September,68,55,No Holiday
+9/24/2012,Monday,September,67,53,No Holiday
+9/25/2012,Tuesday,September,72,54,No Holiday
+9/26/2012,Wednesday,September,77,63,No Holiday
+9/27/2012,Thursday,September,75,63,No Holiday
+9/28/2012,Friday,September,69,60,No Holiday
+9/29/2012,Saturday,September,65,57,No Holiday
+9/30/2012,Sunday,September,68,55,No Holiday
+10/1/2012,Monday,October,70,52,No Holiday
+10/2/2012,Tuesday,October,69,62,No Holiday
+10/3/2012,Wednesday,October,73,63,No Holiday
+10/4/2012,Thursday,October,74,66,No Holiday
+10/5/2012,Friday,October,78,61,No Holiday
+10/6/2012,Saturday,October,77,54,No Holiday
+10/7/2012,Sunday,October,54,46,No Holiday
+10/8/2012,Monday,October,55,44,holiday
+10/9/2012,Tuesday,October,58,50,No Holiday
+10/10/2012,Wednesday,October,66,53,No Holiday
+10/11/2012,Thursday,October,59,47,No Holiday
+10/12/2012,Friday,October,56,42,No Holiday
+10/13/2012,Saturday,October,53,38,No Holiday
+10/14/2012,Sunday,October,70,53,No Holiday
+10/15/2012,Monday,October,71,59,No Holiday
+10/16/2012,Tuesday,October,59,48,No Holiday
+10/17/2012,Wednesday,October,61,44,No Holiday
+10/18/2012,Thursday,October,65,50,No Holiday
+10/19/2012,Friday,October,66,61,No Holiday
+10/20/2012,Saturday,October,69,54,No Holiday
+10/21/2012,Sunday,October,65,49,No Holiday
+10/22/2012,Monday,October,66,49,No Holiday
+10/23/2012,Tuesday,October,65,54,No Holiday
+10/24/2012,Wednesday,October,59,56,No Holiday
+10/25/2012,Thursday,October,62,55,No Holiday
+10/26/2012,Friday,October,65,57,No Holiday
+10/27/2012,Saturday,October,65,59,No Holiday
+10/28/2012,Sunday,October,59,55,No Holiday
+10/29/2012,Monday,October,62,52,No Holiday
+10/30/2012,Tuesday,October,54,47,No Holiday
+10/31/2012,Wednesday,October,50,44,No Holiday
+11/1/2012,Thursday,November,51,43,No Holiday
+11/2/2012,Friday,November,53,42,No Holiday
+11/3/2012,Saturday,November,51,40,No Holiday
+11/4/2012,Sunday,November,51,39,No Holiday
+11/5/2012,Monday,November,45,35,No Holiday
+11/6/2012,Tuesday,November,42,31,No Holiday
+11/7/2012,Wednesday,November,41,31,No Holiday
+11/8/2012,Thursday,November,48,32,No Holiday
+11/9/2012,Friday,November,53,36,No Holiday
+11/10/2012,Saturday,November,55,42,No Holiday
+11/11/2012,Sunday,November,64,50,holiday
+11/12/2012,Monday,November,66,48,No Holiday
+11/13/2012,Tuesday,November,62,40,No Holiday
+11/14/2012,Wednesday,November,47,37,No Holiday
+11/15/2012,Thursday,November,45,35,No Holiday
+11/16/2012,Friday,November,46,38,No Holiday
+11/17/2012,Saturday,November,51,39,No Holiday
+11/18/2012,Sunday,November,49,38,No Holiday
+11/19/2012,Monday,November,47,37,No Holiday
+11/20/2012,Tuesday,November,51,40,No Holiday
+11/21/2012,Wednesday,November,53,40,No Holiday
+11/22/2012,Thursday,November,54,41,holiday
+11/23/2012,Friday,November,56,43,No Holiday
+11/24/2012,Saturday,November,50,35,No Holiday
+11/25/2012,Sunday,November,40,33,No Holiday
+11/26/2012,Monday,November,48,36,No Holiday
+11/27/2012,Tuesday,November,42,34,No Holiday
+11/28/2012,Wednesday,November,41,34,No Holiday
+11/29/2012,Thursday,November,43,34,No Holiday
+11/30/2012,Friday,November,46,38,No Holiday
+12/1/2012,Saturday,December,41,36,No Holiday
+12/2/2012,Sunday,December,52,41,No Holiday
+12/3/2012,Monday,December,60,49,No Holiday
+12/4/2012,Tuesday,December,62,47,No Holiday
+12/5/2012,Wednesday,December,58,35,No Holiday
+12/6/2012,Thursday,December,40,29,No Holiday
+12/7/2012,Friday,December,46,35,No Holiday
+12/8/2012,Saturday,December,50,44,No Holiday
+12/9/2012,Sunday,December,50,42,No Holiday
+12/10/2012,Monday,December,59,44,No Holiday
+12/11/2012,Tuesday,December,58,41,No Holiday
+12/12/2012,Wednesday,December,43,36,No Holiday
+12/13/2012,Thursday,December,46,36,No Holiday
+12/14/2012,Friday,December,48,37,No Holiday
+12/15/2012,Saturday,December,47,38,No Holiday
+12/16/2012,Sunday,December,47,42,No Holiday
+12/17/2012,Monday,December,43,40,No Holiday
+12/18/2012,Tuesday,December,54,43,No Holiday
+12/19/2012,Wednesday,December,47,39,No Holiday
+12/20/2012,Thursday,December,47,35,No Holiday
+12/21/2012,Friday,December,56,36,No Holiday
+12/22/2012,Saturday,December,38,36,No Holiday
+12/23/2012,Sunday,December,42,35,No Holiday
+12/24/2012,Monday,December,40,33,No Holiday
+12/25/2012,Tuesday,December,41,32,holiday
+12/26/2012,Wednesday,December,39,28,No Holiday
+12/27/2012,Thursday,December,39,30,No Holiday
+12/28/2012,Friday,December,37,30,No Holiday
+12/29/2012,Saturday,December,34,30,No Holiday
+12/30/2012,Sunday,December,34,28,No Holiday
+12/31/2012,Monday,December,38,28,No Holiday
+1/1/2013,Tuesday,January ,40,26,holiday
+1/2/2013,Wednesday,January ,33,22,No Holiday
+1/3/2013,Thursday,January ,32,24,No Holiday
+1/4/2013,Friday,January ,37,30,No Holiday
+1/5/2013,Saturday,January ,42,32,No Holiday
+1/6/2013,Sunday,January ,46,34,No Holiday
+1/7/2013,Monday,January ,45,37,No Holiday
+1/8/2013,Tuesday,January ,48,35,No Holiday
+1/9/2013,Wednesday,January ,49,39,No Holiday
+1/10/2013,Thursday,January ,47,40,No Holiday
+1/11/2013,Friday,January ,46,37,No Holiday
+1/12/2013,Saturday,January ,47,42,No Holiday
+1/13/2013,Sunday,January ,50,43,No Holiday
+1/14/2013,Monday,January ,56,38,No Holiday
+1/15/2013,Tuesday,January ,38,35,No Holiday
+1/16/2013,Wednesday,January ,37,32,No Holiday
+1/17/2013,Thursday,January ,43,35,No Holiday
+1/18/2013,Friday,January ,35,25,No Holiday
+1/19/2013,Saturday,January ,51,30,No Holiday
+1/20/2013,Sunday,January ,53,30,No Holiday
+1/21/2013,Monday,January ,32,26,holiday
+1/22/2013,Tuesday,January ,27,13,No Holiday
+1/23/2013,Wednesday,January ,20,11,No Holiday
+1/24/2013,Thursday,January ,22,12,No Holiday
+1/25/2013,Friday,January ,24,13,No Holiday
+1/26/2013,Saturday,January ,27,15,No Holiday
+1/27/2013,Sunday,January ,34,19,No Holiday
+1/28/2013,Monday,January ,36,29,No Holiday
+1/29/2013,Tuesday,January ,49,36,No Holiday
+1/30/2013,Wednesday,January ,59,39,No Holiday
+1/31/2013,Thursday,January ,61,30,No Holiday
+2/1/2013,Friday,February,31,24,No Holiday
+2/2/2013,Saturday,February,29,19,No Holiday
+2/3/2013,Sunday,February,30,24,No Holiday
+2/4/2013,Monday,February,30,23,No Holiday
+2/5/2013,Tuesday,February,32,28,No Holiday
+2/6/2013,Wednesday,February,39,29,No Holiday
+2/7/2013,Thursday,February,32,26,No Holiday
+2/8/2013,Friday,February,34,27,No Holiday
+2/9/2013,Saturday,February,32,21,No Holiday
+2/10/2013,Sunday,February,36,18,No Holiday
+2/11/2013,Monday,February,45,34,No Holiday
+2/12/2013,Tuesday,February,44,36,No Holiday
+2/13/2013,Wednesday,February,44,33,No Holiday
+2/14/2013,Thursday,February,46,33,No Holiday
+2/15/2013,Friday,February,55,37,No Holiday
+2/16/2013,Saturday,February,41,31,No Holiday
+2/17/2013,Sunday,February,32,18,No Holiday
+2/18/2013,Monday,February,35,17,holiday
+2/19/2013,Tuesday,February,49,33,No Holiday
+2/20/2013,Wednesday,February,38,25,No Holiday
+2/21/2013,Thursday,February,34,24,No Holiday
+2/22/2013,Friday,February,38,25,No Holiday
+2/23/2013,Saturday,February,42,36,No Holiday
+2/24/2013,Sunday,February,47,34,No Holiday
+2/25/2013,Monday,February,45,32,No Holiday
+2/26/2013,Tuesday,February,44,35,No Holiday
+2/27/2013,Wednesday,February,47,36,No Holiday
+2/28/2013,Thursday,February,51,39,No Holiday
+3/1/2013,Friday,March,45,36,No Holiday
+3/2/2013,Saturday,March,40,31,No Holiday
+3/3/2013,Sunday,March,40,29,No Holiday
+3/4/2013,Monday,March,42,27,No Holiday
+3/5/2013,Tuesday,March,49,31,No Holiday
+3/6/2013,Wednesday,March,42,38,No Holiday
+3/7/2013,Thursday,March,38,33,No Holiday
+3/8/2013,Friday,March,42,31,No Holiday
+3/9/2013,Saturday,March,55,35,No Holiday
+3/10/2013,Sunday,March,50,36,No Holiday
+3/11/2013,Monday,March,54,40,No Holiday
+3/12/2013,Tuesday,March,57,43,No Holiday
+3/13/2013,Wednesday,March,52,38,No Holiday
+3/14/2013,Thursday,March,41,29,No Holiday
+3/15/2013,Friday,March,47,30,No Holiday
+3/16/2013,Saturday,March,41,32,No Holiday
+3/17/2013,Sunday,March,38,29,No Holiday
+3/18/2013,Monday,March,35,28,No Holiday
+3/19/2013,Tuesday,March,43,33,No Holiday
+3/20/2013,Wednesday,March,45,32,No Holiday
+3/21/2013,Thursday,March,40,30,No Holiday
+3/22/2013,Friday,March,41,28,No Holiday
+3/23/2013,Saturday,March,46,32,No Holiday
+3/24/2013,Sunday,March,47,33,No Holiday
+3/25/2013,Monday,March,40,36,No Holiday
+3/26/2013,Tuesday,March,53,37,No Holiday
+3/27/2013,Wednesday,March,53,36,No Holiday
+3/28/2013,Thursday,March,51,37,No Holiday
+3/29/2013,Friday,March,55,40,No Holiday
+3/30/2013,Saturday,March,59,40,No Holiday
+3/31/2013,Sunday,March,54,44,No Holiday
+4/1/2013,Monday,April,62,37,No Holiday
+4/2/2013,Tuesday,April,43,33,No Holiday
+4/3/2013,Wednesday,April,46,33,No Holiday
+4/4/2013,Thursday,April,53,33,No Holiday
+4/5/2013,Friday,April,64,41,No Holiday
+4/6/2013,Saturday,April,52,35,No Holiday
+4/7/2013,Sunday,April,55,40,No Holiday
+4/8/2013,Monday,April,73,51,No Holiday
+4/9/2013,Tuesday,April,82,51,No Holiday
+4/10/2013,Wednesday,April,74,55,No Holiday
+4/11/2013,Thursday,April,60,47,No Holiday
+4/12/2013,Friday,April,47,41,No Holiday
+4/13/2013,Saturday,April,58,41,No Holiday
+4/14/2013,Sunday,April,57,46,No Holiday
+4/15/2013,Monday,April,59,44,No Holiday
+4/16/2013,Tuesday,April,63,47,No Holiday
+4/17/2013,Wednesday,April,71,55,No Holiday
+4/18/2013,Thursday,April,59,51,No Holiday
+4/19/2013,Friday,April,71,55,No Holiday
+4/20/2013,Saturday,April,60,43,No Holiday
+4/21/2013,Sunday,April,55,37,No Holiday
+4/22/2013,Monday,April,55,41,No Holiday
+4/23/2013,Tuesday,April,53,41,No Holiday
+4/24/2013,Wednesday,April,69,44,No Holiday
+4/25/2013,Thursday,April,66,46,No Holiday
+4/26/2013,Friday,April,67,50,No Holiday
+4/27/2013,Saturday,April,71,48,No Holiday
+4/28/2013,Sunday,April,69,51,No Holiday
+4/29/2013,Monday,April,57,52,No Holiday
+4/30/2013,Tuesday,April,68,51,No Holiday
+5/1/2013,Wednesday,May,69,47,No Holiday
+5/2/2013,Thursday,May,72,49,No Holiday
+5/3/2013,Friday,May,66,49,No Holiday
+5/4/2013,Saturday,May,69,48,No Holiday
+5/5/2013,Sunday,May,64,46,No Holiday
+5/6/2013,Monday,May,69,46,No Holiday
+5/7/2013,Tuesday,May,74,52,No Holiday
+5/8/2013,Wednesday,May,63,55,No Holiday
+5/9/2013,Thursday,May,68,54,No Holiday
+5/10/2013,Friday,May,79,59,No Holiday
+5/11/2013,Saturday,May,70,61,No Holiday
+5/12/2013,Sunday,May,70,51,No Holiday
+5/13/2013,Monday,May,58,45,No Holiday
+5/14/2013,Tuesday,May,61,42,No Holiday
+5/15/2013,Wednesday,May,69,52,No Holiday
+5/16/2013,Thursday,May,79,62,No Holiday
+5/17/2013,Friday,May,72,58,No Holiday
+5/18/2013,Saturday,May,65,56,No Holiday
+5/19/2013,Sunday,May,59,55,No Holiday
+5/20/2013,Monday,May,79,58,No Holiday
+5/21/2013,Tuesday,May,86,68,No Holiday
+5/22/2013,Wednesday,May,78,59,No Holiday
+5/23/2013,Thursday,May,80,64,No Holiday
+5/24/2013,Friday,May,65,45,No Holiday
+5/25/2013,Saturday,May,54,45,No Holiday
+5/26/2013,Sunday,May,66,48,No Holiday
+5/27/2013,Monday,May,73,51,holiday
+5/28/2013,Tuesday,May,68,56,No Holiday
+5/29/2013,Wednesday,May,82,58,No Holiday
+5/30/2013,Thursday,May,90,72,No Holiday
+5/31/2013,Friday,May,90,75,No Holiday
+6/1/2013,Saturday,June,90,73,No Holiday
+6/2/2013,Sunday,June,88,69,No Holiday
+6/3/2013,Monday,June,78,66,No Holiday
+6/4/2013,Tuesday,June,75,57,No Holiday
+6/5/2013,Wednesday,June,74,58,No Holiday
+6/6/2013,Thursday,June,70,59,No Holiday
+6/7/2013,Friday,June,63,59,No Holiday
+6/8/2013,Saturday,June,77,57,No Holiday
+6/9/2013,Sunday,June,80,63,No Holiday
+6/10/2013,Monday,June,70,62,No Holiday
+6/11/2013,Tuesday,June,80,64,No Holiday
+6/12/2013,Wednesday,June,76,65,No Holiday
+6/13/2013,Thursday,June,69,55,No Holiday
+6/14/2013,Friday,June,72,53,No Holiday
+6/15/2013,Saturday,June,80,61,No Holiday
+6/16/2013,Sunday,June,80,65,No Holiday
+6/17/2013,Monday,June,84,69,No Holiday
+6/18/2013,Tuesday,June,84,64,No Holiday
+6/19/2013,Wednesday,June,77,59,No Holiday
+6/20/2013,Thursday,June,80,62,No Holiday
+6/21/2013,Friday,June,82,64,No Holiday
+6/22/2013,Saturday,June,84,65,No Holiday
+6/23/2013,Sunday,June,88,70,No Holiday
+6/24/2013,Monday,June,92,74,No Holiday
+6/25/2013,Tuesday,June,91,73,No Holiday
+6/26/2013,Wednesday,June,85,74,No Holiday
+6/27/2013,Thursday,June,86,73,No Holiday
+6/28/2013,Friday,June,85,73,No Holiday
+6/29/2013,Saturday,June,83,71,No Holiday
+6/30/2013,Sunday,June,86,73,No Holiday
+7/1/2013,Monday,July,77,72,No Holiday
+7/2/2013,Tuesday,July,82,72,No Holiday
+7/3/2013,Wednesday,July,83,73,No Holiday
+7/4/2013,Thursday,July,87,75,holiday
+7/5/2013,Friday,July,90,76,No Holiday
+7/6/2013,Saturday,July,92,78,No Holiday
+7/7/2013,Sunday,July,92,78,No Holiday
+7/8/2013,Monday,July,89,73,No Holiday
+7/9/2013,Tuesday,July,88,74,No Holiday
+7/10/2013,Wednesday,July,85,75,No Holiday
+7/11/2013,Thursday,July,84,76,No Holiday
+7/12/2013,Friday,July,77,68,No Holiday
+7/13/2013,Saturday,July,81,67,No Holiday
+7/14/2013,Sunday,July,90,74,No Holiday
+7/15/2013,Monday,July,94,78,No Holiday
+7/16/2013,Tuesday,July,94,77,No Holiday
+7/17/2013,Wednesday,July,97,79,No Holiday
+7/18/2013,Thursday,July,98,81,No Holiday
+7/19/2013,Friday,July,96,83,No Holiday
+7/20/2013,Saturday,July,93,81,No Holiday
+7/21/2013,Sunday,July,89,76,No Holiday
+7/22/2013,Monday,July,86,75,No Holiday
+7/23/2013,Tuesday,July,87,73,No Holiday
+7/24/2013,Wednesday,July,83,68,No Holiday
+7/25/2013,Thursday,July,68,64,No Holiday
+7/26/2013,Friday,July,83,65,No Holiday
+7/27/2013,Saturday,July,82,70,No Holiday
+7/28/2013,Sunday,July,78,70,No Holiday
+7/29/2013,Monday,July,85,69,No Holiday
+7/30/2013,Tuesday,July,83,67,No Holiday
+7/31/2013,Wednesday,July,83,67,No Holiday
+8/1/2013,Thursday,August,76,66,No Holiday
+8/2/2013,Friday,August,83,67,No Holiday
+8/3/2013,Saturday,August,78,68,No Holiday
+8/4/2013,Sunday,August,80,66,No Holiday
+8/5/2013,Monday,August,78,62,No Holiday
+8/6/2013,Tuesday,August,82,64,No Holiday
+8/7/2013,Wednesday,August,80,70,No Holiday
+8/8/2013,Thursday,August,81,70,No Holiday
+8/9/2013,Friday,August,85,74,No Holiday
+8/10/2013,Saturday,August,83,70,No Holiday
+8/11/2013,Sunday,August,81,65,No Holiday
+8/12/2013,Monday,August,82,70,No Holiday
+8/13/2013,Tuesday,August,77,68,No Holiday
+8/14/2013,Wednesday,August,74,61,No Holiday
+8/15/2013,Thursday,August,78,59,No Holiday
+8/16/2013,Friday,August,82,64,No Holiday
+8/17/2013,Saturday,August,84,64,No Holiday
+8/18/2013,Sunday,August,76,68,No Holiday
+8/19/2013,Monday,August,79,66,No Holiday
+8/20/2013,Tuesday,August,88,68,No Holiday
+8/21/2013,Wednesday,August,90,72,No Holiday
+8/22/2013,Thursday,August,78,71,No Holiday
+8/23/2013,Friday,August,82,71,No Holiday
+8/24/2013,Saturday,August,80,65,No Holiday
+8/25/2013,Sunday,August,83,64,No Holiday
+8/26/2013,Monday,August,84,68,No Holiday
+8/27/2013,Tuesday,August,87,71,No Holiday
+8/28/2013,Wednesday,August,86,71,No Holiday
+8/29/2013,Thursday,August,80,71,No Holiday
+8/30/2013,Friday,August,85,70,No Holiday
+8/31/2013,Saturday,August,86,73,No Holiday
+9/1/2013,Sunday,September,84,75,No Holiday
+9/2/2013,Monday,September,82,74,holiday
+9/3/2013,Tuesday,September,82,68,No Holiday
+9/4/2013,Wednesday,September,82,65,No Holiday
+9/5/2013,Thursday,September,80,64,No Holiday
+9/6/2013,Friday,September,72,57,No Holiday
+9/7/2013,Saturday,September,80,59,No Holiday
+9/8/2013,Sunday,September,83,64,No Holiday
+9/9/2013,Monday,September,73,57,No Holiday
+9/10/2013,Tuesday,September,87,68,No Holiday
+9/11/2013,Wednesday,September,96,77,No Holiday
+9/12/2013,Thursday,September,87,70,No Holiday
+9/13/2013,Friday,September,77,59,No Holiday
+9/14/2013,Saturday,September,67,54,No Holiday
+9/15/2013,Sunday,September,73,51,No Holiday
+9/16/2013,Monday,September,73,56,No Holiday
+9/17/2013,Tuesday,September,65,50,No Holiday
+9/18/2013,Wednesday,September,72,51,No Holiday
+9/19/2013,Thursday,September,78,55,No Holiday
+9/20/2013,Friday,September,79,60,No Holiday
+9/21/2013,Saturday,September,77,61,No Holiday
+9/22/2013,Sunday,September,69,54,No Holiday
+9/23/2013,Monday,September,66,50,No Holiday
+9/24/2013,Tuesday,September,73,47,No Holiday
+9/25/2013,Wednesday,September,73,52,No Holiday
+9/26/2013,Thursday,September,71,58,No Holiday
+9/27/2013,Friday,September,69,57,No Holiday
+9/28/2013,Saturday,September,73,56,No Holiday
+9/29/2013,Sunday,September,72,57,No Holiday
+9/30/2013,Monday,September,75,56,No Holiday
+10/1/2013,Tuesday,October,82,59,No Holiday
+10/2/2013,Wednesday,October,83,64,No Holiday
+10/3/2013,Thursday,October,78,63,No Holiday
+10/4/2013,Friday,October,86,66,No Holiday
+10/5/2013,Saturday,October,76,64,No Holiday
+10/6/2013,Sunday,October,70,65,No Holiday
+10/7/2013,Monday,October,76,60,No Holiday
+10/8/2013,Tuesday,October,67,54,No Holiday
+10/9/2013,Wednesday,October,62,53,No Holiday
+10/10/2013,Thursday,October,65,54,No Holiday
+10/11/2013,Friday,October,68,60,No Holiday
+10/12/2013,Saturday,October,72,60,No Holiday
+10/13/2013,Sunday,October,65,56,No Holiday
+10/14/2013,Monday,October,66,52,holiday
+10/15/2013,Tuesday,October,72,53,No Holiday
+10/16/2013,Wednesday,October,67,56,No Holiday
+10/17/2013,Thursday,October,73,61,No Holiday
+10/18/2013,Friday,October,68,55,No Holiday
+10/19/2013,Saturday,October,64,52,No Holiday
+10/20/2013,Sunday,October,63,50,No Holiday
+10/21/2013,Monday,October,66,50,No Holiday
+10/22/2013,Tuesday,October,67,51,No Holiday
+10/23/2013,Wednesday,October,55,45,No Holiday
+10/24/2013,Thursday,October,54,41,No Holiday
+10/25/2013,Friday,October,53,40,No Holiday
+10/26/2013,Saturday,October,55,41,No Holiday
+10/27/2013,Sunday,October,58,46,No Holiday
+10/28/2013,Monday,October,61,43,No Holiday
+10/29/2013,Tuesday,October,56,44,No Holiday
+10/30/2013,Wednesday,October,60,47,No Holiday
+10/31/2013,Thursday,October,66,53,No Holiday
+11/1/2013,Friday,November,70,59,No Holiday
+11/2/2013,Saturday,November,68,55,No Holiday
+11/3/2013,Sunday,November,55,37,No Holiday
+11/4/2013,Monday,November,46,35,No Holiday
+11/5/2013,Tuesday,November,55,41,No Holiday
+11/6/2013,Wednesday,November,61,49,No Holiday
+11/7/2013,Thursday,November,64,44,No Holiday
+11/8/2013,Friday,November,50,40,No Holiday
+11/9/2013,Saturday,November,50,38,No Holiday
+11/10/2013,Sunday,November,61,44,No Holiday
+11/11/2013,Monday,November,53,43,holiday
+11/12/2013,Tuesday,November,52,31,No Holiday
+11/13/2013,Wednesday,November,39,29,No Holiday
+11/14/2013,Thursday,November,52,33,No Holiday
+11/15/2013,Friday,November,57,44,No Holiday
+11/16/2013,Saturday,November,60,45,No Holiday
+11/17/2013,Sunday,November,60,51,No Holiday
+11/18/2013,Monday,November,65,51,No Holiday
+11/19/2013,Tuesday,November,51,36,No Holiday
+11/20/2013,Wednesday,November,44,32,No Holiday
+11/21/2013,Thursday,November,52,35,No Holiday
+11/22/2013,Friday,November,57,51,No Holiday
+11/23/2013,Saturday,November,54,31,No Holiday
+11/24/2013,Sunday,November,30,23,No Holiday
+11/25/2013,Monday,November,35,23,No Holiday
+11/26/2013,Tuesday,November,47,33,No Holiday
+11/27/2013,Wednesday,November,62,35,No Holiday
+11/28/2013,Thursday,November,35,30,holiday
+11/29/2013,Friday,November,39,29,No Holiday
+11/30/2013,Saturday,November,39,25,No Holiday
+12/1/2013,Sunday,December,49,36,No Holiday
+12/2/2013,Monday,December,49,41,No Holiday
+12/3/2013,Tuesday,December,53,38,No Holiday
+12/4/2013,Wednesday,December,52,41,No Holiday
+12/5/2013,Thursday,December,60,48,No Holiday
+12/6/2013,Friday,December,62,37,No Holiday
+12/7/2013,Saturday,December,41,32,No Holiday
+12/8/2013,Sunday,December,33,29,No Holiday
+12/9/2013,Monday,December,39,31,No Holiday
+12/10/2013,Tuesday,December,37,30,No Holiday
+12/11/2013,Wednesday,December,33,27,No Holiday
+12/12/2013,Thursday,December,30,23,No Holiday
+12/13/2013,Friday,December,35,23,No Holiday
+12/14/2013,Saturday,December,34,22,No Holiday
+12/15/2013,Sunday,December,40,30,No Holiday
+12/16/2013,Monday,December,33,25,No Holiday
+12/17/2013,Tuesday,December,32,24,No Holiday
+12/18/2013,Wednesday,December,37,23,No Holiday
+12/19/2013,Thursday,December,47,30,No Holiday
+12/20/2013,Friday,December,53,41,No Holiday
+12/21/2013,Saturday,December,65,51,No Holiday
+12/22/2013,Sunday,December,71,61,No Holiday
+12/23/2013,Monday,December,64,42,No Holiday
+12/24/2013,Tuesday,December,42,26,No Holiday
+12/25/2013,Wednesday,December,31,19,holiday
+12/26/2013,Thursday,December,36,30,No Holiday
+12/27/2013,Friday,December,40,31,No Holiday
+12/28/2013,Saturday,December,55,36,No Holiday
+12/29/2013,Sunday,December,48,41,No Holiday
+12/30/2013,Monday,December,45,23,No Holiday
+12/31/2013,Tuesday,December,32,21,No Holiday
+1/1/2014,Wednesday,January ,33,24,holiday
+1/2/2014,Thursday,January ,33,18,No Holiday
+1/3/2014,Friday,January ,18,9,No Holiday
+1/4/2014,Saturday,January ,29,8,No Holiday
+1/5/2014,Sunday,January ,40,27,No Holiday
+1/6/2014,Monday,January ,55,19,No Holiday
+1/7/2014,Tuesday,January ,19,4,No Holiday
+1/8/2014,Wednesday,January ,22,9,No Holiday
+1/9/2014,Thursday,January ,32,22,No Holiday
+1/10/2014,Friday,January ,37,30,No Holiday
+1/11/2014,Saturday,January ,58,37,No Holiday
+1/12/2014,Sunday,January ,54,38,No Holiday
+1/13/2014,Monday,January ,51,37,No Holiday
+1/14/2014,Tuesday,January ,52,44,No Holiday
+1/15/2014,Wednesday,January ,47,39,No Holiday
+1/16/2014,Thursday,January ,42,36,No Holiday
+1/17/2014,Friday,January ,44,33,No Holiday
+1/18/2014,Saturday,January ,41,29,No Holiday
+1/19/2014,Sunday,January ,38,24,No Holiday
+1/20/2014,Monday,January ,46,31,holiday
+1/21/2014,Tuesday,January ,31,11,No Holiday
+1/22/2014,Wednesday,January ,17,5,No Holiday
+1/23/2014,Thursday,January ,20,7,No Holiday
+1/24/2014,Friday,January ,20,10,No Holiday
+1/25/2014,Saturday,January ,28,19,No Holiday
+1/26/2014,Sunday,January ,34,17,No Holiday
+1/27/2014,Monday,January ,44,21,No Holiday
+1/28/2014,Tuesday,January ,21,12,No Holiday
+1/29/2014,Wednesday,January ,23,14,No Holiday
+1/30/2014,Thursday,January ,30,16,No Holiday
+1/31/2014,Friday,January ,39,25,No Holiday
+2/1/2014,Saturday,February,45,36,No Holiday
+2/2/2014,Sunday,February,56,39,No Holiday
+2/3/2014,Monday,February,43,27,No Holiday
+2/4/2014,Tuesday,February,35,22,No Holiday
+2/5/2014,Wednesday,February,34,29,No Holiday
+2/6/2014,Thursday,February,32,21,No Holiday
+2/7/2014,Friday,February,32,24,No Holiday
+2/8/2014,Saturday,February,29,21,No Holiday
+2/9/2014,Sunday,February,31,21,No Holiday
+2/10/2014,Monday,February,29,21,No Holiday
+2/11/2014,Tuesday,February,26,16,No Holiday
+2/12/2014,Wednesday,February,25,13,No Holiday
+2/13/2014,Thursday,February,36,24,No Holiday
+2/14/2014,Friday,February,40,31,No Holiday
+2/15/2014,Saturday,February,37,27,No Holiday
+2/16/2014,Sunday,February,30,21,No Holiday
+2/17/2014,Monday,February,32,18,holiday
+2/18/2014,Tuesday,February,39,26,No Holiday
+2/19/2014,Wednesday,February,45,34,No Holiday
+2/20/2014,Thursday,February,51,37,No Holiday
+2/21/2014,Friday,February,49,36,No Holiday
+2/22/2014,Saturday,February,54,40,No Holiday
+2/23/2014,Sunday,February,54,43,No Holiday
+2/24/2014,Monday,February,44,27,No Holiday
+2/25/2014,Tuesday,February,33,24,No Holiday
+2/26/2014,Wednesday,February,31,20,No Holiday
+2/27/2014,Thursday,February,34,14,No Holiday
+2/28/2014,Friday,February,24,9,No Holiday
+3/1/2014,Saturday,March,37,20,No Holiday
+3/2/2014,Sunday,March,40,32,No Holiday
+3/3/2014,Monday,March,32,17,No Holiday
+3/4/2014,Tuesday,March,29,13,No Holiday
+3/5/2014,Wednesday,March,39,26,No Holiday
+3/6/2014,Thursday,March,31,16,No Holiday
+3/7/2014,Friday,March,37,26,No Holiday
+3/8/2014,Saturday,March,57,35,No Holiday
+3/9/2014,Sunday,March,44,36,No Holiday
+3/10/2014,Monday,March,51,36,No Holiday
+3/11/2014,Tuesday,March,66,45,No Holiday
+3/12/2014,Wednesday,March,56,32,No Holiday
+3/13/2014,Thursday,March,32,18,No Holiday
+3/14/2014,Friday,March,46,22,No Holiday
+3/15/2014,Saturday,March,58,42,No Holiday
+3/16/2014,Sunday,March,42,30,No Holiday
+3/17/2014,Monday,March,35,23,No Holiday
+3/18/2014,Tuesday,March,43,28,No Holiday
+3/19/2014,Wednesday,March,46,32,No Holiday
+3/20/2014,Thursday,March,54,40,No Holiday
+3/21/2014,Friday,March,51,39,No Holiday
+3/22/2014,Saturday,March,63,41,No Holiday
+3/23/2014,Sunday,March,42,27,No Holiday
+3/24/2014,Monday,March,35,21,No Holiday
+3/25/2014,Tuesday,March,39,26,No Holiday
+3/26/2014,Wednesday,March,36,24,No Holiday
+3/27/2014,Thursday,March,44,22,No Holiday
+3/28/2014,Friday,March,62,37,No Holiday
+3/29/2014,Saturday,March,59,43,No Holiday
+3/30/2014,Sunday,March,49,39,No Holiday
+3/31/2014,Monday,March,56,36,No Holiday
+4/1/2014,Tuesday,April,60,39,No Holiday
+4/2/2014,Wednesday,April,54,42,No Holiday
+4/3/2014,Thursday,April,67,46,No Holiday
+4/4/2014,Friday,April,47,40,No Holiday
+4/5/2014,Saturday,April,54,40,No Holiday
+4/6/2014,Sunday,April,61,36,No Holiday
+4/7/2014,Monday,April,53,43,No Holiday
+4/8/2014,Tuesday,April,64,46,No Holiday
+4/9/2014,Wednesday,April,61,45,No Holiday
+4/10/2014,Thursday,April,58,42,No Holiday
+4/11/2014,Friday,April,75,56,No Holiday
+4/12/2014,Saturday,April,73,50,No Holiday
+4/13/2014,Sunday,April,77,54,No Holiday
+4/14/2014,Monday,April,75,59,No Holiday
+4/15/2014,Tuesday,April,63,33,No Holiday
+4/16/2014,Wednesday,April,49,31,No Holiday
+4/17/2014,Thursday,April,48,36,No Holiday
+4/18/2014,Friday,April,49,35,No Holiday
+4/19/2014,Saturday,April,68,41,No Holiday
+4/20/2014,Sunday,April,60,45,No Holiday
+4/21/2014,Monday,April,67,41,No Holiday
+4/22/2014,Tuesday,April,71,51,No Holiday
+4/23/2014,Wednesday,April,61,44,No Holiday
+4/24/2014,Thursday,April,62,42,No Holiday
+4/25/2014,Friday,April,63,44,No Holiday
+4/26/2014,Saturday,April,67,46,No Holiday
+4/27/2014,Sunday,April,59,47,No Holiday
+4/28/2014,Monday,April,67,45,No Holiday
+4/29/2014,Tuesday,April,52,43,No Holiday
+4/30/2014,Wednesday,April,52,41,No Holiday
+5/1/2014,Thursday,May,78,51,No Holiday
+5/2/2014,Friday,May,70,56,No Holiday
+5/3/2014,Saturday,May,71,54,No Holiday
+5/4/2014,Sunday,May,65,54,No Holiday
+5/5/2014,Monday,May,70,50,No Holiday
+5/6/2014,Tuesday,May,71,52,No Holiday
+5/7/2014,Wednesday,May,69,50,No Holiday
+5/8/2014,Thursday,May,59,53,No Holiday
+5/9/2014,Friday,May,63,55,No Holiday
+5/10/2014,Saturday,May,83,57,No Holiday
+5/11/2014,Sunday,May,82,60,No Holiday
+5/12/2014,Monday,May,85,64,No Holiday
+5/13/2014,Tuesday,May,73,53,No Holiday
+5/14/2014,Wednesday,May,71,52,No Holiday
+5/15/2014,Thursday,May,71,58,No Holiday
+5/16/2014,Friday,May,68,58,No Holiday
+5/17/2014,Saturday,May,70,53,No Holiday
+5/18/2014,Sunday,May,67,51,No Holiday
+5/19/2014,Monday,May,72,49,No Holiday
+5/20/2014,Tuesday,May,78,53,No Holiday
+5/21/2014,Wednesday,May,74,63,No Holiday
+5/22/2014,Thursday,May,67,59,No Holiday
+5/23/2014,Friday,May,71,56,No Holiday
+5/24/2014,Saturday,May,70,57,No Holiday
+5/25/2014,Sunday,May,80,55,No Holiday
+5/26/2014,Monday,May,86,66,holiday
+5/27/2014,Tuesday,May,86,64,No Holiday
+5/28/2014,Wednesday,May,64,54,No Holiday
+5/29/2014,Thursday,May,66,51,No Holiday
+5/30/2014,Friday,May,75,55,No Holiday
+5/31/2014,Saturday,May,73,57,No Holiday
+6/1/2014,Sunday,June,77,55,No Holiday
+6/2/2014,Monday,June,80,59,No Holiday
+6/3/2014,Tuesday,June,87,65,No Holiday
+6/4/2014,Wednesday,June,82,63,No Holiday
+6/5/2014,Thursday,June,76,61,No Holiday
+6/6/2014,Friday,June,76,61,No Holiday
+6/7/2014,Saturday,June,82,60,No Holiday
+6/8/2014,Sunday,June,86,66,No Holiday
+6/9/2014,Monday,June,73,63,No Holiday
+6/10/2014,Tuesday,June,77,65,No Holiday
+6/11/2014,Wednesday,June,70,61,No Holiday
+6/12/2014,Thursday,June,73,60,No Holiday
+6/13/2014,Friday,June,79,65,No Holiday
+6/14/2014,Saturday,June,74,60,No Holiday
+6/15/2014,Sunday,June,80,59,No Holiday
+6/16/2014,Monday,June,81,63,No Holiday
+6/17/2014,Tuesday,June,89,71,No Holiday
+6/18/2014,Wednesday,June,89,76,No Holiday
+6/19/2014,Thursday,June,77,68,No Holiday
+6/20/2014,Friday,June,79,64,No Holiday
+6/21/2014,Saturday,June,78,62,No Holiday
+6/22/2014,Sunday,June,79,64,No Holiday
+6/23/2014,Monday,June,81,65,No Holiday
+6/24/2014,Tuesday,June,81,68,No Holiday
+6/25/2014,Wednesday,June,85,70,No Holiday
+6/26/2014,Thursday,June,85,70,No Holiday
+6/27/2014,Friday,June,83,67,No Holiday
+6/28/2014,Saturday,June,87,66,No Holiday
+6/29/2014,Sunday,June,83,68,No Holiday
+6/30/2014,Monday,June,84,69,No Holiday
+7/1/2014,Tuesday,July,89,72,No Holiday
+7/2/2014,Wednesday,July,91,72,No Holiday
+7/3/2014,Thursday,July,87,69,No Holiday
+7/4/2014,Friday,July,74,65,holiday
+7/5/2014,Saturday,July,81,63,No Holiday
+7/6/2014,Sunday,July,84,66,No Holiday
+7/7/2014,Monday,July,90,72,No Holiday
+7/8/2014,Tuesday,July,91,71,No Holiday
+7/9/2014,Wednesday,July,88,71,No Holiday
+7/10/2014,Thursday,July,83,72,No Holiday
+7/11/2014,Friday,July,86,71,No Holiday
+7/12/2014,Saturday,July,85,71,No Holiday
+7/13/2014,Sunday,July,83,72,No Holiday
+7/14/2014,Monday,July,84,72,No Holiday
+7/15/2014,Tuesday,July,86,72,No Holiday
+7/16/2014,Wednesday,July,81,68,No Holiday
+7/17/2014,Thursday,July,81,67,No Holiday
+7/18/2014,Friday,July,81,64,No Holiday
+7/19/2014,Saturday,July,76,68,No Holiday
+7/20/2014,Sunday,July,80,66,No Holiday
+7/21/2014,Monday,July,85,67,No Holiday
+7/22/2014,Tuesday,July,86,71,No Holiday
+7/23/2014,Wednesday,July,88,72,No Holiday
+7/24/2014,Thursday,July,80,70,No Holiday
+7/25/2014,Friday,July,82,66,No Holiday
+7/26/2014,Saturday,July,81,69,No Holiday
+7/27/2014,Sunday,July,85,71,No Holiday
+7/28/2014,Monday,July,82,68,No Holiday
+7/29/2014,Tuesday,July,76,64,No Holiday
+7/30/2014,Wednesday,July,80,63,No Holiday
+7/31/2014,Thursday,July,82,68,No Holiday
+8/1/2014,Friday,August,84,71,No Holiday
+8/2/2014,Saturday,August,74,63,No Holiday
+8/3/2014,Sunday,August,76,66,No Holiday
+8/4/2014,Monday,August,84,70,No Holiday
+8/5/2014,Tuesday,August,90,71,No Holiday
+8/6/2014,Wednesday,August,83,70,No Holiday
+8/7/2014,Thursday,August,83,66,No Holiday
+8/8/2014,Friday,August,83,65,No Holiday
+8/9/2014,Saturday,August,87,66,No Holiday
+8/10/2014,Sunday,August,88,68,No Holiday
+8/11/2014,Monday,August,87,71,No Holiday
+8/12/2014,Tuesday,August,79,70,No Holiday
+8/13/2014,Wednesday,August,82,68,No Holiday
+8/14/2014,Thursday,August,77,63,No Holiday
+8/15/2014,Friday,August,73,61,No Holiday
+8/16/2014,Saturday,August,78,63,No Holiday
+8/17/2014,Sunday,August,82,66,No Holiday
+8/18/2014,Monday,August,81,63,No Holiday
+8/19/2014,Tuesday,August,83,63,No Holiday
+8/20/2014,Wednesday,August,84,70,No Holiday
+8/21/2014,Thursday,August,83,65,No Holiday
+8/22/2014,Friday,August,79,65,No Holiday
+8/23/2014,Saturday,August,77,67,No Holiday
+8/24/2014,Sunday,August,80,64,No Holiday
+8/25/2014,Monday,August,88,64,No Holiday
+8/26/2014,Tuesday,August,89,70,No Holiday
+8/27/2014,Wednesday,August,90,70,No Holiday
+8/28/2014,Thursday,August,82,66,No Holiday
+8/29/2014,Friday,August,80,61,No Holiday
+8/30/2014,Saturday,August,80,65,No Holiday
+8/31/2014,Sunday,August,90,73,No Holiday
+9/1/2014,Monday,September,88,75,holiday
+9/2/2014,Tuesday,September,92,77,No Holiday
+9/3/2014,Wednesday,September,86,72,No Holiday
+9/4/2014,Thursday,September,87,69,No Holiday
+9/5/2014,Friday,September,87,72,No Holiday
+9/6/2014,Saturday,September,91,67,No Holiday
+9/7/2014,Sunday,September,81,65,No Holiday
+9/8/2014,Monday,September,75,65,No Holiday
+9/9/2014,Tuesday,September,73,63,No Holiday
+9/10/2014,Wednesday,September,80,63,No Holiday
+9/11/2014,Thursday,September,83,69,No Holiday
+9/12/2014,Friday,September,78,62,No Holiday
+9/13/2014,Saturday,September,69,58,No Holiday
+9/14/2014,Sunday,September,71,53,No Holiday
+9/15/2014,Monday,September,71,55,No Holiday
+9/16/2014,Tuesday,September,70,58,No Holiday
+9/17/2014,Wednesday,September,73,55,No Holiday
+9/18/2014,Thursday,September,76,57,No Holiday
+9/19/2014,Friday,September,66,54,No Holiday
+9/20/2014,Saturday,September,75,57,No Holiday
+9/21/2014,Sunday,September,75,67,No Holiday
+9/22/2014,Monday,September,71,55,No Holiday
+9/23/2014,Tuesday,September,71,52,No Holiday
+9/24/2014,Wednesday,September,71,58,No Holiday
+9/25/2014,Thursday,September,64,57,No Holiday
+9/26/2014,Friday,September,77,58,No Holiday
+9/27/2014,Saturday,September,83,60,No Holiday
+9/28/2014,Sunday,September,84,64,No Holiday
+9/29/2014,Monday,September,79,67,No Holiday
+9/30/2014,Tuesday,September,71,62,No Holiday
+10/1/2014,Wednesday,October,65,61,No Holiday
+10/2/2014,Thursday,October,70,61,No Holiday
+10/3/2014,Friday,October,71,56,No Holiday
+10/4/2014,Saturday,October,69,52,No Holiday
+10/5/2014,Sunday,October,61,46,No Holiday
+10/6/2014,Monday,October,69,50,No Holiday
+10/7/2014,Tuesday,October,71,63,No Holiday
+10/8/2014,Wednesday,October,73,62,No Holiday
+10/9/2014,Thursday,October,68,55,No Holiday
+10/10/2014,Friday,October,64,52,No Holiday
+10/11/2014,Saturday,October,60,50,No Holiday
+10/12/2014,Sunday,October,63,48,No Holiday
+10/13/2014,Monday,October,65,52,holiday
+10/14/2014,Tuesday,October,76,63,No Holiday
+10/15/2014,Wednesday,October,77,69,No Holiday
+10/16/2014,Thursday,October,71,61,No Holiday
+10/17/2014,Friday,October,71,59,No Holiday
+10/18/2014,Saturday,October,70,56,No Holiday
+10/19/2014,Sunday,October,56,44,No Holiday
+10/20/2014,Monday,October,60,42,No Holiday
+10/21/2014,Tuesday,October,67,55,No Holiday
+10/22/2014,Wednesday,October,58,50,No Holiday
+10/23/2014,Thursday,October,53,50,No Holiday
+10/24/2014,Friday,October,63,51,No Holiday
+10/25/2014,Saturday,October,67,50,No Holiday
+10/26/2014,Sunday,October,63,53,No Holiday
+10/27/2014,Monday,October,63,48,No Holiday
+10/28/2014,Tuesday,October,72,53,No Holiday
+10/29/2014,Wednesday,October,72,51,No Holiday
+10/30/2014,Thursday,October,59,47,No Holiday
+10/31/2014,Friday,October,55,45,No Holiday
+11/1/2014,Saturday,November,47,42,No Holiday
+11/2/2014,Sunday,November,48,41,No Holiday
+11/3/2014,Monday,November,61,39,No Holiday
+11/4/2014,Tuesday,November,68,53,No Holiday
+11/5/2014,Wednesday,November,64,56,No Holiday
+11/6/2014,Thursday,November,57,48,No Holiday
+11/7/2014,Friday,November,53,40,No Holiday
+11/8/2014,Saturday,November,48,36,No Holiday
+11/9/2014,Sunday,November,57,46,No Holiday
+11/10/2014,Monday,November,61,44,No Holiday
+11/11/2014,Tuesday,November,64,49,holiday
+11/12/2014,Wednesday,November,65,47,No Holiday
+11/13/2014,Thursday,November,48,36,No Holiday
+11/14/2014,Friday,November,42,35,No Holiday
+11/15/2014,Saturday,November,42,33,No Holiday
+11/16/2014,Sunday,November,45,35,No Holiday
+11/17/2014,Monday,November,52,40,No Holiday
+11/18/2014,Tuesday,November,45,24,No Holiday
+11/19/2014,Wednesday,November,36,22,No Holiday
+11/20/2014,Thursday,November,45,31,No Holiday
+11/21/2014,Friday,November,37,28,No Holiday
+11/22/2014,Saturday,November,44,28,No Holiday
+11/23/2014,Sunday,November,57,43,No Holiday
+11/24/2014,Monday,November,69,53,No Holiday
+11/25/2014,Tuesday,November,68,51,No Holiday
+11/26/2014,Wednesday,November,51,34,No Holiday
+11/27/2014,Thursday,November,38,34,holiday
+11/28/2014,Friday,November,37,29,No Holiday
+11/29/2014,Saturday,November,45,27,No Holiday
+11/30/2014,Sunday,November,55,45,No Holiday
+12/1/2014,Monday,December,65,42,No Holiday
+12/2/2014,Tuesday,December,43,35,No Holiday
+12/3/2014,Wednesday,December,46,41,No Holiday
+12/4/2014,Thursday,December,45,37,No Holiday
+12/5/2014,Friday,December,44,34,No Holiday
+12/6/2014,Saturday,December,50,39,No Holiday
+12/7/2014,Sunday,December,42,30,No Holiday
+12/8/2014,Monday,December,37,24,No Holiday
+12/9/2014,Tuesday,December,42,36,No Holiday
+12/10/2014,Wednesday,December,40,32,No Holiday
+12/11/2014,Thursday,December,38,31,No Holiday
+12/12/2014,Friday,December,38,32,No Holiday
+12/13/2014,Saturday,December,44,34,No Holiday
+12/14/2014,Sunday,December,46,38,No Holiday
+12/15/2014,Monday,December,48,37,No Holiday
+12/16/2014,Tuesday,December,49,38,No Holiday
+12/17/2014,Wednesday,December,54,42,No Holiday
+12/18/2014,Thursday,December,42,37,No Holiday
+12/19/2014,Friday,December,38,31,No Holiday
+12/20/2014,Saturday,December,33,30,No Holiday
+12/21/2014,Sunday,December,36,31,No Holiday
+12/22/2014,Monday,December,44,35,No Holiday
+12/23/2014,Tuesday,December,46,43,No Holiday
+12/24/2014,Wednesday,December,58,44,No Holiday
+12/25/2014,Thursday,December,62,44,holiday
+12/26/2014,Friday,December,50,40,No Holiday
+12/27/2014,Saturday,December,55,44,No Holiday
+12/28/2014,Sunday,December,54,43,No Holiday
+12/29/2014,Monday,December,44,34,No Holiday
+12/30/2014,Tuesday,December,34,28,No Holiday
+12/31/2014,Wednesday,December,32,27,No Holiday
+1/1/2015,Thursday,January ,39,27,holiday
+1/2/2015,Friday,January ,42,35,No Holiday
+1/3/2015,Saturday,January ,42,33,No Holiday
+1/4/2015,Sunday,January ,56,41,No Holiday
+1/5/2015,Monday,January ,49,21,No Holiday
+1/6/2015,Tuesday,January ,22,19,No Holiday
+1/7/2015,Wednesday,January ,23,9,No Holiday
+1/8/2015,Thursday,January ,21,8,No Holiday
+1/9/2015,Friday,January ,33,19,No Holiday
+1/10/2015,Saturday,January ,23,16,No Holiday
+1/11/2015,Sunday,January ,37,18,No Holiday
+1/12/2015,Monday,January ,39,35,No Holiday
+1/13/2015,Tuesday,January ,36,17,No Holiday
+1/14/2015,Wednesday,January ,32,16,No Holiday
+1/15/2015,Thursday,January ,35,25,No Holiday
+1/16/2015,Friday,January ,43,20,No Holiday
+1/17/2015,Saturday,January ,32,17,No Holiday
+1/18/2015,Sunday,January ,42,31,No Holiday
+1/19/2015,Monday,January ,42,36,holiday
+1/20/2015,Tuesday,January ,40,32,No Holiday
+1/21/2015,Wednesday,January ,36,25,No Holiday
+1/22/2015,Thursday,January ,40,31,No Holiday
+1/23/2015,Friday,January ,39,28,No Holiday
+1/24/2015,Saturday,January ,39,33,No Holiday
+1/25/2015,Sunday,January ,42,31,No Holiday
+1/26/2015,Monday,January ,31,22,No Holiday
+1/27/2015,Tuesday,January ,30,20,No Holiday
+1/28/2015,Wednesday,January ,34,16,No Holiday
+1/29/2015,Thursday,January ,36,19,No Holiday
+1/30/2015,Friday,January ,38,19,No Holiday
+1/31/2015,Saturday,January ,26,13,No Holiday
+2/1/2015,Sunday,February,36,20,No Holiday
+2/2/2015,Monday,February,34,14,No Holiday
+2/3/2015,Tuesday,February,26,13,No Holiday
+2/4/2015,Wednesday,February,43,24,No Holiday
+2/5/2015,Thursday,February,42,14,No Holiday
+2/6/2015,Friday,February,27,12,No Holiday
+2/7/2015,Saturday,February,40,25,No Holiday
+2/8/2015,Sunday,February,37,29,No Holiday
+2/9/2015,Monday,February,29,25,No Holiday
+2/10/2015,Tuesday,February,40,26,No Holiday
+2/11/2015,Wednesday,February,34,22,No Holiday
+2/12/2015,Thursday,February,40,16,No Holiday
+2/13/2015,Friday,February,21,8,No Holiday
+2/14/2015,Saturday,February,32,16,No Holiday
+2/15/2015,Sunday,February,25,4,No Holiday
+2/16/2015,Monday,February,21,3,holiday
+2/17/2015,Tuesday,February,27,14,No Holiday
+2/18/2015,Wednesday,February,33,19,No Holiday
+2/19/2015,Thursday,February,27,8,No Holiday
+2/20/2015,Friday,February,19,2,No Holiday
+2/21/2015,Saturday,February,32,13,No Holiday
+2/22/2015,Sunday,February,43,32,No Holiday
+2/23/2015,Monday,February,38,8,No Holiday
+2/24/2015,Tuesday,February,24,4,No Holiday
+2/25/2015,Wednesday,February,37,20,No Holiday
+2/26/2015,Thursday,February,32,21,No Holiday
+2/27/2015,Friday,February,30,18,No Holiday
+2/28/2015,Saturday,February,29,13,No Holiday
+3/1/2015,Sunday,March,31,24,No Holiday
+3/2/2015,Monday,March,39,27,No Holiday
+3/3/2015,Tuesday,March,37,22,No Holiday
+3/4/2015,Wednesday,March,45,35,No Holiday
+3/5/2015,Thursday,March,40,19,No Holiday
+3/6/2015,Friday,March,27,12,No Holiday
+3/7/2015,Saturday,March,38,18,No Holiday
+3/8/2015,Sunday,March,49,37,No Holiday
+3/9/2015,Monday,March,54,40,No Holiday
+3/10/2015,Tuesday,March,53,39,No Holiday
+3/11/2015,Wednesday,March,59,44,No Holiday
+3/12/2015,Thursday,March,47,36,No Holiday
+3/13/2015,Friday,March,43,31,No Holiday
+3/14/2015,Saturday,March,51,40,No Holiday
+3/15/2015,Sunday,March,44,36,No Holiday
+3/16/2015,Monday,March,52,35,No Holiday
+3/17/2015,Tuesday,March,57,34,No Holiday
+3/18/2015,Wednesday,March,39,29,No Holiday
+3/19/2015,Thursday,March,43,29,No Holiday
+3/20/2015,Friday,March,38,29,No Holiday
+3/21/2015,Saturday,March,47,29,No Holiday
+3/22/2015,Sunday,March,43,28,No Holiday
+3/23/2015,Monday,March,38,23,No Holiday
+3/24/2015,Tuesday,March,45,26,No Holiday
+3/25/2015,Wednesday,March,49,34,No Holiday
+3/26/2015,Thursday,March,62,42,No Holiday
+3/27/2015,Friday,March,46,39,No Holiday
+3/28/2015,Saturday,March,40,26,No Holiday
+3/29/2015,Sunday,March,46,25,No Holiday
+3/30/2015,Monday,March,54,36,No Holiday
+3/31/2015,Tuesday,March,47,35,No Holiday
+4/1/2015,Wednesday,April,51,32,No Holiday
+4/2/2015,Thursday,April,67,41,No Holiday
+4/3/2015,Friday,April,64,59,No Holiday
+4/4/2015,Saturday,April,60,42,No Holiday
+4/5/2015,Sunday,April,61,42,No Holiday
+4/6/2015,Monday,April,63,42,No Holiday
+4/7/2015,Tuesday,April,62,42,No Holiday
+4/8/2015,Wednesday,April,45,37,No Holiday
+4/9/2015,Thursday,April,43,37,No Holiday
+4/10/2015,Friday,April,56,39,No Holiday
+4/11/2015,Saturday,April,57,44,No Holiday
+4/12/2015,Sunday,April,66,43,No Holiday
+4/13/2015,Monday,April,68,50,No Holiday
+4/14/2015,Tuesday,April,65,55,No Holiday
+4/15/2015,Wednesday,April,72,51,No Holiday
+4/16/2015,Thursday,April,64,52,No Holiday
+4/17/2015,Friday,April,71,55,No Holiday
+4/18/2015,Saturday,April,80,59,No Holiday
+4/19/2015,Sunday,April,64,48,No Holiday
+4/20/2015,Monday,April,57,46,No Holiday
+4/21/2015,Tuesday,April,65,52,No Holiday
+4/22/2015,Wednesday,April,69,48,No Holiday
+4/23/2015,Thursday,April,52,41,No Holiday
+4/24/2015,Friday,April,52,39,No Holiday
+4/25/2015,Saturday,April,62,38,No Holiday
+4/26/2015,Sunday,April,64,46,No Holiday
+4/27/2015,Monday,April,62,49,No Holiday
+4/28/2015,Tuesday,April,71,50,No Holiday
+4/29/2015,Wednesday,April,78,50,No Holiday
+4/30/2015,Thursday,April,67,48,No Holiday
+5/1/2015,Friday,May,63,49,No Holiday
+5/2/2015,Saturday,May,74,48,No Holiday
+5/3/2015,Sunday,May,80,51,No Holiday
+5/4/2015,Monday,May,85,57,No Holiday
+5/5/2015,Tuesday,May,85,66,No Holiday
+5/6/2015,Wednesday,May,73,59,No Holiday
+5/7/2015,Thursday,May,80,56,No Holiday
+5/8/2015,Friday,May,82,56,No Holiday
+5/9/2015,Saturday,May,70,57,No Holiday
+5/10/2015,Sunday,May,83,61,No Holiday
+5/11/2015,Monday,May,84,70,No Holiday
+5/12/2015,Tuesday,May,86,64,No Holiday
+5/13/2015,Wednesday,May,70,53,No Holiday
+5/14/2015,Thursday,May,73,50,No Holiday
+5/15/2015,Friday,May,75,55,No Holiday
+5/16/2015,Saturday,May,75,57,No Holiday
+5/17/2015,Sunday,May,83,64,No Holiday
+5/18/2015,Monday,May,75,60,No Holiday
+5/19/2015,Tuesday,May,80,59,No Holiday
+5/20/2015,Wednesday,May,67,54,No Holiday
+5/21/2015,Thursday,May,62,52,No Holiday
+5/22/2015,Friday,May,74,55,No Holiday
+5/23/2015,Saturday,May,70,49,No Holiday
+5/24/2015,Sunday,May,81,56,No Holiday
+5/25/2015,Monday,May,85,64,holiday
+5/26/2015,Tuesday,May,88,67,No Holiday
+5/27/2015,Wednesday,May,85,70,No Holiday
+5/28/2015,Thursday,May,85,70,No Holiday
+5/29/2015,Friday,May,85,65,No Holiday
+5/30/2015,Saturday,May,85,67,No Holiday
+5/31/2015,Sunday,May,87,57,No Holiday
+6/1/2015,Monday,June,58,51,No Holiday
+6/2/2015,Tuesday,June,55,50,No Holiday
+6/3/2015,Wednesday,June,70,52,No Holiday
+6/4/2015,Thursday,June,65,54,No Holiday
+6/5/2015,Friday,June,70,55,No Holiday
+6/6/2015,Saturday,June,76,60,No Holiday
+6/7/2015,Sunday,June,74,55,No Holiday
+6/8/2015,Monday,June,79,63,No Holiday
+6/9/2015,Tuesday,June,83,68,No Holiday
+6/10/2015,Wednesday,June,82,65,No Holiday
+6/11/2015,Thursday,June,89,72,No Holiday
+6/12/2015,Friday,June,88,73,No Holiday
+6/13/2015,Saturday,June,86,72,No Holiday
+6/14/2015,Sunday,June,88,66,No Holiday
+6/15/2015,Monday,June,83,64,No Holiday
+6/16/2015,Tuesday,June,79,65,No Holiday
+6/17/2015,Wednesday,June,82,66,No Holiday
+6/18/2015,Thursday,June,71,64,No Holiday
+6/19/2015,Friday,June,87,68,No Holiday
+6/20/2015,Saturday,June,75,64,No Holiday
+6/21/2015,Sunday,June,88,71,No Holiday
+6/22/2015,Monday,June,87,70,No Holiday
+6/23/2015,Tuesday,June,90,75,No Holiday
+6/24/2015,Wednesday,June,84,68,No Holiday
+6/25/2015,Thursday,June,83,65,No Holiday
+6/26/2015,Friday,June,81,69,No Holiday
+6/27/2015,Saturday,June,71,58,No Holiday
+6/28/2015,Sunday,June,73,62,No Holiday
+6/29/2015,Monday,June,76,63,No Holiday
+6/30/2015,Tuesday,June,82,68,No Holiday
+7/1/2015,Wednesday,July,82,69,No Holiday
+7/2/2015,Thursday,July,80,69,No Holiday
+7/3/2015,Friday,July,82,66,No Holiday
+7/4/2015,Saturday,July,75,69,holiday
+7/5/2015,Sunday,July,83,68,No Holiday
+7/6/2015,Monday,July,83,72,No Holiday
+7/7/2015,Tuesday,July,88,75,No Holiday
+7/8/2015,Wednesday,July,88,77,No Holiday
+7/9/2015,Thursday,July,79,68,No Holiday
+7/10/2015,Friday,July,84,72,No Holiday
+7/11/2015,Saturday,July,88,69,No Holiday
+7/12/2015,Sunday,July,89,72,No Holiday
+7/13/2015,Monday,July,88,73,No Holiday
+7/14/2015,Tuesday,July,82,73,No Holiday
+7/15/2015,Wednesday,July,81,72,No Holiday
+7/16/2015,Thursday,July,80,64,No Holiday
+7/17/2015,Friday,July,81,67,No Holiday
+7/18/2015,Saturday,July,85,71,No Holiday
+7/19/2015,Sunday,July,93,78,No Holiday
+7/20/2015,Monday,July,94,82,No Holiday
+7/21/2015,Tuesday,July,89,74,No Holiday
+7/22/2015,Wednesday,July,85,69,No Holiday
+7/23/2015,Thursday,July,86,68,No Holiday
+7/24/2015,Friday,July,87,70,No Holiday
+7/25/2015,Saturday,July,88,69,No Holiday
+7/26/2015,Sunday,July,90,74,No Holiday
+7/27/2015,Monday,July,86,71,No Holiday
+7/28/2015,Tuesday,July,95,75,No Holiday
+7/29/2015,Wednesday,July,96,78,No Holiday
+7/30/2015,Thursday,July,87,76,No Holiday
+7/31/2015,Friday,July,89,72,No Holiday
+8/1/2015,Saturday,August,89,75,No Holiday
+8/2/2015,Sunday,August,89,71,No Holiday
+8/3/2015,Monday,August,90,75,No Holiday
+8/4/2015,Tuesday,August,89,69,No Holiday
+8/5/2015,Wednesday,August,87,72,No Holiday
+8/6/2015,Thursday,August,83,67,No Holiday
+8/7/2015,Friday,August,84,69,No Holiday
+8/8/2015,Saturday,August,82,68,No Holiday
+8/9/2015,Sunday,August,85,68,No Holiday
+8/10/2015,Monday,August,84,70,No Holiday
+8/11/2015,Tuesday,August,81,71,No Holiday
+8/12/2015,Wednesday,August,85,71,No Holiday
+8/13/2015,Thursday,August,83,67,No Holiday
+8/14/2015,Friday,August,88,67,No Holiday
+8/15/2015,Saturday,August,92,73,No Holiday
+8/16/2015,Sunday,August,93,76,No Holiday
+8/17/2015,Monday,August,95,78,No Holiday
+8/18/2015,Tuesday,August,90,73,No Holiday
+8/19/2015,Wednesday,August,87,77,No Holiday
+8/20/2015,Thursday,August,86,77,No Holiday
+8/21/2015,Friday,August,87,71,No Holiday
+8/22/2015,Saturday,August,86,69,No Holiday
+8/23/2015,Sunday,August,85,70,No Holiday
+8/24/2015,Monday,August,87,73,No Holiday
+8/25/2015,Tuesday,August,90,73,No Holiday
+8/26/2015,Wednesday,August,85,67,No Holiday
+8/27/2015,Thursday,August,82,67,No Holiday
+8/28/2015,Friday,August,82,63,No Holiday
+8/29/2015,Saturday,August,87,67,No Holiday
+8/30/2015,Sunday,August,90,72,No Holiday
+8/31/2015,Monday,August,91,76,No Holiday
+9/1/2015,Tuesday,September,90,76,No Holiday
+9/2/2015,Wednesday,September,91,74,No Holiday
+9/3/2015,Thursday,September,93,74,No Holiday
+9/4/2015,Friday,September,85,72,No Holiday
+9/5/2015,Saturday,September,83,67,No Holiday
+9/6/2015,Sunday,September,87,65,No Holiday
+9/7/2015,Monday,September,92,70,holiday
+9/8/2015,Tuesday,September,97,76,No Holiday
+9/9/2015,Wednesday,September,90,76,No Holiday
+9/10/2015,Thursday,September,79,70,No Holiday
+9/11/2015,Friday,September,81,66,No Holiday
+9/12/2015,Saturday,September,79,69,No Holiday
+9/13/2015,Sunday,September,80,62,No Holiday
+9/14/2015,Monday,September,77,59,No Holiday
+9/15/2015,Tuesday,September,84,62,No Holiday
+9/16/2015,Wednesday,September,88,66,No Holiday
+9/17/2015,Thursday,September,89,68,No Holiday
+9/18/2015,Friday,September,87,68,No Holiday
+9/19/2015,Saturday,September,83,68,No Holiday
+9/20/2015,Sunday,September,79,64,No Holiday
+9/21/2015,Monday,September,73,59,No Holiday
+9/22/2015,Tuesday,September,71,62,No Holiday
+9/23/2015,Wednesday,September,80,59,No Holiday
+9/24/2015,Thursday,September,82,60,No Holiday
+9/25/2015,Friday,September,76,63,No Holiday
+9/26/2015,Saturday,September,72,61,No Holiday
+9/27/2015,Sunday,September,71,56,No Holiday
+9/28/2015,Monday,September,78,65,No Holiday
+9/29/2015,Tuesday,September,83,72,No Holiday
+9/30/2015,Wednesday,September,79,59,No Holiday
+10/1/2015,Thursday,October,64,56,No Holiday
+10/2/2015,Friday,October,57,48,No Holiday
+10/3/2015,Saturday,October,55,49,No Holiday
+10/4/2015,Sunday,October,63,53,No Holiday
+10/5/2015,Monday,October,67,52,No Holiday
+10/6/2015,Tuesday,October,73,52,No Holiday
+10/7/2015,Wednesday,October,73,58,No Holiday
+10/8/2015,Thursday,October,72,59,No Holiday
+10/9/2015,Friday,October,78,61,No Holiday
+10/10/2015,Saturday,October,65,50,No Holiday
+10/11/2015,Sunday,October,69,53,No Holiday
+10/12/2015,Monday,October,77,56,holiday
+10/13/2015,Tuesday,October,72,61,No Holiday
+10/14/2015,Wednesday,October,69,57,No Holiday
+10/15/2015,Thursday,October,64,51,No Holiday
+10/16/2015,Friday,October,64,53,No Holiday
+10/17/2015,Saturday,October,56,42,No Holiday
+10/18/2015,Sunday,October,50,38,No Holiday
+10/19/2015,Monday,October,53,35,No Holiday
+10/20/2015,Tuesday,October,70,48,No Holiday
+10/21/2015,Wednesday,October,76,57,No Holiday
+10/22/2015,Thursday,October,75,58,No Holiday
+10/23/2015,Friday,October,65,45,No Holiday
+10/24/2015,Saturday,October,57,40,No Holiday
+10/25/2015,Sunday,October,68,48,No Holiday
+10/26/2015,Monday,October,58,46,No Holiday
+10/27/2015,Tuesday,October,59,45,No Holiday
+10/28/2015,Wednesday,October,69,53,No Holiday
+10/29/2015,Thursday,October,73,57,No Holiday
+10/30/2015,Friday,October,61,48,No Holiday
+10/31/2015,Saturday,October,56,42,No Holiday
+11/1/2015,Sunday,November,65,54,No Holiday
+11/2/2015,Monday,November,63,54,No Holiday
+11/3/2015,Tuesday,November,72,48,No Holiday
+11/4/2015,Wednesday,November,70,56,No Holiday
+11/5/2015,Thursday,November,71,56,No Holiday
+11/6/2015,Friday,November,74,66,No Holiday
+11/7/2015,Saturday,November,72,53,No Holiday
+11/8/2015,Sunday,November,56,46,No Holiday
+11/9/2015,Monday,November,59,43,No Holiday
+11/10/2015,Tuesday,November,57,51,No Holiday
+11/11/2015,Wednesday,November,58,49,holiday
+11/12/2015,Thursday,November,61,51,No Holiday
+11/13/2015,Friday,November,58,46,No Holiday
+11/14/2015,Saturday,November,49,42,No Holiday
+11/15/2015,Sunday,November,58,39,No Holiday
+11/16/2015,Monday,November,67,51,No Holiday
+11/17/2015,Tuesday,November,52,40,No Holiday
+11/18/2015,Wednesday,November,58,46,No Holiday
+11/19/2015,Thursday,November,64,57,No Holiday
+11/20/2015,Friday,November,64,46,No Holiday
+11/21/2015,Saturday,November,53,42,No Holiday
+11/22/2015,Sunday,November,55,42,No Holiday
+11/23/2015,Monday,November,44,33,No Holiday
+11/24/2015,Tuesday,November,46,32,No Holiday
+11/25/2015,Wednesday,November,50,36,No Holiday
+11/26/2015,Thursday,November,60,41,holiday
+11/27/2015,Friday,November,64,51,No Holiday
+11/28/2015,Saturday,November,64,45,No Holiday
+11/29/2015,Sunday,November,49,38,No Holiday
+11/30/2015,Monday,November,47,33,No Holiday
+12/1/2015,Tuesday,December,51,44,No Holiday
+12/2/2015,Wednesday,December,57,46,No Holiday
+12/3/2015,Thursday,December,55,44,No Holiday
+12/4/2015,Friday,December,51,42,No Holiday
+12/5/2015,Saturday,December,51,40,No Holiday
+12/6/2015,Sunday,December,53,39,No Holiday
+12/7/2015,Monday,December,54,42,No Holiday
+12/8/2015,Tuesday,December,49,41,No Holiday
+12/9/2015,Wednesday,December,55,40,No Holiday
+12/10/2015,Thursday,December,60,51,No Holiday
+12/11/2015,Friday,December,61,50,No Holiday
+12/12/2015,Saturday,December,66,55,No Holiday
+12/13/2015,Sunday,December,67,55,No Holiday
+12/14/2015,Monday,December,67,53,No Holiday
+12/15/2015,Tuesday,December,68,53,No Holiday
+12/16/2015,Wednesday,December,53,46,No Holiday
+12/17/2015,Thursday,December,59,50,No Holiday
+12/18/2015,Friday,December,57,38,No Holiday
+12/19/2015,Saturday,December,40,35,No Holiday
+12/20/2015,Sunday,December,43,34,No Holiday
+12/21/2015,Monday,December,56,39,No Holiday
+12/22/2015,Tuesday,December,62,53,No Holiday
+12/23/2015,Wednesday,December,64,52,No Holiday
+12/24/2015,Thursday,December,72,63,No Holiday
+12/25/2015,Friday,December,66,57,holiday
+12/26/2015,Saturday,December,59,47,No Holiday
+12/27/2015,Sunday,December,61,46,No Holiday
+12/28/2015,Monday,December,46,34,No Holiday
+12/29/2015,Tuesday,December,46,34,No Holiday
+12/30/2015,Wednesday,December,48,38,No Holiday
+12/31/2015,Thursday,December,48,42,No Holiday
+1/1/2016,Friday,January ,42,34,holiday
+1/2/2016,Saturday,January ,40,32,No Holiday
+1/3/2016,Sunday,January ,45,35,No Holiday
+1/4/2016,Monday,January ,36,14,No Holiday
+1/5/2016,Tuesday,January ,29,11,No Holiday
+1/6/2016,Wednesday,January ,41,25,No Holiday
+1/7/2016,Thursday,January ,46,31,No Holiday
+1/8/2016,Friday,January ,46,31,No Holiday
+1/9/2016,Saturday,January ,47,40,No Holiday
+1/10/2016,Sunday,January ,59,40,No Holiday
+1/11/2016,Monday,January ,40,26,No Holiday
+1/12/2016,Tuesday,January ,44,25,No Holiday
+1/13/2016,Wednesday,January ,30,22,No Holiday
+1/14/2016,Thursday,January ,38,22,No Holiday
+1/15/2016,Friday,January ,51,34,No Holiday
+1/16/2016,Saturday,January ,52,42,No Holiday
+1/17/2016,Sunday,January ,42,30,No Holiday
+1/18/2016,Monday,January ,31,18,holiday
+1/19/2016,Tuesday,January ,28,16,No Holiday
+1/20/2016,Wednesday,January ,37,27,No Holiday
+1/21/2016,Thursday,January ,36,26,No Holiday
+1/22/2016,Friday,January ,30,21,No Holiday
+1/23/2016,Saturday,January ,27,24,No Holiday
+1/24/2016,Sunday,January ,35,20,No Holiday
+1/25/2016,Monday,January ,39,28,No Holiday
+1/26/2016,Tuesday,January ,48,38,No Holiday
+1/27/2016,Wednesday,January ,47,34,No Holiday
+1/28/2016,Thursday,January ,42,32,No Holiday
+1/29/2016,Friday,January ,41,30,No Holiday
+1/30/2016,Saturday,January ,39,28,No Holiday
+1/31/2016,Sunday,January ,56,36,No Holiday
+2/1/2016,Monday,February,59,44,No Holiday
+2/2/2016,Tuesday,February,50,38,No Holiday
+2/3/2016,Wednesday,February,59,42,No Holiday
+2/4/2016,Thursday,February,59,44,No Holiday
+2/5/2016,Friday,February,44,31,No Holiday
+2/6/2016,Saturday,February,40,30,No Holiday
+2/7/2016,Sunday,February,47,33,No Holiday
+2/8/2016,Monday,February,39,28,No Holiday
+2/9/2016,Tuesday,February,36,27,No Holiday
+2/10/2016,Wednesday,February,39,31,No Holiday
+2/11/2016,Thursday,February,31,18,No Holiday
+2/12/2016,Friday,February,27,15,No Holiday
+2/13/2016,Saturday,February,22,6,No Holiday
+2/14/2016,Sunday,February,15,-1,No Holiday
+2/15/2016,Monday,February,35,13,holiday
+2/16/2016,Tuesday,February,54,35,No Holiday
+2/17/2016,Wednesday,February,39,35,No Holiday
+2/18/2016,Thursday,February,36,27,No Holiday
+2/19/2016,Friday,February,39,24,No Holiday
+2/20/2016,Saturday,February,61,39,No Holiday
+2/21/2016,Sunday,February,55,44,No Holiday
+2/22/2016,Monday,February,52,38,No Holiday
+2/23/2016,Tuesday,February,40,35,No Holiday
+2/24/2016,Wednesday,February,60,36,No Holiday
+2/25/2016,Thursday,February,61,37,No Holiday
+2/26/2016,Friday,February,39,27,No Holiday
+2/27/2016,Saturday,February,41,26,No Holiday
+2/28/2016,Sunday,February,60,38,No Holiday
+2/29/2016,Monday,February,61,47,No Holiday
+3/1/2016,Tuesday,March,52,39,No Holiday
+3/2/2016,Wednesday,March,55,29,No Holiday
+3/3/2016,Thursday,March,36,26,No Holiday
+3/4/2016,Friday,March,39,30,No Holiday
+3/5/2016,Saturday,March,41,28,No Holiday
+3/6/2016,Sunday,March,44,32,No Holiday
+3/7/2016,Monday,March,60,36,No Holiday
+3/8/2016,Tuesday,March,67,47,No Holiday
+3/9/2016,Wednesday,March,77,44,No Holiday
+3/10/2016,Thursday,March,79,63,No Holiday
+3/11/2016,Friday,March,68,48,No Holiday
+3/12/2016,Saturday,March,59,40,No Holiday
+3/13/2016,Sunday,March,62,50,No Holiday
+3/14/2016,Monday,March,51,40,No Holiday
+3/15/2016,Tuesday,March,57,44,No Holiday
+3/16/2016,Wednesday,March,65,48,No Holiday
+3/17/2016,Thursday,March,63,45,No Holiday
+3/18/2016,Friday,March,57,42,No Holiday
+3/19/2016,Saturday,March,46,36,No Holiday
+3/20/2016,Sunday,March,43,32,No Holiday
+3/21/2016,Monday,March,50,32,No Holiday
+3/22/2016,Tuesday,March,56,35,No Holiday
+3/23/2016,Wednesday,March,71,48,No Holiday
+3/24/2016,Thursday,March,55,44,No Holiday
+3/25/2016,Friday,March,72,44,No Holiday
+3/26/2016,Saturday,March,55,38,No Holiday
+3/27/2016,Sunday,March,55,43,No Holiday
+3/28/2016,Monday,March,62,42,No Holiday
+3/29/2016,Tuesday,March,53,40,No Holiday
+3/30/2016,Wednesday,March,56,37,No Holiday
+3/31/2016,Thursday,March,73,49,No Holiday
+4/1/2016,Friday,April,79,61,No Holiday
+4/2/2016,Saturday,April,61,49,No Holiday
+4/3/2016,Sunday,April,50,34,No Holiday
+4/4/2016,Monday,April,45,29,No Holiday
+4/5/2016,Tuesday,April,43,26,No Holiday
+4/6/2016,Wednesday,April,48,30,No Holiday
+4/7/2016,Thursday,April,58,48,No Holiday
+4/8/2016,Friday,April,50,40,No Holiday
+4/9/2016,Saturday,April,43,36,No Holiday
+4/10/2016,Sunday,April,50,31,No Holiday
+4/11/2016,Monday,April,65,43,No Holiday
+4/12/2016,Tuesday,April,59,45,No Holiday
+4/13/2016,Wednesday,April,58,40,No Holiday
+4/14/2016,Thursday,April,62,43,No Holiday
+4/15/2016,Friday,April,65,42,No Holiday
+4/16/2016,Saturday,April,68,43,No Holiday
+4/17/2016,Sunday,April,75,44,No Holiday
+4/18/2016,Monday,April,82,51,No Holiday
+4/19/2016,Tuesday,April,73,55,No Holiday
+4/20/2016,Wednesday,April,69,49,No Holiday
+4/21/2016,Thursday,April,73,49,No Holiday
+4/22/2016,Friday,April,79,62,No Holiday
+4/23/2016,Saturday,April,71,54,No Holiday
+4/24/2016,Sunday,April,68,47,No Holiday
+4/25/2016,Monday,April,69,50,No Holiday
+4/26/2016,Tuesday,April,60,47,No Holiday
+4/27/2016,Wednesday,April,62,46,No Holiday
+4/28/2016,Thursday,April,59,48,No Holiday
+4/29/2016,Friday,April,58,45,No Holiday
+4/30/2016,Saturday,April,65,46,No Holiday
+5/1/2016,Sunday,May,51,45,No Holiday
+5/2/2016,Monday,May,60,45,No Holiday
+5/3/2016,Tuesday,May,56,51,No Holiday
+5/4/2016,Wednesday,May,52,48,No Holiday
+5/5/2016,Thursday,May,57,46,No Holiday
+5/6/2016,Friday,May,54,48,No Holiday
+5/7/2016,Saturday,May,60,48,No Holiday
+5/8/2016,Sunday,May,66,49,No Holiday
+5/9/2016,Monday,May,72,52,No Holiday
+5/10/2016,Tuesday,May,63,50,No Holiday
+5/11/2016,Wednesday,May,76,50,No Holiday
+5/12/2016,Thursday,May,80,56,No Holiday
+5/13/2016,Friday,May,65,57,No Holiday
+5/14/2016,Saturday,May,73,56,No Holiday
+5/15/2016,Sunday,May,59,46,No Holiday
+5/16/2016,Monday,May,66,43,No Holiday
+5/17/2016,Tuesday,May,64,52,No Holiday
+5/18/2016,Wednesday,May,68,52,No Holiday
+5/19/2016,Thursday,May,73,54,No Holiday
+5/20/2016,Friday,May,76,53,No Holiday
+5/21/2016,Saturday,May,66,54,No Holiday
+5/22/2016,Sunday,May,70,52,No Holiday
+5/23/2016,Monday,May,78,56,No Holiday
+5/24/2016,Tuesday,May,73,58,No Holiday
+5/25/2016,Wednesday,May,88,61,No Holiday
+5/26/2016,Thursday,May,90,69,No Holiday
+5/27/2016,Friday,May,87,73,No Holiday
+5/28/2016,Saturday,May,92,71,No Holiday
+5/29/2016,Sunday,May,87,70,No Holiday
+5/30/2016,Monday,May,82,68,holiday
+5/31/2016,Tuesday,May,85,71,No Holiday
+6/1/2016,Wednesday,June,83,66,No Holiday
+6/2/2016,Thursday,June,78,62,No Holiday
+6/3/2016,Friday,June,70,63,No Holiday
+6/4/2016,Saturday,June,83,66,No Holiday
+6/5/2016,Sunday,June,71,65,No Holiday
+6/6/2016,Monday,June,83,65,No Holiday
+6/7/2016,Tuesday,June,85,64,No Holiday
+6/8/2016,Wednesday,June,67,52,No Holiday
+6/9/2016,Thursday,June,71,54,No Holiday
+6/10/2016,Friday,June,77,57,No Holiday
+6/11/2016,Saturday,June,88,59,No Holiday
+6/12/2016,Sunday,June,83,62,No Holiday
+6/13/2016,Monday,June,74,57,No Holiday
+6/14/2016,Tuesday,June,79,58,No Holiday
+6/15/2016,Wednesday,June,85,62,No Holiday
+6/16/2016,Thursday,June,74,65,No Holiday
+6/17/2016,Friday,June,78,63,No Holiday
+6/18/2016,Saturday,June,87,61,No Holiday
+6/19/2016,Sunday,June,88,66,No Holiday
+6/20/2016,Monday,June,84,64,No Holiday
+6/21/2016,Tuesday,June,87,72,No Holiday
+6/22/2016,Wednesday,June,86,68,No Holiday
+6/23/2016,Thursday,June,83,69,No Holiday
+6/24/2016,Friday,June,84,67,No Holiday
+6/25/2016,Saturday,June,86,64,No Holiday
+6/26/2016,Sunday,June,87,67,No Holiday
+6/27/2016,Monday,June,83,67,No Holiday
+6/28/2016,Tuesday,June,76,68,No Holiday
+6/29/2016,Wednesday,June,83,67,No Holiday
+6/30/2016,Thursday,June,85,67,No Holiday
+7/1/2016,Friday,July,79,66,No Holiday
+7/2/2016,Saturday,July,76,63,No Holiday
+7/3/2016,Sunday,July,78,64,No Holiday
+7/4/2016,Monday,July,84,66,holiday
+7/5/2016,Tuesday,July,86,69,No Holiday
+7/6/2016,Wednesday,July,91,75,No Holiday
+7/7/2016,Thursday,July,89,77,No Holiday
+7/8/2016,Friday,July,86,67,No Holiday
+7/9/2016,Saturday,July,72,65,No Holiday
+7/10/2016,Sunday,July,80,66,No Holiday
+7/11/2016,Monday,July,81,65,No Holiday
+7/12/2016,Tuesday,July,82,68,No Holiday
+7/13/2016,Wednesday,July,85,71,No Holiday
+7/14/2016,Thursday,July,88,73,No Holiday
+7/15/2016,Friday,July,88,79,No Holiday
+7/16/2016,Saturday,July,90,75,No Holiday
+7/17/2016,Sunday,July,89,75,No Holiday
+7/18/2016,Monday,July,93,72,No Holiday
+7/19/2016,Tuesday,July,83,73,No Holiday
+7/20/2016,Wednesday,July,85,68,No Holiday
+7/21/2016,Thursday,July,90,71,No Holiday
+7/22/2016,Friday,July,94,74,No Holiday
+7/23/2016,Saturday,July,96,80,No Holiday
+7/24/2016,Sunday,July,94,75,No Holiday
+7/25/2016,Monday,July,93,73,No Holiday
+7/26/2016,Tuesday,July,89,72,No Holiday
+7/27/2016,Wednesday,July,91,74,No Holiday
+7/28/2016,Thursday,July,95,75,No Holiday
+7/29/2016,Friday,July,85,69,No Holiday
+7/30/2016,Saturday,July,84,73,No Holiday
+7/31/2016,Sunday,July,78,71,No Holiday
+8/1/2016,Monday,August,80,69,No Holiday
+8/2/2016,Tuesday,August,79,68,No Holiday
+8/3/2016,Wednesday,August,80,66,No Holiday
+8/4/2016,Thursday,August,81,67,No Holiday
+8/5/2016,Friday,August,83,69,No Holiday
+8/6/2016,Saturday,August,87,72,No Holiday
+8/7/2016,Sunday,August,86,70,No Holiday
+8/8/2016,Monday,August,86,71,No Holiday
+8/9/2016,Tuesday,August,87,71,No Holiday
+8/10/2016,Wednesday,August,86,75,No Holiday
+8/11/2016,Thursday,August,91,74,No Holiday
+8/12/2016,Friday,August,93,73,No Holiday
+8/13/2016,Saturday,August,96,81,No Holiday
+8/14/2016,Sunday,August,94,78,No Holiday
+8/15/2016,Monday,August,92,77,No Holiday
+8/16/2016,Tuesday,August,87,78,No Holiday
+8/17/2016,Wednesday,August,85,77,No Holiday
+8/18/2016,Thursday,August,85,72,No Holiday
+8/19/2016,Friday,August,88,74,No Holiday
+8/20/2016,Saturday,August,83,70,No Holiday
+8/21/2016,Sunday,August,86,73,No Holiday
+8/22/2016,Monday,August,79,65,No Holiday
+8/23/2016,Tuesday,August,82,61,No Holiday
+8/24/2016,Wednesday,August,88,68,No Holiday
+8/25/2016,Thursday,August,86,69,No Holiday
+8/26/2016,Friday,August,90,75,No Holiday
+8/27/2016,Saturday,August,89,73,No Holiday
+8/28/2016,Sunday,August,89,72,No Holiday
+8/29/2016,Monday,August,91,74,No Holiday
+8/30/2016,Tuesday,August,86,69,No Holiday
+8/31/2016,Wednesday,August,89,74,No Holiday
+9/1/2016,Thursday,September,79,69,No Holiday
+9/2/2016,Friday,September,81,66,No Holiday
+9/3/2016,Saturday,September,75,66,No Holiday
+9/4/2016,Sunday,September,80,65,No Holiday
+9/5/2016,Monday,September,84,65,holiday
+9/6/2016,Tuesday,September,80,71,No Holiday
+9/7/2016,Wednesday,September,85,71,No Holiday
+9/8/2016,Thursday,September,89,71,No Holiday
+9/9/2016,Friday,September,91,75,No Holiday
+9/10/2016,Saturday,September,90,74,No Holiday
+9/11/2016,Sunday,September,83,67,No Holiday
+9/12/2016,Monday,September,78,62,No Holiday
+9/13/2016,Tuesday,September,83,64,No Holiday
+9/14/2016,Wednesday,September,91,67,No Holiday
+9/15/2016,Thursday,September,74,61,No Holiday
+9/16/2016,Friday,September,73,61,No Holiday
+9/17/2016,Saturday,September,77,59,No Holiday
+9/18/2016,Sunday,September,82,70,No Holiday
+9/19/2016,Monday,September,76,69,No Holiday
+9/20/2016,Tuesday,September,82,68,No Holiday
+9/21/2016,Wednesday,September,84,68,No Holiday
+9/22/2016,Thursday,September,86,65,No Holiday
+9/23/2016,Friday,September,87,64,No Holiday
+9/24/2016,Saturday,September,71,58,No Holiday
+9/25/2016,Sunday,September,70,54,No Holiday
+9/26/2016,Monday,September,74,54,No Holiday
+9/27/2016,Tuesday,September,74,64,No Holiday
+9/28/2016,Wednesday,September,69,56,No Holiday
+9/29/2016,Thursday,September,64,57,No Holiday
+9/30/2016,Friday,September,59,56,No Holiday
+10/1/2016,Saturday,October,62,56,No Holiday
+10/2/2016,Sunday,October,63,57,No Holiday
+10/3/2016,Monday,October,72,60,No Holiday
+10/4/2016,Tuesday,October,69,60,No Holiday
+10/5/2016,Wednesday,October,67,53,No Holiday
+10/6/2016,Thursday,October,73,55,No Holiday
+10/7/2016,Friday,October,75,57,No Holiday
+10/8/2016,Saturday,October,68,58,No Holiday
+10/9/2016,Sunday,October,65,51,No Holiday
+10/10/2016,Monday,October,64,47,holiday
+10/11/2016,Tuesday,October,63,46,No Holiday
+10/12/2016,Wednesday,October,66,53,No Holiday
+10/13/2016,Thursday,October,67,53,No Holiday
+10/14/2016,Friday,October,62,47,No Holiday
+10/15/2016,Saturday,October,65,45,No Holiday
+10/16/2016,Sunday,October,69,53,No Holiday
+10/17/2016,Monday,October,81,63,No Holiday
+10/18/2016,Tuesday,October,81,67,No Holiday
+10/19/2016,Wednesday,October,85,65,No Holiday
+10/20/2016,Thursday,October,70,62,No Holiday
+10/21/2016,Friday,October,69,57,No Holiday
+10/22/2016,Saturday,October,57,47,No Holiday
+10/23/2016,Sunday,October,61,45,No Holiday
+10/24/2016,Monday,October,62,47,No Holiday
+10/25/2016,Tuesday,October,52,43,No Holiday
+10/26/2016,Wednesday,October,51,38,No Holiday
+10/27/2016,Thursday,October,55,40,No Holiday
+10/28/2016,Friday,October,51,42,No Holiday
+10/29/2016,Saturday,October,64,39,No Holiday
+10/30/2016,Sunday,October,76,54,No Holiday
+10/31/2016,Monday,October,54,44,No Holiday
+11/1/2016,Tuesday,November,58,40,No Holiday
+11/2/2016,Wednesday,November,70,54,No Holiday
+11/3/2016,Thursday,November,72,57,No Holiday
+11/4/2016,Friday,November,61,47,No Holiday
+11/5/2016,Saturday,November,62,44,No Holiday
+11/6/2016,Sunday,November,59,45,No Holiday
+11/7/2016,Monday,November,53,41,No Holiday
+11/8/2016,Tuesday,November,66,41,No Holiday
+11/9/2016,Wednesday,November,59,49,No Holiday
+11/10/2016,Thursday,November,56,40,No Holiday
+11/11/2016,Friday,November,63,41,holiday
+11/12/2016,Saturday,November,50,37,No Holiday
+11/13/2016,Sunday,November,61,41,No Holiday
+11/14/2016,Monday,November,62,46,No Holiday
+11/15/2016,Tuesday,November,56,47,No Holiday
+11/16/2016,Wednesday,November,61,45,No Holiday
+11/17/2016,Thursday,November,61,49,No Holiday
+11/18/2016,Friday,November,64,44,No Holiday
+11/19/2016,Saturday,November,63,37,No Holiday
+11/20/2016,Sunday,November,42,34,No Holiday
+11/21/2016,Monday,November,41,36,No Holiday
+11/22/2016,Tuesday,November,41,37,No Holiday
+11/23/2016,Wednesday,November,45,35,No Holiday
+11/24/2016,Thursday,November,48,38,holiday
+11/25/2016,Friday,November,54,45,No Holiday
+11/26/2016,Saturday,November,50,40,No Holiday
+11/27/2016,Sunday,November,50,39,No Holiday
+11/28/2016,Monday,November,52,38,No Holiday
+11/29/2016,Tuesday,November,60,51,No Holiday
+11/30/2016,Wednesday,November,58,50,No Holiday
+12/1/2016,Thursday,December,54,42,No Holiday
+12/2/2016,Friday,December,51,40,No Holiday
+12/3/2016,Saturday,December,47,41,No Holiday
+12/4/2016,Sunday,December,47,39,No Holiday
+12/5/2016,Monday,December,49,38,No Holiday
+12/6/2016,Tuesday,December,46,37,No Holiday
+12/7/2016,Wednesday,December,46,40,No Holiday
+12/8/2016,Thursday,December,45,35,No Holiday
+12/9/2016,Friday,December,39,29,No Holiday
+12/10/2016,Saturday,December,35,28,No Holiday
+12/11/2016,Sunday,December,35,28,No Holiday
+12/12/2016,Monday,December,46,34,No Holiday
+12/13/2016,Tuesday,December,43,35,No Holiday
+12/14/2016,Wednesday,December,42,34,No Holiday
+12/15/2016,Thursday,December,34,19,No Holiday
+12/16/2016,Friday,December,27,17,No Holiday
+12/17/2016,Saturday,December,39,24,No Holiday
+12/18/2016,Sunday,December,58,31,No Holiday
+12/19/2016,Monday,December,31,23,No Holiday
+12/20/2016,Tuesday,December,33,20,No Holiday
+12/21/2016,Wednesday,December,40,30,No Holiday
+12/22/2016,Thursday,December,49,37,No Holiday
+12/23/2016,Friday,December,47,38,No Holiday
+12/24/2016,Saturday,December,47,38,No Holiday
+12/25/2016,Sunday,December,50,36,holiday
+12/26/2016,Monday,December,50,33,No Holiday
+12/27/2016,Tuesday,December,60,40,No Holiday
+12/28/2016,Wednesday,December,40,34,No Holiday
+12/29/2016,Thursday,December,46,33,No Holiday
+12/30/2016,Friday,December,40,33,No Holiday
+12/31/2016,Saturday,December,44,31,No Holiday
+1/1/2017,Sunday,January ,48,40,holiday
+1/2/2017,Monday,January ,41,37,No Holiday
+1/3/2017,Tuesday,January ,43,39,No Holiday
+1/4/2017,Wednesday,January ,52,34,No Holiday
+1/5/2017,Thursday,January ,34,27,No Holiday
+1/6/2017,Friday,January ,33,25,No Holiday
+1/7/2017,Saturday,January ,26,20,No Holiday
+1/8/2017,Sunday,January ,25,16,No Holiday
+1/9/2017,Monday,January ,23,14,No Holiday
+1/10/2017,Tuesday,January ,46,21,No Holiday
+1/11/2017,Wednesday,January ,52,42,No Holiday
+1/12/2017,Thursday,January ,66,47,No Holiday
+1/13/2017,Friday,January ,62,32,No Holiday
+1/14/2017,Saturday,January ,34,28,No Holiday
+1/15/2017,Sunday,January ,38,30,No Holiday
+1/16/2017,Monday,January ,43,30,holiday
+1/17/2017,Tuesday,January ,42,38,No Holiday
+1/18/2017,Wednesday,January ,41,38,No Holiday
+1/19/2017,Thursday,January ,49,39,No Holiday
+1/20/2017,Friday,January ,45,40,No Holiday
+1/21/2017,Saturday,January ,49,41,No Holiday
+1/22/2017,Sunday,January ,48,43,No Holiday
+1/23/2017,Monday,January ,44,36,No Holiday
+1/24/2017,Tuesday,January ,38,35,No Holiday
+1/25/2017,Wednesday,January ,51,36,No Holiday
+1/26/2017,Thursday,January ,56,43,No Holiday
+1/27/2017,Friday,January ,43,36,No Holiday
+1/28/2017,Saturday,January ,39,34,No Holiday
+1/29/2017,Sunday,January ,43,35,No Holiday
+1/30/2017,Monday,January ,37,30,No Holiday
+1/31/2017,Tuesday,January ,34,26,No Holiday
+2/1/2017,Wednesday,February,47,33,No Holiday
+2/2/2017,Thursday,February,45,32,No Holiday
+2/3/2017,Friday,February,33,26,No Holiday
+2/4/2017,Saturday,February,34,22,No Holiday
+2/5/2017,Sunday,February,43,31,No Holiday
+2/6/2017,Monday,February,49,36,No Holiday
+2/7/2017,Tuesday,February,42,36,No Holiday
+2/8/2017,Wednesday,February,62,38,No Holiday
+2/9/2017,Thursday,February,44,19,No Holiday
+2/10/2017,Friday,February,32,19,No Holiday
+2/11/2017,Saturday,February,48,30,No Holiday
+2/12/2017,Sunday,February,40,30,No Holiday
+2/13/2017,Monday,February,39,31,No Holiday
+2/14/2017,Tuesday,February,41,28,No Holiday
+2/15/2017,Wednesday,February,47,35,No Holiday
+2/16/2017,Thursday,February,35,28,No Holiday
+2/17/2017,Friday,February,41,26,No Holiday
+2/18/2017,Saturday,February,63,35,No Holiday
+2/19/2017,Sunday,February,65,53,No Holiday
+2/20/2017,Monday,February,55,39,holiday
+2/21/2017,Tuesday,February,47,34,No Holiday
+2/22/2017,Wednesday,February,57,42,No Holiday
+2/23/2017,Thursday,February,65,44,No Holiday
+2/24/2017,Friday,February,70,58,No Holiday
+2/25/2017,Saturday,February,63,44,No Holiday
+2/26/2017,Sunday,February,44,36,No Holiday
+2/27/2017,Monday,February,54,35,No Holiday
+2/28/2017,Tuesday,February,59,47,No Holiday
+3/1/2017,Wednesday,March,70,54,No Holiday
+3/2/2017,Thursday,March,64,35,No Holiday
+3/3/2017,Friday,March,39,24,No Holiday
+3/4/2017,Saturday,March,30,17,No Holiday
+3/5/2017,Sunday,March,37,14,No Holiday
+3/6/2017,Monday,March,45,26,No Holiday
+3/7/2017,Tuesday,March,56,42,No Holiday
+3/8/2017,Wednesday,March,59,47,No Holiday
+3/9/2017,Thursday,March,61,47,No Holiday
+3/10/2017,Friday,March,47,23,No Holiday
+3/11/2017,Saturday,March,29,17,No Holiday
+3/12/2017,Sunday,March,29,19,No Holiday
+3/13/2017,Monday,March,36,20,No Holiday
+3/14/2017,Tuesday,March,32,21,No Holiday
+3/15/2017,Wednesday,March,26,20,No Holiday
+3/16/2017,Thursday,March,39,24,No Holiday
+3/17/2017,Friday,March,47,29,No Holiday
+3/18/2017,Saturday,March,39,34,No Holiday
+3/19/2017,Sunday,March,47,34,No Holiday
+3/20/2017,Monday,March,52,33,No Holiday
+3/21/2017,Tuesday,March,59,42,No Holiday
+3/22/2017,Wednesday,March,50,24,No Holiday
+3/23/2017,Thursday,March,42,23,No Holiday
+3/24/2017,Friday,March,57,36,No Holiday
+3/25/2017,Saturday,March,62,42,No Holiday
+3/26/2017,Sunday,March,42,37,No Holiday
+3/27/2017,Monday,March,53,37,No Holiday
+3/28/2017,Tuesday,March,46,41,No Holiday
+3/29/2017,Wednesday,March,60,42,No Holiday
+3/30/2017,Thursday,March,52,38,No Holiday
+3/31/2017,Friday,March,43,37,No Holiday
+4/1/2017,Saturday,April,48,37,No Holiday
+4/2/2017,Sunday,April,63,40,No Holiday
+4/3/2017,Monday,April,63,48,No Holiday
+4/4/2017,Tuesday,April,51,45,No Holiday
+4/5/2017,Wednesday,April,65,45,No Holiday
+4/6/2017,Thursday,April,53,40,No Holiday
+4/7/2017,Friday,April,51,40,No Holiday
+4/8/2017,Saturday,April,57,40,No Holiday
+4/9/2017,Sunday,April,67,45,No Holiday
+4/10/2017,Monday,April,74,53,No Holiday
+4/11/2017,Tuesday,April,80,61,No Holiday
+4/12/2017,Wednesday,April,76,58,No Holiday
+4/13/2017,Thursday,April,65,48,No Holiday
+4/14/2017,Friday,April,66,48,No Holiday
+4/15/2017,Saturday,April,65,51,No Holiday
+4/16/2017,Sunday,April,87,59,No Holiday
+4/17/2017,Monday,April,74,58,No Holiday
+4/18/2017,Tuesday,April,65,47,No Holiday
+4/19/2017,Wednesday,April,54,45,No Holiday
+4/20/2017,Thursday,April,66,50,No Holiday
+4/21/2017,Friday,April,53,48,No Holiday
+4/22/2017,Saturday,April,57,49,No Holiday
+4/23/2017,Sunday,April,66,46,No Holiday
+4/24/2017,Monday,April,60,48,No Holiday
+4/25/2017,Tuesday,April,54,49,No Holiday
+4/26/2017,Wednesday,April,60,53,No Holiday
+4/27/2017,Thursday,April,70,57,No Holiday
+4/28/2017,Friday,April,85,58,No Holiday
+4/29/2017,Saturday,April,85,64,No Holiday
+4/30/2017,Sunday,April,67,52,No Holiday
+5/1/2017,Monday,May,74,49,No Holiday
+5/2/2017,Tuesday,May,75,62,No Holiday
+5/3/2017,Wednesday,May,65,51,No Holiday
+5/4/2017,Thursday,May,64,47,No Holiday
+5/5/2017,Friday,May,59,51,No Holiday
+5/6/2017,Saturday,May,67,52,No Holiday
+5/7/2017,Sunday,May,56,47,No Holiday
+5/8/2017,Monday,May,57,44,No Holiday
+5/9/2017,Tuesday,May,63,47,No Holiday
+5/10/2017,Wednesday,May,63,49,No Holiday
+5/11/2017,Thursday,May,62,51,No Holiday
+5/12/2017,Friday,May,65,48,No Holiday
+5/13/2017,Saturday,May,53,45,No Holiday
+5/14/2017,Sunday,May,67,46,No Holiday
+5/15/2017,Monday,May,68,53,No Holiday
+5/16/2017,Tuesday,May,79,56,No Holiday
+5/17/2017,Wednesday,May,90,65,No Holiday
+5/18/2017,Thursday,May,92,75,No Holiday
+5/19/2017,Friday,May,91,66,No Holiday
+5/20/2017,Saturday,May,65,55,No Holiday
+5/21/2017,Sunday,May,69,52,No Holiday
+5/22/2017,Monday,May,61,53,No Holiday
+5/23/2017,Tuesday,May,69,56,No Holiday
+5/24/2017,Wednesday,May,69,56,No Holiday
+5/25/2017,Thursday,May,59,56,No Holiday
+5/26/2017,Friday,May,73,56,No Holiday
+5/27/2017,Saturday,May,71,59,No Holiday
+5/28/2017,Sunday,May,71,58,No Holiday
+5/29/2017,Monday,May,61,56,holiday
+5/30/2017,Tuesday,May,60,55,No Holiday
+5/31/2017,Wednesday,May,75,58,No Holiday
+6/1/2017,Thursday,June,79,59,No Holiday
+6/2/2017,Friday,June,76,57,No Holiday
+6/3/2017,Saturday,June,73,55,No Holiday
+6/4/2017,Sunday,June,70,56,No Holiday
+6/5/2017,Monday,June,67,58,No Holiday
+6/6/2017,Tuesday,June,58,52,No Holiday
+6/7/2017,Wednesday,June,67,51,No Holiday
+6/8/2017,Thursday,June,69,55,No Holiday
+6/9/2017,Friday,June,80,53,No Holiday
+6/10/2017,Saturday,June,85,66,No Holiday
+6/11/2017,Sunday,June,90,72,No Holiday
+6/12/2017,Monday,June,93,76,No Holiday
+6/13/2017,Tuesday,June,94,77,No Holiday
+6/14/2017,Wednesday,June,84,69,No Holiday
+6/15/2017,Thursday,June,76,64,No Holiday
+6/16/2017,Friday,June,68,63,No Holiday
+6/17/2017,Saturday,June,74,66,No Holiday
+6/18/2017,Sunday,June,85,70,No Holiday
+6/19/2017,Monday,June,88,70,No Holiday
+6/20/2017,Tuesday,June,83,71,No Holiday
+6/21/2017,Wednesday,June,83,71,No Holiday
+6/22/2017,Thursday,June,83,68,No Holiday
+6/23/2017,Friday,June,83,76,No Holiday
+6/24/2017,Saturday,June,84,71,No Holiday
+6/25/2017,Sunday,June,83,68,No Holiday
+6/26/2017,Monday,June,79,64,No Holiday
+6/27/2017,Tuesday,June,77,60,No Holiday
+6/28/2017,Wednesday,June,78,61,No Holiday
+6/29/2017,Thursday,June,82,68,No Holiday
+6/30/2017,Friday,June,88,73,No Holiday
+7/1/2017,Saturday,July,85,71,No Holiday
+7/2/2017,Sunday,July,87,72,No Holiday
+7/3/2017,Monday,July,88,71,No Holiday
+7/4/2017,Tuesday,July,85,70,holiday
+7/5/2017,Wednesday,July,85,70,No Holiday
+7/6/2017,Thursday,July,77,71,No Holiday
+7/7/2017,Friday,July,80,68,No Holiday
+7/8/2017,Saturday,July,84,69,No Holiday
+7/9/2017,Sunday,July,81,67,No Holiday
+7/10/2017,Monday,July,84,68,No Holiday
+7/11/2017,Tuesday,July,85,75,No Holiday
+7/12/2017,Wednesday,July,88,77,No Holiday
+7/13/2017,Thursday,July,90,73,No Holiday
+7/14/2017,Friday,July,73,65,No Holiday
+7/15/2017,Saturday,July,84,68,No Holiday
+7/16/2017,Sunday,July,87,68,No Holiday
+7/17/2017,Monday,July,85,73,No Holiday
+7/18/2017,Tuesday,July,88,73,No Holiday
+7/19/2017,Wednesday,July,92,77,No Holiday
+7/20/2017,Thursday,July,94,77,No Holiday
+7/21/2017,Friday,July,92,76,No Holiday
+7/22/2017,Saturday,July,92,71,No Holiday
+7/23/2017,Sunday,July,79,71,No Holiday
+7/24/2017,Monday,July,73,63,No Holiday
+7/25/2017,Tuesday,July,71,62,No Holiday
+7/26/2017,Wednesday,July,77,65,No Holiday
+7/27/2017,Thursday,July,78,65,No Holiday
+7/28/2017,Friday,July,85,71,No Holiday
+7/29/2017,Saturday,July,77,67,No Holiday
+7/30/2017,Sunday,July,82,64,No Holiday
+7/31/2017,Monday,July,88,66,No Holiday
+8/1/2017,Tuesday,August,92,71,No Holiday
+8/2/2017,Wednesday,August,86,69,No Holiday
+8/3/2017,Thursday,August,87,68,No Holiday
+8/4/2017,Friday,August,84,69,No Holiday
+8/5/2017,Saturday,August,78,69,No Holiday
+8/6/2017,Sunday,August,76,64,No Holiday
+8/7/2017,Monday,August,71,64,No Holiday
+8/8/2017,Tuesday,August,78,65,No Holiday
+8/9/2017,Wednesday,August,85,64,No Holiday
+8/10/2017,Thursday,August,83,68,No Holiday
+8/11/2017,Friday,August,82,69,No Holiday
+8/12/2017,Saturday,August,77,64,No Holiday
+8/13/2017,Sunday,August,83,71,No Holiday
+8/14/2017,Monday,August,80,70,No Holiday
+8/15/2017,Tuesday,August,74,68,No Holiday
+8/16/2017,Wednesday,August,87,70,No Holiday
+8/17/2017,Thursday,August,83,69,No Holiday
+8/18/2017,Friday,August,82,73,No Holiday
+8/19/2017,Saturday,August,86,73,No Holiday
+8/20/2017,Sunday,August,81,69,No Holiday
+8/21/2017,Monday,August,87,71,No Holiday
+8/22/2017,Tuesday,August,89,72,No Holiday
+8/23/2017,Wednesday,August,81,70,No Holiday
+8/24/2017,Thursday,August,80,65,No Holiday
+8/25/2017,Friday,August,78,63,No Holiday
+8/26/2017,Saturday,August,78,62,No Holiday
+8/27/2017,Sunday,August,78,63,No Holiday
+8/28/2017,Monday,August,76,63,No Holiday
+8/29/2017,Tuesday,August,68,61,No Holiday
+8/30/2017,Wednesday,August,78,60,No Holiday
+8/31/2017,Thursday,August,81,64,No Holiday
+9/1/2017,Friday,September,71,55,No Holiday
+9/2/2017,Saturday,September,68,54,No Holiday
+9/3/2017,Sunday,September,69,59,No Holiday
+9/4/2017,Monday,September,80,61,holiday
+9/5/2017,Tuesday,September,85,69,No Holiday
+9/6/2017,Wednesday,September,72,61,No Holiday
+9/7/2017,Thursday,September,71,59,No Holiday
+9/8/2017,Friday,September,71,58,No Holiday
+9/9/2017,Saturday,September,70,55,No Holiday
+9/10/2017,Sunday,September,72,57,No Holiday
+9/11/2017,Monday,September,76,55,No Holiday
+9/12/2017,Tuesday,September,78,59,No Holiday
+9/13/2017,Wednesday,September,83,64,No Holiday
+9/14/2017,Thursday,September,81,70,No Holiday
+9/15/2017,Friday,September,81,67,No Holiday
+9/16/2017,Saturday,September,82,70,No Holiday
+9/17/2017,Sunday,September,81,68,No Holiday
+9/18/2017,Monday,September,73,68,No Holiday
+9/19/2017,Tuesday,September,78,69,No Holiday
+9/20/2017,Wednesday,September,79,71,No Holiday
+9/21/2017,Thursday,September,80,71,No Holiday
+9/22/2017,Friday,September,82,66,No Holiday
+9/23/2017,Saturday,September,87,68,No Holiday
+9/24/2017,Sunday,September,91,69,No Holiday
+9/25/2017,Monday,September,88,70,No Holiday
+9/26/2017,Tuesday,September,84,68,No Holiday
+9/27/2017,Wednesday,September,87,69,No Holiday
+9/28/2017,Thursday,September,79,59,No Holiday
+9/29/2017,Friday,September,68,55,No Holiday
+9/30/2017,Saturday,September,66,54,No Holiday
+10/1/2017,Sunday,October,68,50,No Holiday
+10/2/2017,Monday,October,73,52,No Holiday
+10/3/2017,Tuesday,October,71,57,No Holiday
+10/4/2017,Wednesday,October,75,56,No Holiday
+10/5/2017,Thursday,October,83,65,No Holiday
+10/6/2017,Friday,October,82,68,No Holiday
+10/7/2017,Saturday,October,81,66,No Holiday
+10/8/2017,Sunday,October,77,72,No Holiday
+10/9/2017,Monday,October,77,71,holiday
+10/10/2017,Tuesday,October,81,66,No Holiday
+10/11/2017,Wednesday,October,77,60,No Holiday
+10/12/2017,Thursday,October,64,55,No Holiday
+10/13/2017,Friday,October,67,52,No Holiday
+10/14/2017,Saturday,October,72,61,No Holiday
+10/15/2017,Sunday,October,74,65,No Holiday
+10/16/2017,Monday,October,69,46,No Holiday
+10/17/2017,Tuesday,October,58,42,No Holiday
+10/18/2017,Wednesday,October,72,50,No Holiday
+10/19/2017,Thursday,October,71,56,No Holiday
+10/20/2017,Friday,October,73,57,No Holiday
+10/21/2017,Saturday,October,78,56,No Holiday
+10/22/2017,Sunday,October,76,57,No Holiday
+10/23/2017,Monday,October,74,61,No Holiday
+10/24/2017,Tuesday,October,74,67,No Holiday
+10/25/2017,Wednesday,October,67,57,No Holiday
+10/26/2017,Thursday,October,58,50,No Holiday
+10/27/2017,Friday,October,62,47,No Holiday
+10/28/2017,Saturday,October,69,55,No Holiday
+10/29/2017,Sunday,October,67,60,No Holiday
+10/30/2017,Monday,October,61,46,No Holiday
+10/31/2017,Tuesday,October,57,45,No Holiday
+11/1/2017,Wednesday,November,59,43,No Holiday
+11/2/2017,Thursday,November,72,58,No Holiday
+11/3/2017,Friday,November,74,51,No Holiday
+11/4/2017,Saturday,November,56,46,No Holiday
+11/5/2017,Sunday,November,61,51,No Holiday
+11/6/2017,Monday,November,66,46,No Holiday
+11/7/2017,Tuesday,November,49,40,No Holiday
+11/8/2017,Wednesday,November,49,39,No Holiday
+11/9/2017,Thursday,November,55,39,No Holiday
+11/10/2017,Friday,November,51,25,No Holiday
+11/11/2017,Saturday,November,38,24,holiday
+11/12/2017,Sunday,November,46,32,No Holiday
+11/13/2017,Monday,November,47,39,No Holiday
+11/14/2017,Tuesday,November,48,35,No Holiday
+11/15/2017,Wednesday,November,51,37,No Holiday
+11/16/2017,Thursday,November,57,43,No Holiday
+11/17/2017,Friday,November,47,37,No Holiday
+11/18/2017,Saturday,November,56,34,No Holiday
+11/19/2017,Sunday,November,59,38,No Holiday
+11/20/2017,Monday,November,47,36,No Holiday
+11/21/2017,Tuesday,November,58,42,No Holiday
+11/22/2017,Wednesday,November,56,35,No Holiday
+11/23/2017,Thursday,November,43,31,holiday
+11/24/2017,Friday,November,50,35,No Holiday
+11/25/2017,Saturday,November,57,43,No Holiday
+11/26/2017,Sunday,November,51,40,No Holiday
+11/27/2017,Monday,November,51,39,No Holiday
+11/28/2017,Tuesday,November,54,36,No Holiday
+11/29/2017,Wednesday,November,63,42,No Holiday
+11/30/2017,Thursday,November,53,38,No Holiday
+12/1/2017,Friday,December,52,42,No Holiday
+12/2/2017,Saturday,December,48,39,No Holiday
+12/3/2017,Sunday,December,48,42,No Holiday
+12/4/2017,Monday,December,51,40,No Holiday
+12/5/2017,Tuesday,December,61,50,No Holiday
+12/6/2017,Wednesday,December,59,40,No Holiday
+12/7/2017,Thursday,December,44,37,No Holiday
+12/8/2017,Friday,December,39,34,No Holiday
+12/9/2017,Saturday,December,35,30,No Holiday
+12/10/2017,Sunday,December,39,29,No Holiday
+12/11/2017,Monday,December,41,33,No Holiday
+12/12/2017,Tuesday,December,50,29,No Holiday
+12/13/2017,Wednesday,December,31,20,No Holiday
+12/14/2017,Thursday,December,32,22,No Holiday
+12/15/2017,Friday,December,28,20,No Holiday
+12/16/2017,Saturday,December,39,23,No Holiday
+12/17/2017,Sunday,December,38,32,No Holiday
+12/18/2017,Monday,December,47,34,No Holiday
+12/19/2017,Tuesday,December,55,45,No Holiday
+12/20/2017,Wednesday,December,51,34,No Holiday
+12/21/2017,Thursday,December,39,32,No Holiday
+12/22/2017,Friday,December,50,35,No Holiday
+12/23/2017,Saturday,December,48,38,No Holiday
+12/24/2017,Sunday,December,41,36,No Holiday
+12/25/2017,Monday,December,38,28,holiday
+12/26/2017,Tuesday,December,28,23,No Holiday
+12/27/2017,Wednesday,December,24,17,No Holiday
+12/28/2017,Thursday,December,18,11,No Holiday
+12/29/2017,Friday,December,22,11,No Holiday
+12/30/2017,Saturday,December,23,17,No Holiday
+12/31/2017,Sunday,December,21,9,No Holiday
