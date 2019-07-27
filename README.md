@@ -52,10 +52,27 @@ import datetime as dt
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
 The crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs from 2006 to 2017.
 
+Pandas is a wonderful python library when working with dataFrames for data analysis, but it has limitations when it comes to large datasets. With 6.5 million rows of crime data, loading the csv file and displaying the entire dataset on pandas will take some time. This issue can be resolved by loading the dataset into relational SQL servers such as MySQL to query the data. Another solution is to load the data into big data platforms such as Hadoop.
+
 <a name="DataCleaning"></a>
 ## Data Cleaning
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
-With 
+
+To clean up the large crime data, the dataset was filtered out within three categories:
+NYPD jurisdiction,
+[jurisdiction image]
+dates of crime occurences from 2006 to 2017,
+[date image]
+and proper age groups.
+[age image]
+
+dropping unnecessary columns
+
+renaming short-handed nomenclature into more proper column names
+
+consolidating similar crime types
+
+reverse geocoding
 
 <a name="DataVisualization"></a>
 ## Data Visualization
