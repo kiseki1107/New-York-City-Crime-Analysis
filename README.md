@@ -13,7 +13,7 @@
 
 <a name="Introduction"></a>
 ## Introduction
-Provided publically by New York City agencies, the NYC crime open data can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i). Obtained through using API or exporting a CSV file, the crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs of the city from 2006 to 2017. The purpose of this project is to analyze how the crime rate in the city of New York has changed within a decade since 2006. Additonally, this project seeks to utilize machine learning to predict crime rate occurences based on incident location.
+The city of New York is one of the most populous city in United States. Provided publically by New York City agencies, the NYC crime open data can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i). The purpose of this project is to analyze how the crime rate in New York City has changed within a decade since 2006. Additonally, this project seeks to utilize machine learning to predict crime rate occurences based on incident location.
 
 <a name="Methods"></a>
 ### Methods
@@ -30,6 +30,8 @@ Provided publically by New York City agencies, the NYC crime open data can be fo
 * Python
 * HTML5
 * Excel
+* Flask
+* Tableau
 
 <a name="Dependencies"></a>
 ### Dependencies 
@@ -48,10 +50,12 @@ import datetime as dt
 <a name="DataCollection"></a>
 ## Data Collection
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
+The crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs from 2006 to 2017.
 
 <a name="DataCleaning"></a>
 ## Data Cleaning
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
+With 
 
 <a name="DataVisualization"></a>
 ## Data Visualization
