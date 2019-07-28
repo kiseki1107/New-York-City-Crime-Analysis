@@ -60,18 +60,24 @@ Pandas is a wonderful python library when working with dataFrames for data analy
 
 To clean up the large crime data, the dataset was filtered out within three categories:
 NYPD jurisdiction only,
-[jurisdiction image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/NYPD_filter.png)
+
+![jurisdiction image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/NYPD_filter.png)
+
 dates of crime occurences strictly from 2006 to 2017,
-[date image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/date_filter.png)
+
+![date image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/date_filter.png)
+
 and proper age groups.
-[age image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter.png)
-[age image 2](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter_2.png)
+
+![age image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter.png)
+![age image 2](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter_2.png)
 
 dropping unnecessary columns
 
 renaming short-handed nomenclature into more proper column names
 
 consolidating similar crime types
+
 [same crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/similar_crime.png)
 reverse geocoding
 
