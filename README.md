@@ -59,6 +59,7 @@ Pandas is a wonderful python library when working with dataFrames for data analy
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
 
 To clean up the large crime data, the dataset was filtered out within three categories:
+
 NYPD jurisdiction only,
 
 ![jurisdiction image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/NYPD_filter.png)
