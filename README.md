@@ -78,7 +78,7 @@ renaming short-handed nomenclature into more proper column names
 
 consolidating similar crime types
 
-[same crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/similar_crime.png)
+![same crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/similar_crime.png)
 reverse geocoding
 
 <a name="DataVisualization"></a>
