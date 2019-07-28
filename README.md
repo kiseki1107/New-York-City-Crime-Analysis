@@ -13,7 +13,7 @@
 
 <a name="Introduction"></a>
 ## Introduction
-The city of New York is one of the most populous city in United States. Provided publically by New York City agencies, the NYC crime open data can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i). The purpose of this project is to analyze how the crime rate in New York City has changed within a decade since 2006. Additonally, this project seeks to utilize machine learning to predict crime rate occurences based on incident location.
+The city of New York is one of the most populous city in the United States. Provided publically by New York City agencies, the NYC crime open data can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i). The purpose of this project is to analyze how the crime rate in New York City has changed within a decade since 2006. Additonally, this project seeks to utilize machine learning to predict crime rate occurences based on incident location.
 
 <a name="Methods"></a>
 ### Methods
@@ -49,8 +49,8 @@ import datetime as dt
 
 <a name="DataCollection"></a>
 ## Data Collection
-[Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
-The crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs from 2006 to 2017.
+[Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_age.ipynb) for code reference.
+The crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs mostly from 2006 to 2017.
 
 Pandas is a wonderful python library when working with dataFrames for data analysis, but it has limitations when it comes to large datasets. With 6.5 million rows of crime data, loading the csv file and displaying the entire dataset on pandas will take some time. This issue can be resolved by loading the dataset into relational SQL servers such as MySQL to query the data. Another solution is to load the data into big data platforms such as Hadoop.
 
@@ -59,9 +59,9 @@ Pandas is a wonderful python library when working with dataFrames for data analy
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_5mil.ipynb) for code reference.
 
 To clean up the large crime data, the dataset was filtered out within three categories:
-NYPD jurisdiction,
+NYPD jurisdiction only,
 [jurisdiction image]
-dates of crime occurences from 2006 to 2017,
+dates of crime occurences strictly from 2006 to 2017,
 [date image]
 and proper age groups.
 [age image]
