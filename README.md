@@ -65,10 +65,12 @@ NYPD jurisdiction only,
 ![jurisdiction image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/NYPD_filter.png)
 
 dates of crime occurences strictly from 2006 to 2017,
+`Note: the dataset provides the dates in the form of strings, so the strings must be converted into datetime data types.` 
 
 ![date image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/date_filter.png)
 
 and proper age groups.
+`Note: the age groups were defined for the age of crime victims and suspects. The NYC crime dataset includes complaints not only by individuals but also by large groups of people such as businesses, residents, and communities. There are also numbers within the age data that did not make sense, so, for this reason, the age groups were chosen within the lifespan of an individual. The 'Unknown' was also selected due to the fact that, sometimes, reported crimes do not document or even know the age of the victim/suspect.` 
 
 ![age image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter.png)
 ![age image 2](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter_2.png)
