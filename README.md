@@ -114,7 +114,7 @@ A detailed demographic visualization of reported victims.
 
 ![top crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/top%20offense.png)
 
-The top five types of crimes reported in New York City.
+The top five types of crimes reported in New York City with larceny and theft being the most committed criminal offense.
 
 <a name="MachineLearning"></a>
 ## Machine Learning
