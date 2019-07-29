@@ -90,7 +90,6 @@ The above image is an example of converting similar crimes such as "CONSPIRACY 2
 The following visualizations are created with [Tableau](https://public.tableau.com/en-us/s/).
 
 ![crime over time](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_by_year.png)
-
 ![crime by year](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/YearlyCrimesBoro.png)
 
 ![crime by month](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/CrimesMonth.png)
