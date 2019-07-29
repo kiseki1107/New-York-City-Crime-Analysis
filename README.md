@@ -90,17 +90,31 @@ The following visualizations are created with [Tableau](https://public.tableau.c
 
 ![crime over time](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_by_year.png)
 
+The total number of crimes reported over a decade from 2006 to 2017. There is an apparent declining trend over time.
+
 ![crime by year](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/YearlyCrimesBoro.png)
+
+The total number of crimes reported per year from each of the five boroughs. The declining trend here is less noticeable but there is a falling pattern. Also, note the great difference between crimes reported in Brooklyn versus crimes reported in Staten Island.  
 
 ![crime by month](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/CrimesMonth.png)
 
+Crimes reported per month displays seasonal crime patterns where crimes are more frequent during the summer, and less frequent during the winter.
+
 ![crime type by boro](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_level_by_boro.png)
+
+A more descriptive visualization of the level of crimes committed by borough.
 
 ![crime suspect](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/suspect_crime_data.png)
 
+A detailed demographic visualization of reported perpetrators.
+
 ![crime victim](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/victim_crime_data.png)
 
+A detailed demographic visualization of reported victims.
+
 ![top crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/top%20offense.png)
+
+The top five types of crimes reported in New York City.
 
 <a name="MachineLearning"></a>
 ## Machine Learning
