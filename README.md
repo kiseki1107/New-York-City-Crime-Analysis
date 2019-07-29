@@ -76,7 +76,6 @@ The dataset provides the dates in the form of strings, so the strings must be co
 The age groups were defined for the age of crime victims and suspects. The NYC crime dataset includes complaints not only by individuals but also by large groups of people such as businesses, residents, and communities. There are also numbers within the age data that did not make sense, so, for this reason, the age groups were chosen within the lifespan of an individual. The 'Unknown' was also selected due to the fact that, sometimes, reported crimes do not document or even know the age of the victim/suspect.
 
 ![age image](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter.png)
-![age image 2](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/age_filter_2.png)
 
 Additionally, further cleaning was performed on the NYC crime data to make the data more coherent and accessible. These include dropping unnecessary columns, renaming short-handed nomenclature into more comprehensible column names, and consolidating identical crime types.
 
