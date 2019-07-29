@@ -89,17 +89,18 @@ The above image is an example of converting similar crimes such as "CONSPIRACY 2
 
 The following visualizations are created with [Tableau](https://public.tableau.com/en-us/s/).
 
-![crime over time]()
+![crime over time](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_by_year.png)
 
-![crime by year]()
+![crime by year](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/YearlyCrimesBoro.png)
 
-![crime by month]()
+![crime by month](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/CrimesMonth.png)
 
-![crime type by boro](
+![crime type by boro](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_level_by_boro.png)
 
-![crime suspect]
+![crime suspect](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/suspect_crime_data.png)
 
-![crime victim]
+![crime victim](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/victim_crime_data.png)
+
 
 <a name="MachineLearning"></a>
 ## Machine Learning
