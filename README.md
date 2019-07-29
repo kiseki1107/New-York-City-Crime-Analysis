@@ -50,6 +50,7 @@ import datetime as dt
 <a name="DataCollection"></a>
 ## Data Collection
 [Click here](https://github.com/kiseki1107/New-York-City-Crime-Analysis/blob/master/nycrime_pre-ML/nycrime_age.ipynb) for code reference.
+
 The crime dataset contains roughly 6.5 million NYPD reports/complaints throughout the five boroughs mostly from 2006 to 2017.
 
 Pandas is a wonderful python library when working with dataFrames for data analysis, but it has limitations when it comes to large datasets. With 6.5 million rows of crime data, loading the csv file and displaying the entire dataset on pandas will take some time. This issue can be resolved by loading the dataset into relational SQL servers such as MySQL to query the data. Another solution is to load the data into big data platforms such as Hadoop.
@@ -81,7 +82,7 @@ Additionally, further cleaning was performed on the NYC crime data to make the d
 
 ![same crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/similar_crime.png)
 
-reverse geocoding
+The above image is an example of converting similar crimes such as "CONSPIRACY 2, 1", "CONSPIRACY, 4, 3", and "CONSPIRACY 6, 5" into simply, "CONSPIRACY".
 
 <a name="DataVisualization"></a>
 ## Data Visualization
