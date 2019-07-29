@@ -86,7 +86,7 @@ The above image is an example of converting similar crimes such as "CONSPIRACY 2
 <a name="DataVisualization"></a>
 ## Data Visualization
 
-The following visualizations are created with [Tableau](https://public.tableau.com/en-us/s/).
+The following visualizations are created with [Tableau](https://public.tableau.com/en-us/s/). These visualizations for the NYC crime data can also be viewed [here](https://public.tableau.com/profile/clarence.li#!/vizhome/nycrime/TotalCrime_OverTime).
 
 ![crime over time](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/crime_by_year.png)
 
@@ -115,6 +115,8 @@ A detailed demographic visualization of reported victims.
 ![top crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/top%20offense.png)
 
 The top five types of crimes reported in New York City with larceny and theft being the most committed criminal offense.
+
+For additional and more interactive visualizations, visit the project's tableau link [here](https://public.tableau.com/profile/clarence.li#!/vizhome/nycrime/TotalCrime_OverTime).
 
 <a name="MachineLearning"></a>
 ## Machine Learning
