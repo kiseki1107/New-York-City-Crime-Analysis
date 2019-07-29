@@ -100,7 +100,7 @@ The following visualizations are created with [Tableau](https://public.tableau.c
 
 ![crime victim](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/victim_crime_data.png)
 
-![top crime]()
+![top crime](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Tableau/top%20offense.png)
 
 <a name="MachineLearning"></a>
 ## Machine Learning
