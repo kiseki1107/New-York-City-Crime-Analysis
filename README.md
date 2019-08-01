@@ -120,6 +120,10 @@ For additional and more interactive visualizations, visit the project's tableau 
 
 <a name="MachineLearning"></a>
 ## Machine Learning
+Machine learning algorithms were attempted in this project to predict the number of crimes that may occur at a specific defined location. To test the prediction, a linear regression model was utilized with parameters such as the times of the year, New York City locations, and weather trends.
+
+With the crime data split into training and testing points, the following result are as follows:
+![crime_ml](https://raw.githubusercontent.com/kiseki1107/New-York-City-Crime-Analysis/master/Images/crime_ml.png)
 
 <a name="PresentationSlides"></a>
 ## Further Notes
